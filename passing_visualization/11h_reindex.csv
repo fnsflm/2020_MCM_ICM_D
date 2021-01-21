@@ -1,1517 +1,736 @@
-EventTime,MatchID,TeamID,OriginPlayerID,DestinationPlayerID,MatchPeriod,EventTime,EventType,EventSubType,EventOrigin_x,EventOrigin_y,EventDestination_x,EventDestination_y
-31.174681,1,Opponent1,Opponent1_D2,,1H,127.72578,Free Kick,Throw in,34.0,0.0,66.0,9.0
-33.730326,1,Huskies,Huskies_F1,,1H,134.603958,Duel,Ground defending duel,52.0,97.0,47.0,100.0
-33.812965000000005,1,Huskies,Huskies_F1,,1H,134.603958,Duel,Ground defending duel,52.0,97.0,47.0,100.0
-42.611028000000005,1,Huskies,Huskies_G1,,1H,176.839196,Pass,Launch,9.0,82.0,62.0,91.0
-46.323501,1,Huskies,Huskies_D1,,1H,183.987009,Duel,Ground loose ball duel,35.0,90.0,28.0,94.0
-47.004714,1,Opponent1,Opponent1_M1,,1H,184.284749,Duel,Ground loose ball duel,65.0,10.0,72.0,6.0
-47.213716,1,Opponent1,Opponent1_M1,,1H,184.284749,Duel,Ground loose ball duel,65.0,10.0,72.0,6.0
-48.487897,1,Huskies,Huskies_D1,,1H,188.328112,Others on the ball,Touch,28.0,94.0,32.0,90.0
-49.880983,1,Opponent1,Opponent1_M1,,1H,188.662037,Duel,Ground attacking duel,68.0,10.0,75.0,0.0
-50.109404,1,Huskies,Huskies_D1,,1H,190.329509,Duel,Ground defending duel,32.0,90.0,25.0,100.0
-51.022546000000006,1,Huskies,Huskies_D1,,1H,201.192228,Free Kick,Throw in,25.0,100.0,39.0,95.0
-51.624604,1,Huskies,Huskies_D1,,1H,201.192228,Free Kick,Throw in,25.0,100.0,39.0,95.0
-62.221515000000004,1,Huskies,Huskies_M2,,1H,240.70691499999998,Duel,Air duel,26.0,33.0,17.0,92.0
-85.96226300000001,1,Huskies,Huskies_D1,Huskies_M3,1H,325.77882999999997,Pass,Simple pass,19.0,98.0,35.0,86.0
-89.008721,1,Huskies,Huskies_M1,,1H,342.429756,Free Kick,Throw in,61.0,100.0,66.0,93.0
-92.21616,1,Huskies,Huskies_F3,,1H,345.483218,Duel,Ground loose ball duel,53.0,89.0,48.0,86.0
-95.97841600000001,1,Huskies,Huskies_D3,Huskies_M3,1H,352.602839,Pass,Simple pass,47.0,27.0,45.0,40.0
-96.945738,1,Huskies,Huskies_M3,Huskies_D3,1H,354.42474599999997,Pass,Simple pass,45.0,40.0,47.0,12.0
-98.265191,1,Opponent1,Opponent1_G1,,1H,376.493622,Free Kick,Goal kick,100.0,100.0,19.0,68.0
-99.398625,1,Opponent1,Opponent1_D4,Opponent1_M3,1H,380.02212000000003,Pass,Simple pass,19.0,68.0,27.0,65.0
-99.759819,1,Opponent1,Opponent1_D4,Opponent1_M3,1H,380.02212000000003,Pass,Simple pass,19.0,68.0,27.0,65.0
-103.356274,1,Huskies,Huskies_G1,Huskies_D1,1H,390.709116,Pass,Hand pass,8.0,55.0,25.0,94.0
-105.00381499999999,1,Huskies,Huskies_D2,Huskies_D3,1H,398.39209900000003,Pass,Simple pass,24.0,55.0,24.0,20.0
-106.13960800000001,1,Huskies,Huskies_D3,Huskies_M2,1H,401.473688,Pass,Simple pass,24.0,20.0,33.0,20.0
-107.847835,1,Huskies,Huskies_M2,Huskies_M3,1H,402.505899,Pass,Simple pass,33.0,20.0,33.0,35.0
-108.290691,1,Huskies,Huskies_M3,Huskies_D3,1H,403.23103,Pass,Simple pass,33.0,35.0,24.0,24.0
-109.025545,1,Huskies,Huskies_D3,Huskies_D2,1H,405.51327799999996,Pass,Simple pass,24.0,24.0,29.0,68.0
-111.025997,1,Huskies,Huskies_D1,Huskies_M1,1H,411.012684,Pass,Simple pass,25.0,88.0,31.0,99.0
-112.856148,1,Huskies,Huskies_M1,Huskies_D1,1H,413.899208,Pass,Simple pass,31.0,99.0,27.0,88.0
-115.289285,1,Huskies,Huskies_D3,Huskies_M2,1H,421.15364400000004,Pass,Simple pass,37.0,14.0,42.0,16.0
-116.880164,1,Huskies,Huskies_M2,Huskies_D2,1H,423.251583,Pass,Simple pass,42.0,16.0,36.0,54.0
-127.72578,1,Opponent1,Opponent1_D2,Opponent1_D1,1H,452.24935899999997,Pass,High pass,51.0,13.0,84.0,12.0
-130.65653,1,Huskies,Huskies_M3,Huskies_D1,1H,470.526751,Pass,Simple pass,38.0,74.0,23.0,81.0
-134.603958,1,Huskies,Huskies_D2,Huskies_M3,1H,483.459683,Pass,Simple pass,35.0,59.0,37.0,42.0
-148.68747,1,Opponent1,Opponent1_F3,,1H,521.958665,Pass,Cross,99.0,72.0,100.0,100.0
-151.85275,1,Huskies,Huskies_F2,,1H,564.346571,Others on the ball,Clearance,3.0,42.0,0.0,49.0
-154.636116,1,Opponent1,Opponent1_M3,Opponent1_D1,1H,605.781783,Pass,Simple pass,62.0,68.0,55.0,29.0
-158.518016,1,Opponent1,Opponent1_F2,Opponent1_M2,1H,614.115182,Pass,Smart pass,67.0,14.0,90.0,7.0
-161.22146999999998,1,Opponent1,Opponent1_M2,,1H,621.4821910000001,Duel,Ground defending duel,93.0,7.0,94.0,16.0
-164.626056,1,Opponent1,Opponent1_F2,,1H,630.7856879999999,Pass,Simple pass,75.0,10.0,69.0,32.0
-169.314197,1,Opponent1,Opponent1_M1,,1H,634.804605,Duel,Ground loose ball duel,68.0,28.0,74.0,31.0
-171.93773000000002,1,Huskies,Huskies_D2,,1H,636.694376,Duel,Ground defending duel,29.0,68.0,20.0,67.0
-176.839196,1,Huskies,Huskies_M3,Huskies_M2,1H,648.45343,Pass,Simple pass,44.0,35.0,58.0,25.0
-180.250219,1,Huskies,Huskies_M1,Huskies_D2,1H,658.984182,Pass,Simple pass,46.0,66.0,35.0,53.0
-180.83230600000002,1,Huskies,Huskies_M1,Huskies_D2,1H,658.984182,Pass,Simple pass,46.0,66.0,35.0,53.0
-183.458434,1,Huskies,Huskies_D4,Huskies_D3,1H,664.192536,Pass,Simple pass,44.0,9.0,29.0,28.0
-183.987009,1,Huskies,Huskies_D4,Huskies_D3,1H,664.192536,Pass,Simple pass,44.0,9.0,29.0,28.0
-184.284749,1,Huskies,Huskies_D3,Huskies_D1,1H,666.3982990000001,Pass,Simple pass,29.0,28.0,30.0,88.0
-188.328112,1,Huskies,Huskies_D2,Huskies_D3,1H,679.627443,Pass,Simple pass,39.0,58.0,42.0,22.0
-188.662037,1,Huskies,Huskies_D2,Huskies_D3,1H,679.627443,Pass,Simple pass,39.0,58.0,42.0,22.0
-190.329509,1,Huskies,Huskies_D4,,1H,683.9791759999999,Pass,High pass,45.0,7.0,86.0,29.0
-201.192228,1,Huskies,Huskies_F2,,1H,721.765261,Duel,Ground loose ball duel,88.0,27.0,84.0,30.0
-203.18357,1,Opponent1,Opponent1_D4,,1H,724.4356730000001,Duel,Ground defending duel,16.0,70.0,17.0,55.0
-203.344659,1,Opponent1,Opponent1_D4,,1H,724.4356730000001,Duel,Ground defending duel,16.0,70.0,17.0,55.0
-206.59909,1,Opponent1,Opponent1_M2,,1H,761.449998,Pass,Simple pass,74.0,95.0,69.0,96.0
-206.873669,1,Opponent1,Opponent1_M2,,1H,761.449998,Pass,Simple pass,74.0,95.0,69.0,96.0
-209.472692,1,Huskies,Huskies_D2,Huskies_D1,1H,768.9595059999999,Pass,Simple pass,28.0,46.0,27.0,75.0
-236.075554,1,Huskies,Huskies_D2,,1H,875.2345960000001,Others on the ball,Touch,11.0,46.0,41.0,13.0
-238.031525,1,Huskies,Huskies_M2,Huskies_F3,1H,877.617215,Pass,Simple pass,37.0,25.0,44.0,11.0
-239.47856800000002,1,Huskies,Huskies_F3,,1H,879.947369,Pass,High pass,44.0,11.0,47.0,45.0
-239.989913,1,Huskies,Huskies_F3,,1H,879.947369,Pass,High pass,44.0,11.0,47.0,45.0
-240.30575499999998,1,Opponent1,Opponent1_M3,,1H,880.624377,Pass,Head pass,53.0,55.0,67.0,46.0
-240.70691499999998,1,Opponent1,Opponent1_M3,,1H,880.624377,Pass,Head pass,53.0,55.0,67.0,46.0
-247.469049,1,Huskies,Huskies_F3,,1H,892.350866,Offside,,76.0,8.0,0.0,0.0
-249.694665,1,Opponent1,Opponent1_G1,Opponent1_D2,1H,907.768956,Pass,Simple pass,19.0,61.0,42.0,16.0
-251.513079,1,Opponent1,Opponent1_F1,,1H,913.594924,Duel,Air duel,85.0,48.0,71.0,21.0
-257.29520299999996,1,Huskies,Huskies_M3,,1H,926.623721,Duel,Ground attacking duel,33.0,34.0,34.0,23.0
-259.61498900000004,1,Huskies,Huskies_D3,,1H,937.663159,Free Kick,Free Kick,28.0,24.0,28.0,49.0
-263.911988,1,Huskies,Huskies_M1,,1H,946.326274,Duel,Ground attacking duel,67.0,95.0,70.0,93.0
-266.637152,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,948.6267939999999,Pass,Simple pass,30.0,16.0,37.0,33.0
-267.581741,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,952.7279269999999,Pass,Simple pass,37.0,33.0,47.0,54.0
-286.49734,1,Huskies,Huskies_M2,,1H,1010.1764710000001,Duel,Ground defending duel,23.0,29.0,16.0,32.0
-288.281009,1,Huskies,Huskies_D3,,1H,1011.1845,Duel,Ground defending duel,16.0,32.0,23.0,67.0
-291.122151,1,Opponent1,Opponent1_M2,Opponent1_M2,1H,1017.845967,Pass,Simple pass,78.0,18.0,74.0,8.0
-294.666496,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,1025.4887210000002,Pass,Simple pass,69.0,58.0,64.0,53.0
-298.519487,1,Huskies,Huskies_F2,,1H,1035.552349,Duel,Ground defending duel,34.0,33.0,37.0,31.0
-301.877951,1,Opponent1,Opponent1_D3,,1H,1053.572422,Duel,Ground attacking duel,80.0,84.0,80.0,84.0
-314.678208,1,Huskies,Huskies_D3,Huskies_D1,1H,1114.347374,Pass,Simple pass,58.0,8.0,41.0,73.0
-317.00011800000004,1,Opponent1,Opponent1_D4,,1H,1122.780002,Pass,Head pass,24.0,33.0,38.0,38.0
-317.43174799999997,1,Opponent1,Opponent1_D4,,1H,1122.780002,Pass,Head pass,24.0,33.0,38.0,38.0
-318.875721,1,Huskies,Huskies_M3,Huskies_M1,1H,1124.0566210000002,Pass,Simple pass,62.0,62.0,62.0,72.0
-320.770799,1,Huskies,Huskies_F2,Huskies_M1,1H,1129.81297,Pass,Simple pass,70.0,78.0,74.0,60.0
-321.885615,1,Huskies,Huskies_M1,,1H,1130.595995,Pass,Simple pass,74.0,60.0,75.0,28.0
-323.965809,1,Opponent1,Opponent1_F1,,1H,1136.463856,Duel,Air duel,44.0,13.0,29.0,8.0
-324.304095,1,Huskies,Huskies_D1,,1H,1137.392687,Duel,Air duel,56.0,87.0,71.0,92.0
-325.77882999999997,1,Opponent1,Opponent1_D1,,1H,1138.947548,Pass,Simple pass,29.0,8.0,21.0,0.0
-329.565823,1,Huskies,Huskies_F2,Huskies_D3,1H,1150.556157,Pass,Simple pass,68.0,83.0,66.0,38.0
-331.792997,1,Huskies,Huskies_D4,,1H,1156.67177,Pass,Simple pass,79.0,4.0,74.0,6.0
-332.298514,1,Opponent1,Opponent1_F3,,1H,1157.3796810000001,Others on the ball,Touch,26.0,94.0,25.0,82.0
-342.429756,1,Huskies,Huskies_M1,,1H,1186.56559,Duel,Ground attacking duel,65.0,61.0,79.0,72.0
-343.783009,1,Opponent1,Opponent1_F2,,1H,1187.158689,Duel,Ground defending duel,35.0,39.0,21.0,28.0
-344.974937,1,Huskies,Huskies_M1,,1H,1190.187435,Shot,Shot,79.0,72.0,0.0,0.0
-345.483218,1,Opponent1,Opponent1_G1,,1H,1192.8688730000001,Save attempt,Save attempt,100.0,100.0,21.0,28.0
-346.095817,1,Opponent1,Opponent1_D2,Opponent1_G1,1H,1212.753315,Pass,Simple pass,33.0,14.0,18.0,55.0
-349.65180499999997,1,Huskies,Huskies_D3,,1H,1231.617294,Duel,Air duel,24.0,12.0,23.0,24.0
-352.602839,1,Huskies,Huskies_D4,Huskies_D2,1H,1237.056443,Pass,Simple pass,19.0,5.0,21.0,39.0
-354.42474599999997,1,Huskies,Huskies_D1,Huskies_M1,1H,1243.2778779999999,Pass,Simple pass,27.0,76.0,40.0,96.0
-356.394218,1,Huskies,Huskies_F1,,1H,1250.066342,Offside,,74.0,98.0,0.0,0.0
-376.493622,1,Huskies,Huskies_D2,Huskies_D3,1H,1338.621719,Pass,Simple pass,53.0,78.0,61.0,18.0
-380.02212000000003,1,Huskies,Huskies_D1,Huskies_M1,1H,1355.635433,Pass,Simple pass,62.0,99.0,58.0,93.0
-380.840808,1,Huskies,Huskies_D1,Huskies_M1,1H,1355.635433,Pass,Simple pass,62.0,99.0,58.0,93.0
-383.03896299999997,1,Huskies,Huskies_D3,Huskies_M2,1H,1364.5522369999999,Pass,Simple pass,53.0,29.0,65.0,22.0
-386.393817,1,Huskies,Huskies_M3,Huskies_M2,1H,1367.816744,Pass,Simple pass,60.0,33.0,57.0,23.0
-390.709116,1,Huskies,Huskies_D2,Huskies_D1,1H,1377.038876,Pass,Simple pass,47.0,56.0,60.0,87.0
-395.609802,1,Opponent1,Opponent1_F3,,1H,1390.196019,Others on the ball,Touch,5.0,93.0,6.0,100.0
-398.39209900000003,1,Huskies,Huskies_F3,,1H,1398.221988,Duel,Ground attacking duel,94.0,24.0,97.0,22.0
-401.473688,1,Huskies,Huskies_F2,,1H,1427.438843,Free Kick,Corner,100.0,0.0,83.0,59.0
-402.505899,1,Huskies,Huskies_M1,,1H,1430.877737,Shot,Shot,83.0,59.0,0.0,0.0
-403.23103,1,Opponent1,Opponent1_G1,,1H,1467.2120710000002,Free Kick,Goal kick,100.0,100.0,53.0,96.0
-405.51327799999996,1,Huskies,Huskies_M3,,1H,1474.6106630000002,Pass,Head pass,44.0,27.0,57.0,20.0
-409.395151,1,Opponent1,Opponent1_D2,,1H,1477.6845560000002,Pass,Launch,35.0,48.0,50.0,87.0
-411.012684,1,Huskies,Huskies_D4,Huskies_D3,1H,1482.4715130000002,Pass,Simple pass,50.0,7.0,39.0,15.0
-413.899208,1,Opponent1,Opponent1_D3,,1H,1485.473184,Others on the ball,Clearance,29.0,92.0,43.0,100.0
-415.523873,1,Huskies,Huskies_F3,Huskies_D3,1H,1497.018515,Pass,Simple pass,57.0,10.0,53.0,5.0
-417.778381,1,Opponent1,Opponent1_D3,,1H,1511.1455019999999,Free Kick,Throw in,30.0,100.0,57.0,90.0
-421.15364400000004,1,Huskies,Huskies_D2,,1H,1516.2159980000001,Duel,Ground defending duel,27.0,9.0,24.0,0.0
-423.251583,1,Huskies,Huskies_D4,,1H,1534.648148,Free Kick,Throw in,24.0,0.0,11.0,18.0
-426.777238,1,Huskies,Huskies_F1,,1H,1546.448624,Pass,Simple pass,39.0,98.0,44.0,64.0
-429.55057300000004,1,Opponent1,Opponent1_M1,,1H,1549.97065,Foul,Foul,56.0,36.0,54.0,15.0
-430.165209,1,Huskies,Huskies_F2,Huskies_M3,1H,1563.5650890000002,Pass,Simple pass,53.0,75.0,41.0,75.0
-430.180392,1,Huskies,Huskies_F2,Huskies_M3,1H,1563.5650890000002,Pass,Simple pass,53.0,75.0,41.0,75.0
-432.039458,1,Huskies,Huskies_D1,Huskies_D2,1H,1566.797006,Pass,Simple pass,35.0,79.0,31.0,47.0
-435.13183200000003,1,Huskies,Huskies_M2,Huskies_D3,1H,1574.779483,Pass,Simple pass,61.0,17.0,58.0,39.0
-437.284701,1,Huskies,Huskies_M1,Huskies_M3,1H,1587.2099759999999,Pass,Simple pass,47.0,71.0,40.0,81.0
-440.931405,1,Huskies,Huskies_F2,Huskies_D3,1H,1598.02757,Pass,Simple pass,48.0,26.0,66.0,7.0
-446.42999000000003,1,Huskies,Huskies_M1,,1H,1631.650483,Duel,Ground attacking duel,47.0,45.0,47.0,42.0
-448.82333700000004,1,Huskies,Huskies_F2,,1H,1633.758439,Others on the ball,Touch,56.0,34.0,71.0,25.0
-452.24935899999997,1,Opponent1,Opponent1_M1,,1H,1642.56418,Duel,Ground defending duel,26.0,75.0,29.0,74.0
-457.0391,1,Huskies,Huskies_M3,,1H,1645.8772960000001,Duel,Ground loose ball duel,62.0,25.0,67.0,24.0
-469.359989,1,Huskies,Huskies_D1,Huskies_D2,1H,1677.421522,Pass,Simple pass,42.0,85.0,35.0,57.0
-470.526751,1,Huskies,Huskies_D2,Huskies_D3,1H,1679.747834,Pass,Simple pass,35.0,57.0,46.0,19.0
-472.345004,1,Huskies,Huskies_D4,Huskies_M3,1H,1685.5923440000001,Pass,Simple pass,49.0,5.0,55.0,18.0
-475.81912,1,Huskies,Huskies_D4,,1H,1691.412407,Pass,Simple pass,50.0,6.0,62.0,28.0
-478.063252,1,Opponent1,Opponent1_M2,,1H,1698.90762,Duel,Ground attacking duel,75.0,31.0,77.0,24.0
-483.459683,1,Huskies,Huskies_F2,,1H,1711.538284,Duel,Ground attacking duel,55.0,86.0,56.0,84.0
-486.90414599999997,1,Huskies,Huskies_M3,Huskies_D3,1H,1750.189462,Pass,Simple pass,54.0,40.0,59.0,13.0
-488.642046,1,Huskies,Huskies_D2,Huskies_F2,1H,1757.479116,Pass,Simple pass,59.0,52.0,63.0,87.0
-492.913649,1,Opponent1,Opponent1_F2,Opponent1_D4,1H,1794.176617,Pass,Simple pass,68.0,18.0,51.0,49.0
-495.20349699999997,1,Opponent1,Opponent1_F1,Opponent1_D1,1H,1804.6708820000001,Pass,Simple pass,90.0,15.0,73.0,8.0
-499.17736900000006,1,Huskies,Huskies_D2,Huskies_G1,1H,1812.953534,Pass,Simple pass,9.0,76.0,8.0,51.0
-502.131891,1,Huskies,Huskies_D1,Huskies_D2,1H,1829.697402,Pass,Simple pass,23.0,88.0,30.0,56.0
-504.396917,1,Huskies,Huskies_D3,Huskies_M3,1H,1836.667946,Pass,Simple pass,32.0,15.0,31.0,30.0
-506.680864,1,Huskies,Huskies_D2,Huskies_D1,1H,1841.354526,Pass,Simple pass,24.0,66.0,29.0,87.0
-510.87465499999996,1,Huskies,Huskies_D1,Huskies_M1,1H,1851.737334,Pass,Simple pass,59.0,88.0,59.0,96.0
-512.290179,1,Huskies,Huskies_F1,Huskies_M1,1H,1857.8276870000002,Pass,Simple pass,65.0,97.0,35.0,98.0
-515.234796,1,Huskies,Huskies_D2,Huskies_D3,1H,1867.0267489999999,Pass,Simple pass,36.0,49.0,43.0,7.0
-516.923641,1,Huskies,Huskies_D3,Huskies_F2,1H,1871.0774390000001,Pass,Simple pass,43.0,7.0,62.0,15.0
-520.306956,1,Opponent1,Opponent1_D4,,1H,1884.766971,Pass,Head pass,16.0,63.0,42.0,44.0
-521.958665,1,Huskies,Huskies_M3,Huskies_D1,1H,1888.7192929999999,Pass,Simple pass,58.0,56.0,58.0,90.0
-525.38964,1,Opponent1,Opponent1_F2,,1H,1899.710306,Others on the ball,Touch,39.0,17.0,36.0,17.0
-560.069695,1,Opponent1,Opponent1_F2,,1H,2089.63986,Duel,Ground attacking duel,81.0,22.0,88.0,24.0
-564.346571,1,Huskies,Huskies_M1,Huskies_M3,1H,2118.7642739999997,Pass,Simple pass,39.0,96.0,43.0,88.0
-601.18855,1,Huskies,Huskies_M2,,1H,2220.396416,Others on the ball,Touch,21.0,69.0,44.0,65.0
-603.6835679999999,1,Huskies,Huskies_M3,Huskies_F2,1H,2226.609406,Pass,Simple pass,36.0,54.0,44.0,52.0
-605.781783,1,Opponent1,Opponent1_D2,,1H,2232.640552,Others on the ball,Clearance,20.0,15.0,25.0,0.0
-607.6659480000001,1,Huskies,Huskies_F3,,1H,2253.358813,Duel,Ground attacking duel,75.0,85.0,75.0,78.0
-609.742066,1,Huskies,Huskies_F3,,1H,2255.054736,Duel,Ground defending duel,74.0,84.0,80.0,71.0
-611.626465,1,Opponent1,Opponent1_D4,,1H,2255.856824,Pass,Launch,20.0,29.0,53.0,44.0
-614.115182,1,Huskies,Huskies_D2,Huskies_D1,1H,2265.891061,Pass,Simple pass,45.0,54.0,59.0,87.0
-617.462705,1,Huskies,Huskies_F1,Huskies_F2,1H,2271.209893,Pass,Simple pass,70.0,97.0,64.0,86.0
-619.152379,1,Huskies,Huskies_M1,Huskies_F3,1H,2275.340976,Pass,Simple pass,74.0,84.0,79.0,78.0
-621.4821910000001,1,Huskies,Huskies_F2,,1H,2276.878712,Others on the ball,Touch,84.0,77.0,87.0,73.0
-626.515396,1,Opponent1,Opponent1_D2,Opponent1_M2,1H,2281.555748,Pass,Simple pass,35.0,35.0,48.0,56.0
-628.545296,1,Opponent1,Opponent1_D3,Opponent1_F3,1H,2288.089607,Pass,Smart pass,59.0,88.0,80.0,82.0
-630.7856879999999,1,Huskies,Huskies_D4,,1H,2292.2202030000003,Others on the ball,Acceleration,27.0,37.0,54.0,48.0
-632.296404,1,Opponent1,Opponent1_M1,,1H,2298.940801,Duel,Ground defending duel,46.0,52.0,43.0,44.0
-633.122532,1,Huskies,Huskies_D4,,1H,2299.754362,Duel,Ground attacking duel,57.0,56.0,58.0,50.0
-634.315811,1,Huskies,Huskies_D4,Huskies_M2,1H,2300.892312,Pass,Simple pass,58.0,50.0,69.0,42.0
-634.786425,1,Huskies,Huskies_D4,Huskies_M2,1H,2300.892312,Pass,Simple pass,58.0,50.0,69.0,42.0
-634.804605,1,Huskies,Huskies_D4,Huskies_M2,1H,2300.892312,Pass,Simple pass,58.0,50.0,69.0,42.0
-635.811991,1,Huskies,Huskies_M2,Huskies_F3,1H,2301.7393239999997,Pass,Simple pass,69.0,42.0,75.0,19.0
-636.694376,1,Huskies,Huskies_F3,,1H,2306.864603,Pass,Simple pass,75.0,19.0,78.0,37.0
-638.163835,1,Opponent1,Opponent1_M3,Opponent1_M2,1H,2309.186807,Pass,Simple pass,25.0,70.0,40.0,83.0
-638.7163360000001,1,Opponent1,Opponent1_M3,Opponent1_M2,1H,2309.186807,Pass,Simple pass,25.0,70.0,40.0,83.0
-639.544113,1,Opponent1,Opponent1_M2,Opponent1_F3,1H,2313.458965,Pass,Simple pass,40.0,83.0,76.0,85.0
-644.849345,1,Huskies,Huskies_D3,,1H,2371.2050059999997,Free Kick,Throw in,22.0,0.0,26.0,5.0
-648.45343,1,Huskies,Huskies_F2,Huskies_M1,1H,2381.21504,Pass,Simple pass,48.0,29.0,50.0,79.0
-648.788178,1,Huskies,Huskies_F2,Huskies_M1,1H,2381.21504,Pass,Simple pass,48.0,29.0,50.0,79.0
-654.2725469999999,1,Opponent1,Opponent1_F3,,1H,2423.101174,Duel,Air duel,8.0,65.0,8.0,56.0
-656.786591,1,Opponent1,Opponent1_D4,,1H,2425.372113,Duel,Air duel,8.0,56.0,8.0,51.0
-658.984182,1,Huskies,Huskies_D2,,1H,2428.446805,Foul,Foul,92.0,49.0,92.0,44.0
-660.927154,1,Opponent1,Opponent1_D3,Opponent1_F2,1H,2444.350446,Pass,Simple pass,20.0,71.0,40.0,7.0
-662.816659,1,Opponent1,Opponent1_M1,,1H,2457.469327,Duel,Ground attacking duel,41.0,19.0,35.0,5.0
-664.192536,1,Huskies,Huskies_M3,,1H,2460.936613,Duel,Ground attacking duel,65.0,95.0,64.0,96.0
-666.3982990000001,1,Opponent1,Opponent1_D1,,1H,2463.070643,Duel,Ground defending duel,29.0,6.0,30.0,28.0
-670.794207,1,Opponent1,Opponent1_F1,,1H,2468.321042,Pass,Simple pass,48.0,17.0,46.0,41.0
-672.4853889999999,1,Opponent1,Opponent1_G1,Opponent1_D2,1H,2477.697656,Pass,Simple pass,13.0,43.0,42.0,12.0
-677.030895,1,Huskies,Huskies_M1,,1H,2489.926882,Duel,Ground defending duel,43.0,80.0,43.0,77.0
-679.627443,1,Huskies,Huskies_M1,,1H,2492.383472,Foul,Foul,43.0,77.0,43.0,80.0
-681.346038,1,Huskies,Huskies_D2,,1H,2548.61874,Duel,Air duel,11.0,43.0,12.0,41.0
-683.9791759999999,1,Opponent1,Opponent1_M3,,1H,2550.7580199999998,Pass,High pass,78.0,75.0,91.0,34.0
-687.071588,1,Huskies,Huskies_M1,,1H,2577.226707,Duel,Ground defending duel,8.0,82.0,0.0,100.0
-694.4147320000001,1,Huskies,Huskies_D2,Huskies_D1,1H,2636.5241960000003,Pass,Simple pass,31.0,53.0,28.0,78.0
-698.0026190000001,1,Huskies,Huskies_D4,,1H,2647.750874,Pass,Simple pass,58.0,4.0,62.0,10.0
-699.2672190000001,1,Opponent1,Opponent1_F3,,1H,2648.541945,Others on the ball,Touch,38.0,90.0,52.0,78.0
-701.248096,1,Huskies,Huskies_D4,,1H,2651.635486,Duel,Ground defending duel,48.0,22.0,47.0,35.0
-716.077204,1,Huskies,Huskies_D1,,1H,2697.875867,Others on the ball,Acceleration,31.0,81.0,47.0,82.0
-717.476578,1,Huskies,Huskies_D1,Huskies_M1,1H,2702.421652,Pass,Simple pass,47.0,82.0,50.0,73.0
-719.441687,1,Huskies,Huskies_M1,Huskies_F2,1H,2705.450085,Pass,Simple pass,59.0,65.0,69.0,68.0
-721.197109,1,Huskies,Huskies_M1,,1H,2706.9873780000003,Pass,Simple pass,66.0,76.0,81.0,76.0
-721.755055,1,Huskies,Huskies_M1,,1H,2706.9873780000003,Pass,Simple pass,66.0,76.0,81.0,76.0
-721.765261,1,Huskies,Huskies_M1,,1H,2706.9873780000003,Pass,Simple pass,66.0,76.0,81.0,76.0
-723.551302,1,Huskies,Huskies_F3,Huskies_F1,1H,2710.221447,Pass,Simple pass,79.0,80.0,89.0,96.0
-724.4356730000001,1,Huskies,Huskies_F1,Huskies_F2,1H,2712.2408370000003,Pass,Cross,89.0,96.0,94.0,49.0
-725.762958,1,Huskies,Huskies_F2,,1H,2714.2659320000002,Shot,Shot,94.0,49.0,0.0,0.0
-755.184368,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-761.449998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-763.935874,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-766.375013,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-768.9595059999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-770.158252,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-773.39886,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-788.511745,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-792.588341,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-793.183367,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-793.285266,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-794.786709,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-795.154612,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-797.654391,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-825.828045,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-829.8590849999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-829.866663,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-830.738423,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-831.334785,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-833.172272,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-835.136786,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-836.817538,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-837.61869,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-840.034574,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-864.580428,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-868.7432279999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-869.2070630000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-871.5087789999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-872.877506,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-873.327492,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-874.345314,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-875.2345960000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-876.588559,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-877.617215,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-879.947369,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-880.624377,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-882.9651289999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-885.8160230000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-885.8595,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-886.659943,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-887.049608,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-888.407529,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-892.350866,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-902.5756369999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-907.768956,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-911.123578,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-913.594924,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-914.2997650000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-918.9819679999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-921.8219029999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-922.5510210000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-925.081182,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-926.623721,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-928.052026,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-937.663159,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-940.147302,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-942.5122789999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-944.8711910000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-946.326274,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-947.225659,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-948.0686109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-948.6267939999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-952.7279269999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-955.0482119999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-972.7490730000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-974.1612279999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-976.667566,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-977.642684,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-977.7114369999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-978.084482,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-978.887699,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-983.6546210000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-987.186874,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-989.2366900000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-991.2322529999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-995.008376,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-997.7131509999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-999.236592,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1002.0092599999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1003.7057460000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1007.93265,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1010.1764710000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1010.395054,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1011.1845,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1013.016934,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1014.30685,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1017.845967,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1018.9772439999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1024.129555,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1025.4887210000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1026.6000960000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1032.126828,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1034.8985890000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1035.552349,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1037.890469,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1048.457823,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1053.572422,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1055.344787,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1077.94318,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1080.525643,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1083.6737679999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1086.5488679999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1088.3517,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1092.1348460000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1093.799437,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1098.1089,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1098.8999039999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1099.280935,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1111.80097,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1114.347374,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1116.539946,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1121.54287,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1122.780002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1124.0566210000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1128.904817,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1129.81297,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1130.595995,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1132.277791,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1136.463856,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1137.392687,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1138.947548,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1144.195376,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1145.628269,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1148.4961050000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1150.556157,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1154.0537769999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1156.67177,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1157.3796810000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1158.765817,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1159.5210769999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1176.087791,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1178.765363,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1179.742099,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1179.794809,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1181.013195,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1181.453266,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1184.199743,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1186.56559,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1187.158689,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1190.187435,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1192.8688730000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1212.753315,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1228.9195960000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1231.443603,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1231.617294,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1232.8099539999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1234.888756,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1237.056443,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1240.195071,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1243.2778779999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1246.983038,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1250.066342,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1281.582667,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1283.9134099999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1284.799842,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1285.762328,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1299.229819,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1304.927402,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1306.588143,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1308.752362,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1311.029947,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1314.932615,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1317.2505529999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1318.781728,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1319.694969,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1321.838161,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1322.263813,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1323.4854109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1323.783423,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1333.808644,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1336.828397,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1338.621719,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1342.78861,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1347.364783,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1351.1866619999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1355.635433,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1357.802034,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1360.51092,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1364.5522369999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1365.514369,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1366.275643,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1367.816744,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1368.148627,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1371.3607140000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1373.937659,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1377.038876,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1380.185092,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1382.378471,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1384.757142,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1389.654425,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1390.196019,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1394.908381,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1397.8674,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1398.221988,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1399.362914,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1401.318463,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1427.438843,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1430.877737,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1467.2120710000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1472.292334,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1474.6106630000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1475.014177,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1475.265275,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1476.606102,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1477.6845560000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1480.756475,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1482.4715130000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1483.231097,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1485.473184,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1495.306349,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1497.018515,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1497.833926,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1511.1455019999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1513.320859,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1513.538262,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1514.338215,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1516.2159980000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1516.358587,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1534.648148,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1539.323848,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1542.4603960000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1546.448624,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1548.211076,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1548.609441,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1549.97065,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1563.5650890000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1565.577677,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1566.797006,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1569.287655,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1573.214242,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1574.779483,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1577.213654,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1587.2099759999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1589.202639,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1591.554177,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1598.02757,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1600.5215759999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1623.780434,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1627.8308279999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1629.666349,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1631.2242939999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1631.650483,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1633.128835,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1633.758439,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1637.294235,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1640.147845,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1641.940125,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1642.56418,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1642.989576,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1643.3668519999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1644.4908380000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1644.822725,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1645.8772960000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1646.602966,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1647.246805,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1648.115592,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1648.6673779999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1649.706092,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1650.411323,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1657.171668,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1665.2703609999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1669.6422619999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1671.45486,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1673.213406,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1677.421522,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1679.747834,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1683.925207,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1685.5923440000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1687.033235,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1688.522032,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1691.412407,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1693.228444,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1694.376246,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1698.90762,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1700.416779,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1704.0390300000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1710.0634120000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1711.033111,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1711.538284,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1713.275102,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1746.9033359999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1750.189462,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1754.896087,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1757.479116,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1759.910812,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1781.344236,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1791.1042489999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1794.176617,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1797.149069,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1799.0961899999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1804.6708820000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1808.4284539999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1809.84428,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1810.211285,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1812.953534,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1822.710938,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1826.660725,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1829.697402,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1832.538832,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1836.667946,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1838.5589929999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1841.354526,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1842.5068829999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1846.845569,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1848.000515,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1851.737334,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1855.7686350000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1857.8276870000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1860.404204,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1863.162182,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1867.0267489999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1871.0774390000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1877.423511,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1880.031284,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1882.430327,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1884.766971,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1888.7192929999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1893.355778,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1897.0408899999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1899.2835059999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1899.710306,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1900.767093,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1901.8072300000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1904.2806039999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1904.732611,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1905.797981,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1950.1304109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1985.539709,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1988.9764969999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1989.1821760000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1999.175661,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2001.423484,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2002.8061910000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2025.475425,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2027.802481,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2028.374091,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2031.6338050000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2033.7884960000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2037.291987,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2039.791477,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2043.513218,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2045.2979239999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2045.715359,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2046.092182,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2072.200206,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2074.735577,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2075.504934,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2076.8800079999996,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2076.983688,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2078.86416,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2080.2745760000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2083.264347,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2084.20591,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2084.601317,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2086.786033,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2089.63986,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2090.380994,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2091.065818,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2114.866437,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2118.7642739999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2119.149915,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2120.051016,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2121.197577,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2123.417423,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2127.426715,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2146.366365,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2150.353621,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2152.2627239999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2152.4276649999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2153.8217879999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2154.2169,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2154.570418,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2155.637624,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2156.892131,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2157.845731,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2160.6479170000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2164.4410780000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2169.746612,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2171.9798140000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2176.522715,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2176.824186,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2179.7071539999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2183.016682,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2184.710294,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2187.707719,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2190.098122,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2191.703752,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2198.159963,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2200.7294899999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2203.7086329999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2206.009736,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2206.074656,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2207.635025,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2210.2367280000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2215.149042,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2218.9205699999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2220.396416,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2223.951002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2226.609406,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2229.775859,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2232.640552,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2252.047956,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2253.358813,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2254.364016,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2255.054736,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2255.393662,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2255.856824,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2259.099422,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2263.265102,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2265.891061,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2268.4801899999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2270.659114,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2271.209893,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2273.203025,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2275.340976,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2276.34669,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2276.878712,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2277.208165,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2278.115239,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2278.254015,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2278.723119,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2281.555748,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2285.971589,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2288.089607,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2288.989789,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2292.2202030000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2297.0672449999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2298.940801,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2299.754362,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2300.892312,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2301.7393239999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2306.864603,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2308.140323,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2309.186807,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2313.458965,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2321.862986,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2324.8683100000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2326.327407,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2347.2732149999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2371.2050059999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2373.696063,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2375.2893010000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2378.011491,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2381.21504,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2383.383386,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2386.771795,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2386.821568,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2420.414506,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2422.33001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2423.101174,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2424.226655,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2425.372113,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2426.040904,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2428.446805,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2441.109349,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2444.350446,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2457.132799,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2457.469327,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2460.8995809999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2460.936613,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2462.8646129999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2463.070643,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2463.42143,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2465.1599690000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2465.505634,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2468.321042,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2470.570005,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2477.697656,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2485.539002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2488.158385,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2488.2143690000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2489.024363,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2489.926882,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2490.9288149999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2492.383472,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2545.518237,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2548.61874,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2550.124684,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2550.7580199999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2552.30953,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2573.609834,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2576.572698,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2577.226707,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2604.295396,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2607.220023,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2608.514427,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2610.753257,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2612.054635,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2631.522261,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2636.5241960000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2642.004348,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2644.939386,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2646.727592,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2647.750874,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2648.541945,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2650.416116,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2651.635486,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2652.505927,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2654.4922030000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2658.929429,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2661.949012,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2663.775998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2667.35041,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2669.265161,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2686.9178699999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2688.6819149999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2688.705162,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2692.105002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2692.164248,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2694.677345,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2696.280214,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2697.875867,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2702.421652,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2703.197895,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2705.450085,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2706.442088,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2706.9873780000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2708.9722079999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2710.221447,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2712.2408370000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2714.2659320000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2716.210598,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2787.208955,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2789.190006,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2789.997921,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2792.948355,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2794.58112,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2799.115514,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2805.2621440000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2810.221212,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1.615425,1,Opponent1,Opponent1_D1,,1H,33.730326,Duel,Air duel,34.0,11.0,22.0,0.0
-4.001623,1,Huskies,Huskies_D1,Huskies_F1,1H,46.323501,Pass,Head pass,34.0,97.0,59.0,95.0
-9.058284,1,Opponent1,Opponent1_D1,,1H,50.109404,Duel,Ground loose ball duel,43.0,7.0,47.0,11.0
-9.161741000000001,1,Opponent1,Opponent1_D1,,1H,50.109404,Duel,Ground loose ball duel,43.0,7.0,47.0,11.0
-15.24109,1,Opponent1,Opponent1_G1,Opponent1_F1,1H,92.21616,Pass,Launch,5.0,50.0,67.0,44.0
-19.241507000000002,1,Huskies,Huskies_M3,,1H,99.398625,Pass,Simple pass,36.0,54.0,36.0,63.0
-20.351319,1,Opponent1,Opponent1_M1,,1H,99.759819,Pass,Simple pass,64.0,37.0,70.0,5.0
-20.533126,1,Opponent1,Opponent1_M1,,1H,99.759819,Pass,Simple pass,64.0,37.0,70.0,5.0
-21.433736,1,Huskies,Huskies_D1,,1H,103.356274,Pass,High pass,30.0,95.0,72.0,97.0
-21.911088,1,Huskies,Huskies_D1,,1H,103.356274,Pass,High pass,30.0,95.0,72.0,97.0
-22.144547,1,Opponent1,Opponent1_D1,,1H,105.00381499999999,Duel,Air duel,28.0,3.0,39.0,7.0
-23.133141000000002,1,Huskies,Huskies_F1,,1H,106.13960800000001,Duel,Air duel,72.0,97.0,61.0,93.0
-49.242968,1,Opponent1,Opponent1_M1,,1H,188.662037,Duel,Ground attacking duel,68.0,10.0,75.0,0.0
-52.268390999999994,1,Huskies,Huskies_F2,,1H,203.18357,Duel,Ground attacking duel,39.0,95.0,44.0,95.0
-58.91085,1,Huskies,Huskies_G1,,1H,238.031525,Goalkeeper leaving line,Goalkeeper leaving line,0.0,0.0,41.0,91.0
-61.468129000000005,1,Opponent1,Opponent1_M3,,1H,240.30575499999998,Duel,Air duel,74.0,67.0,83.0,8.0
-62.372161,1,Huskies,Huskies_M2,,1H,240.70691499999998,Duel,Air duel,26.0,33.0,17.0,92.0
-66.975385,1,Huskies,Huskies_G1,Huskies_D3,1H,257.29520299999996,Pass,Simple pass,8.0,45.0,19.0,13.0
-68.594718,1,Huskies,Huskies_G1,,1H,263.911988,Pass,Launch,12.0,38.0,68.0,93.0
-70.87639399999999,1,Huskies,Huskies_F1,,1H,267.581741,Duel,Air duel,68.0,93.0,64.0,100.0
-73.753211,1,Huskies,Huskies_D4,Huskies_D3,1H,291.122151,Pass,Simple pass,60.0,5.0,33.0,21.0
-76.401219,1,Huskies,Huskies_F1,,1H,301.877951,Duel,Air duel,60.0,99.0,59.0,100.0
-80.501137,1,Opponent1,Opponent1_M1,Opponent1_D1,1H,318.875721,Pass,Simple pass,55.0,12.0,62.0,9.0
-83.276587,1,Huskies,Huskies_M1,,1H,323.965809,Duel,Ground defending duel,30.0,95.0,19.0,98.0
-85.001227,1,Huskies,Huskies_D1,Huskies_M3,1H,325.77882999999997,Pass,Simple pass,19.0,98.0,35.0,86.0
-85.203244,1,Huskies,Huskies_D1,Huskies_M3,1H,325.77882999999997,Pass,Simple pass,19.0,98.0,35.0,86.0
-86.507002,1,Huskies,Huskies_M3,Huskies_M1,1H,329.565823,Pass,Simple pass,35.0,86.0,30.0,97.0
-87.391663,1,Huskies,Huskies_M1,,1H,331.792997,Pass,Simple pass,30.0,97.0,48.0,87.0
-88.00631700000001,1,Opponent1,Opponent1_M1,,1H,332.298514,Others on the ball,Touch,52.0,13.0,47.0,0.0
-89.303862,1,Huskies,Huskies_M1,,1H,342.429756,Free Kick,Throw in,61.0,100.0,66.0,93.0
-91.78420200000001,1,Opponent1,Opponent1_F2,,1H,344.974937,Duel,Ground loose ball duel,47.0,11.0,52.0,14.0
-91.92960500000001,1,Opponent1,Opponent1_F2,,1H,344.974937,Duel,Ground loose ball duel,47.0,11.0,52.0,14.0
-93.510886,1,Opponent1,Opponent1_F1,,1H,346.095817,Pass,Simple pass,52.0,14.0,53.0,41.0
-94.407855,1,Huskies,Huskies_M2,Huskies_D3,1H,349.65180499999997,Pass,Simple pass,47.0,59.0,47.0,27.0
-97.857215,1,Huskies,Huskies_D3,,1H,356.394218,Pass,High pass,47.0,12.0,99.0,9.0
-117.93064199999999,1,Huskies,Huskies_D2,Huskies_D1,1H,426.777238,Pass,Simple pass,36.0,54.0,32.0,85.0
-120.599516,1,Opponent1,Opponent1_M1,,1H,430.180392,Duel,Ground loose ball duel,41.0,33.0,42.0,30.0
-122.75173400000001,1,Opponent1,Opponent1_F2,Opponent1_D3,1H,435.13183200000003,Pass,Simple pass,47.0,50.0,41.0,54.0
-124.62513100000001,1,Opponent1,Opponent1_G1,Opponent1_D3,1H,440.931405,Pass,Simple pass,14.0,55.0,36.0,85.0
-126.541329,1,Opponent1,Opponent1_M3,Opponent1_D2,1H,448.82333700000004,Pass,Simple pass,41.0,70.0,51.0,13.0
-152.632124,1,Opponent1,Opponent1_M2,,1H,601.18855,Free Kick,Corner,100.0,2.0,92.0,37.0
-154.362109,1,Opponent1,Opponent1_M3,Opponent1_D1,1H,605.781783,Pass,Simple pass,62.0,68.0,55.0,29.0
-156.934782,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,609.742066,Pass,Simple pass,60.0,27.0,71.0,8.0
-157.08228799999998,1,Opponent1,Opponent1_M2,Opponent1_F2,1H,611.626465,Pass,Simple pass,71.0,8.0,67.0,14.0
-158.83416200000002,1,Opponent1,Opponent1_F2,Opponent1_M2,1H,614.115182,Pass,Smart pass,67.0,14.0,90.0,7.0
-162.151832,1,Huskies,Huskies_M1,,1H,626.515396,Pass,High pass,6.0,84.0,47.0,85.0
-162.301683,1,Huskies,Huskies_M1,,1H,626.515396,Pass,High pass,6.0,84.0,47.0,85.0
-176.000765,1,Huskies,Huskies_M3,Huskies_M2,1H,648.45343,Pass,Simple pass,44.0,35.0,58.0,25.0
-177.101773,1,Huskies,Huskies_M2,Huskies_M3,1H,648.788178,Pass,Simple pass,58.0,25.0,44.0,45.0
-179.470501,1,Huskies,Huskies_D1,Huskies_M1,1H,656.786591,Pass,Simple pass,45.0,88.0,46.0,66.0
-182.303842,1,Huskies,Huskies_D3,Huskies_D4,1H,662.816659,Pass,Simple pass,36.0,26.0,44.0,9.0
-185.432927,1,Huskies,Huskies_D1,Huskies_M1,1H,670.794207,Pass,Simple pass,30.0,88.0,54.0,98.0
-187.65234099999998,1,Huskies,Huskies_D1,Huskies_D2,1H,677.030895,Pass,Simple pass,40.0,88.0,39.0,58.0
-192.431224,1,Opponent1,Opponent1_G1,Opponent1_D3,1H,694.4147320000001,Pass,Hand pass,13.0,69.0,28.0,96.0
-193.796536,1,Opponent1,Opponent1_D3,Opponent1_M2,1H,698.0026190000001,Pass,Simple pass,28.0,96.0,32.0,91.0
-196.658049,1,Huskies,Huskies_D4,,1H,716.077204,Free Kick,Throw in,88.0,0.0,88.0,10.0
-201.061034,1,Huskies,Huskies_F2,,1H,721.765261,Duel,Ground loose ball duel,88.0,27.0,84.0,30.0
-202.01136599999998,1,Huskies,Huskies_F3,,1H,723.551302,Duel,Ground attacking duel,84.0,30.0,83.0,45.0
-207.29064,1,Huskies,Huskies_M3,Huskies_D3,1H,763.935874,Pass,Simple pass,31.0,4.0,26.0,15.0
-209.872102,1,Huskies,Huskies_D2,Huskies_D1,1H,768.9595059999999,Pass,Simple pass,28.0,46.0,27.0,75.0
-212.58405699999997,1,Opponent1,Opponent1_D2,,1H,788.511745,Free Kick,Throw in,26.0,0.0,44.0,13.0
-267.015263,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,952.7279269999999,Pass,Simple pass,37.0,33.0,47.0,54.0
-269.977885,1,Huskies,Huskies_D1,,1H,972.7490730000001,Free Kick,Throw in,18.0,100.0,42.0,90.0
-271.989763,1,Opponent1,Opponent1_F1,,1H,976.667566,Duel,Ground attacking duel,73.0,15.0,64.0,27.0
-275.363043,1,Opponent1,Opponent1_M1,Opponent1_D3,1H,978.887699,Pass,Simple pass,56.0,26.0,63.0,60.0
-276.072073,1,Opponent1,Opponent1_D3,Opponent1_M1,1H,983.6546210000001,Pass,Simple pass,63.0,60.0,60.0,36.0
-276.732888,1,Opponent1,Opponent1_D3,Opponent1_M1,1H,983.6546210000001,Pass,Simple pass,63.0,60.0,60.0,36.0
-278.16218599999996,1,Opponent1,Opponent1_M2,Opponent1_D3,1H,989.2366900000001,Pass,Simple pass,71.0,67.0,57.0,71.0
-278.288431,1,Opponent1,Opponent1_M2,Opponent1_D3,1H,989.2366900000001,Pass,Simple pass,71.0,67.0,57.0,71.0
-280.668857,1,Opponent1,Opponent1_M1,Opponent1_D2,1H,995.008376,Pass,Simple pass,55.0,52.0,58.0,32.0
-300.119146,1,Opponent1,Opponent1_M3,Opponent1_D3,1H,1048.457823,Pass,Simple pass,80.0,79.0,80.0,84.0
-302.83556400000003,1,Opponent1,Opponent1_D3,,1H,1055.344787,Pass,Cross,80.0,84.0,100.0,32.0
-305.53627400000005,1,Huskies,Huskies_G1,Huskies_M1,1H,1083.6737679999999,Pass,High pass,13.0,45.0,39.0,97.0
-308.67020299999996,1,Huskies,Huskies_M3,Huskies_D3,1H,1092.1348460000002,Pass,Simple pass,33.0,47.0,29.0,12.0
-311.556373,1,Huskies,Huskies_D4,,1H,1098.8999039999999,Duel,Ground attacking duel,72.0,7.0,72.0,0.0
-312.033909,1,Opponent1,Opponent1_M2,,1H,1099.280935,Duel,Ground defending duel,28.0,93.0,28.0,100.0
-328.68987400000003,1,Huskies,Huskies_F1,Huskies_F2,1H,1148.4961050000002,Pass,Simple pass,70.0,98.0,68.0,83.0
-329.80834500000003,1,Huskies,Huskies_F2,Huskies_D3,1H,1150.556157,Pass,Simple pass,68.0,83.0,66.0,38.0
-330.469631,1,Huskies,Huskies_D3,Huskies_D4,1H,1154.0537769999999,Pass,Simple pass,66.0,38.0,79.0,4.0
-331.102418,1,Huskies,Huskies_D4,,1H,1156.67177,Pass,Simple pass,79.0,4.0,74.0,6.0
-331.523068,1,Huskies,Huskies_D4,,1H,1156.67177,Pass,Simple pass,79.0,4.0,74.0,6.0
-333.569118,1,Opponent1,Opponent1_M2,,1H,1158.765817,Duel,Ground loose ball duel,25.0,82.0,21.0,83.0
-340.687068,1,Opponent1,Opponent1_M3,,1H,1181.453266,Duel,Ground attacking duel,43.0,93.0,30.0,92.0
-342.777155,1,Huskies,Huskies_M1,,1H,1186.56559,Duel,Ground attacking duel,65.0,61.0,79.0,72.0
-345.134328,1,Opponent1,Opponent1_G1,,1H,1192.8688730000001,Save attempt,Save attempt,100.0,100.0,21.0,28.0
-347.703681,1,Opponent1,Opponent1_G1,Opponent1_F3,1H,1228.9195960000002,Pass,Launch,18.0,55.0,76.0,88.0
-348.19032200000004,1,Opponent1,Opponent1_F3,,1H,1231.443603,Duel,Air duel,76.0,88.0,77.0,76.0
-348.708589,1,Opponent1,Opponent1_F3,,1H,1231.443603,Duel,Air duel,76.0,88.0,77.0,76.0
-349.664717,1,Huskies,Huskies_D3,,1H,1231.617294,Duel,Air duel,24.0,12.0,23.0,24.0
-349.831623,1,Huskies,Huskies_D3,,1H,1231.617294,Duel,Air duel,24.0,12.0,23.0,24.0
-383.752157,1,Huskies,Huskies_D3,Huskies_M2,1H,1364.5522369999999,Pass,Simple pass,53.0,29.0,65.0,22.0
-386.558173,1,Huskies,Huskies_M3,Huskies_M2,1H,1367.816744,Pass,Simple pass,60.0,33.0,57.0,23.0
-389.130656,1,Huskies,Huskies_D3,Huskies_D2,1H,1373.937659,Pass,Simple pass,51.0,20.0,47.0,56.0
-393.38864,1,Huskies,Huskies_D1,Huskies_D4,1H,1384.757142,Pass,Cross,89.0,96.0,98.0,3.0
-399.09337400000004,1,Huskies,Huskies_F3,,1H,1399.362914,Pass,Cross,97.0,22.0,0.0,0.0
-399.15847,1,Huskies,Huskies_F3,,1H,1399.362914,Pass,Cross,97.0,22.0,0.0,0.0
-404.367526,1,Opponent1,Opponent1_F3,,1H,1472.292334,Pass,Head pass,53.0,96.0,56.0,73.0
-406.50928500000003,1,Opponent1,Opponent1_D3,,1H,1475.014177,Duel,Air duel,43.0,80.0,53.0,71.0
-407.230482,1,Huskies,Huskies_F3,,1H,1475.265275,Duel,Air duel,57.0,20.0,47.0,29.0
-409.62496600000003,1,Opponent1,Opponent1_D2,,1H,1477.6845560000002,Pass,Launch,35.0,48.0,50.0,87.0
-426.068854,1,Huskies,Huskies_F1,,1H,1546.448624,Pass,Simple pass,39.0,98.0,44.0,64.0
-429.09417300000007,1,Opponent1,Opponent1_M1,,1H,1549.97065,Foul,Foul,56.0,36.0,54.0,15.0
-432.09501100000006,1,Huskies,Huskies_D1,Huskies_D2,1H,1566.797006,Pass,Simple pass,35.0,79.0,31.0,47.0
-432.788475,1,Huskies,Huskies_D1,Huskies_D2,1H,1566.797006,Pass,Simple pass,35.0,79.0,31.0,47.0
-433.152098,1,Huskies,Huskies_D2,Huskies_D3,1H,1569.287655,Pass,Simple pass,31.0,47.0,43.0,12.0
-433.679924,1,Huskies,Huskies_D2,Huskies_D3,1H,1569.287655,Pass,Simple pass,31.0,47.0,43.0,12.0
-436.632779,1,Huskies,Huskies_D3,Huskies_M1,1H,1577.213654,Pass,Simple pass,58.0,39.0,47.0,71.0
-437.249121,1,Huskies,Huskies_M1,Huskies_M3,1H,1587.2099759999999,Pass,Simple pass,47.0,71.0,40.0,81.0
-440.655901,1,Huskies,Huskies_F2,Huskies_D3,1H,1598.02757,Pass,Simple pass,48.0,26.0,66.0,7.0
-447.990079,1,Huskies,Huskies_M1,Huskies_F2,1H,1633.128835,Pass,Simple pass,47.0,42.0,56.0,34.0
-450.780737,1,Huskies,Huskies_D4,Huskies_F2,1H,1640.147845,Pass,Simple pass,80.0,5.0,74.0,25.0
-451.70230300000003,1,Huskies,Huskies_F2,,1H,1641.940125,Duel,Ground attacking duel,74.0,25.0,71.0,26.0
-452.84652400000004,1,Opponent1,Opponent1_M1,,1H,1642.56418,Duel,Ground defending duel,26.0,75.0,29.0,74.0
-453.606275,1,Opponent1,Opponent1_M2,,1H,1642.989576,Duel,Ground loose ball duel,29.0,74.0,30.0,70.0
-454.98529699999995,1,Huskies,Huskies_F2,,1H,1643.3668519999999,Duel,Ground loose ball duel,71.0,26.0,70.0,30.0
-456.453433,1,Opponent1,Opponent1_M3,,1H,1644.822725,Duel,Ground loose ball duel,30.0,70.0,38.0,75.0
-460.894501,1,Opponent1,Opponent1_M3,,1H,1648.115592,Duel,Ground defending duel,33.0,76.0,32.0,78.0
-461.399997,1,Opponent1,Opponent1_M1,,1H,1648.6673779999999,Duel,Ground attacking duel,32.0,78.0,40.0,90.0
-462.22221399999995,1,Huskies,Huskies_M3,,1H,1649.706092,Duel,Ground defending duel,68.0,22.0,60.0,10.0
-463.48916399999996,1,Opponent1,Opponent1_M1,,1H,1650.411323,Pass,Simple pass,40.0,90.0,91.0,73.0
-465.166968,1,Huskies,Huskies_D1,Huskies_D2,1H,1665.2703609999999,Pass,Simple pass,38.0,81.0,33.0,54.0
-472.54485,1,Huskies,Huskies_D4,Huskies_M3,1H,1685.5923440000001,Pass,Simple pass,49.0,5.0,55.0,18.0
-473.261725,1,Huskies,Huskies_M3,Huskies_M2,1H,1687.033235,Pass,Simple pass,55.0,18.0,57.0,13.0
-474.343355,1,Huskies,Huskies_M2,Huskies_D4,1H,1688.522032,Pass,Simple pass,57.0,13.0,50.0,6.0
-478.974084,1,Opponent1,Opponent1_M2,,1H,1698.90762,Duel,Ground attacking duel,75.0,31.0,77.0,24.0
-481.97129,1,Huskies,Huskies_F1,,1H,1710.0634120000002,Pass,Simple pass,47.0,96.0,55.0,86.0
-483.630588,1,Huskies,Huskies_F2,,1H,1711.538284,Duel,Ground attacking duel,55.0,86.0,56.0,84.0
-485.836483,1,Huskies,Huskies_M1,Huskies_M3,1H,1746.9033359999999,Pass,Simple pass,56.0,75.0,54.0,40.0
-487.976009,1,Huskies,Huskies_D3,Huskies_D2,1H,1754.896087,Pass,Simple pass,59.0,13.0,59.0,52.0
-489.15709699999996,1,Huskies,Huskies_F2,,1H,1759.910812,Pass,Smart pass,63.0,87.0,99.0,74.0
-490.693768,1,Opponent1,Opponent1_G1,,1H,1781.344236,Free Kick,Goal kick,100.0,100.0,79.0,14.0
-492.894419,1,Opponent1,Opponent1_F2,Opponent1_D4,1H,1794.176617,Pass,Simple pass,68.0,18.0,51.0,49.0
-492.99445,1,Opponent1,Opponent1_F2,Opponent1_D4,1H,1794.176617,Pass,Simple pass,68.0,18.0,51.0,49.0
-493.589767,1,Opponent1,Opponent1_D4,Opponent1_M1,1H,1797.149069,Pass,Simple pass,51.0,49.0,54.0,57.0
-495.34846500000003,1,Opponent1,Opponent1_F1,Opponent1_D1,1H,1804.6708820000001,Pass,Simple pass,90.0,15.0,73.0,8.0
-496.02459699999997,1,Opponent1,Opponent1_D1,Opponent1_F2,1H,1808.4284539999999,Pass,Simple pass,73.0,8.0,82.0,23.0
-496.63035,1,Opponent1,Opponent1_D1,Opponent1_F2,1H,1808.4284539999999,Pass,Simple pass,73.0,8.0,82.0,23.0
-497.66554699999995,1,Opponent1,Opponent1_F2,,1H,1809.84428,Duel,Ground attacking duel,82.0,23.0,91.0,24.0
-499.734318,1,Huskies,Huskies_D2,Huskies_G1,1H,1812.953534,Pass,Simple pass,9.0,76.0,8.0,51.0
-504.40397199999995,1,Huskies,Huskies_D3,Huskies_M3,1H,1836.667946,Pass,Simple pass,32.0,15.0,31.0,30.0
-507.559438,1,Huskies,Huskies_D1,,1H,1842.5068829999998,Others on the ball,Touch,29.0,87.0,49.0,89.0
-509.177432,1,Huskies,Huskies_M1,Huskies_D1,1H,1848.000515,Pass,Simple pass,60.0,96.0,59.0,88.0
-525.8554349999999,1,Opponent1,Opponent1_F2,,1H,1899.710306,Others on the ball,Touch,39.0,17.0,36.0,17.0
-526.357356,1,Opponent1,Opponent1_F2,,1H,1900.767093,Duel,Ground loose ball duel,36.0,17.0,39.0,9.0
-527.5003820000001,1,Huskies,Huskies_D1,,1H,1901.8072300000001,Pass,Simple pass,61.0,91.0,61.0,72.0
-527.81521,1,Huskies,Huskies_D1,,1H,1901.8072300000001,Pass,Simple pass,61.0,91.0,61.0,72.0
-527.9039,1,Huskies,Huskies_D1,,1H,1901.8072300000001,Pass,Simple pass,61.0,91.0,61.0,72.0
-529.236781,1,Huskies,Huskies_M1,,1H,1904.732611,Duel,Ground attacking duel,61.0,72.0,61.0,62.0
-529.651303,1,Huskies,Huskies_M1,,1H,1904.732611,Duel,Ground attacking duel,61.0,72.0,61.0,62.0
-531.96234,1,Huskies,Huskies_F2,,1H,1950.1304109999999,Free Kick,Free kick cross,64.0,79.0,99.0,44.0
-532.01795,1,Opponent1,Opponent1_G1,,1H,1985.539709,Free Kick,Goal kick,100.0,100.0,64.0,76.0
-534.1421429999999,1,Huskies,Huskies_M3,,1H,1989.1821760000003,Duel,Air duel,36.0,24.0,9.0,7.0
-565.514149,1,Huskies,Huskies_M3,Huskies_M1,1H,2119.149915,Pass,Simple pass,43.0,88.0,38.0,91.0
-568.551832,1,Huskies,Huskies_D1,Huskies_D3,1H,2123.417423,Pass,High pass,27.0,90.0,31.0,13.0
-568.7282700000001,1,Huskies,Huskies_D1,Huskies_D3,1H,2123.417423,Pass,High pass,27.0,90.0,31.0,13.0
-571.5891849999999,1,Huskies,Huskies_M3,,1H,2150.353621,Pass,Head pass,39.0,5.0,40.0,20.0
-575.1637599999999,1,Huskies,Huskies_M3,,1H,2154.2169,Duel,Ground defending duel,42.0,18.0,41.0,18.0
-578.806977,1,Huskies,Huskies_M2,Huskies_M3,1H,2156.892131,Pass,Simple pass,42.0,18.0,44.0,23.0
-580.702626,1,Opponent1,Opponent1_D3,Opponent1_D2,1H,2160.6479170000002,Pass,Simple pass,30.0,78.0,31.0,30.0
-581.07852,1,Opponent1,Opponent1_D2,Opponent1_D1,1H,2164.4410780000003,Pass,Simple pass,31.0,30.0,34.0,14.0
-586.764225,1,Huskies,Huskies_D2,Huskies_F1,1H,2179.7071539999997,Pass,Head pass,34.0,95.0,26.0,99.0
-589.606157,1,Huskies,Huskies_D2,Huskies_D3,1H,2187.707719,Pass,Simple pass,19.0,73.0,20.0,24.0
-590.1869929999999,1,Huskies,Huskies_D3,Huskies_M3,1H,2190.098122,Pass,Simple pass,20.0,24.0,33.0,53.0
-598.946931,1,Opponent1,Opponent1_M1,Opponent1_D1,1H,2210.2367280000003,Pass,High pass,47.0,64.0,99.0,16.0
-600.13529,1,Huskies,Huskies_D1,Huskies_M2,1H,2218.9205699999998,Pass,Simple pass,4.0,72.0,21.0,69.0
-602.700935,1,Huskies,Huskies_M2,Huskies_M3,1H,2223.951002,Pass,Simple pass,44.0,65.0,36.0,54.0
-606.442922,1,Huskies,Huskies_M1,,1H,2252.047956,Free Kick,Throw in,66.0,100.0,75.0,85.0
-608.782481,1,Opponent1,Opponent1_M1,,1H,2254.364016,Others on the ball,Touch,25.0,22.0,26.0,16.0
-611.5679719999999,1,Opponent1,Opponent1_D4,,1H,2255.856824,Pass,Launch,20.0,29.0,53.0,44.0
-614.1992,1,Huskies,Huskies_D2,Huskies_D1,1H,2265.891061,Pass,Simple pass,45.0,54.0,59.0,87.0
-618.09998,1,Huskies,Huskies_F2,Huskies_M1,1H,2273.203025,Pass,Simple pass,64.0,86.0,74.0,84.0
-619.4415190000001,1,Huskies,Huskies_M1,Huskies_F3,1H,2275.340976,Pass,Simple pass,74.0,84.0,79.0,78.0
-622.195243,1,Opponent1,Opponent1_D2,,1H,2277.208165,Duel,Ground attacking duel,13.0,27.0,17.0,34.0
-644.994462,1,Huskies,Huskies_D3,,1H,2371.2050059999997,Free Kick,Throw in,22.0,0.0,26.0,5.0
-645.6318660000001,1,Huskies,Huskies_D4,Huskies_D3,1H,2373.696063,Pass,Simple pass,26.0,5.0,18.0,7.0
-646.0948559999999,1,Huskies,Huskies_D3,Huskies_F2,1H,2375.2893010000003,Pass,High pass,18.0,7.0,55.0,16.0
-648.051796,1,Huskies,Huskies_F2,Huskies_M1,1H,2381.21504,Pass,Simple pass,48.0,29.0,50.0,79.0
-649.105828,1,Huskies,Huskies_M1,,1H,2383.383386,Pass,High pass,50.0,79.0,97.0,86.0
-651.577573,1,Huskies,Huskies_F1,,1H,2386.821568,Duel,Ground attacking duel,97.0,86.0,100.0,100.0
-653.2827580000001,1,Huskies,Huskies_F2,,1H,2422.33001,Pass,Cross,94.0,99.0,92.0,35.0
-654.8913269999999,1,Opponent1,Opponent1_F3,,1H,2423.101174,Duel,Air duel,8.0,65.0,8.0,56.0
-657.124771,1,Huskies,Huskies_D2,,1H,2426.040904,Duel,Air duel,92.0,44.0,92.0,49.0
-657.589238,1,Huskies,Huskies_D2,,1H,2426.040904,Duel,Air duel,92.0,44.0,92.0,49.0
-659.223072,1,Opponent1,Opponent1_G1,,1H,2441.109349,Free Kick,Free Kick,13.0,59.0,20.0,71.0
-661.1232200000001,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2457.132799,Pass,Simple pass,40.0,7.0,41.0,19.0
-661.968594,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2457.132799,Pass,Simple pass,40.0,7.0,41.0,19.0
-663.627916,1,Opponent1,Opponent1_M1,,1H,2460.8995809999997,Duel,Ground defending duel,35.0,5.0,36.0,4.0
-665.165795,1,Huskies,Huskies_M3,,1H,2462.8646129999997,Pass,Simple pass,64.0,96.0,71.0,94.0
-666.69208,1,Opponent1,Opponent1_D1,,1H,2463.070643,Duel,Ground defending duel,29.0,6.0,30.0,28.0
-669.084618,1,Huskies,Huskies_F3,,1H,2465.505634,Pass,Simple pass,69.0,94.0,52.0,83.0
-670.352892,1,Opponent1,Opponent1_F1,,1H,2468.321042,Pass,Simple pass,48.0,17.0,46.0,41.0
-670.364287,1,Opponent1,Opponent1_F1,,1H,2468.321042,Pass,Simple pass,48.0,17.0,46.0,41.0
-671.616635,1,Huskies,Huskies_D3,,1H,2470.570005,Pass,Simple pass,54.0,59.0,87.0,57.0
-672.653702,1,Opponent1,Opponent1_G1,Opponent1_D2,1H,2477.697656,Pass,Simple pass,13.0,43.0,42.0,12.0
-697.0222200000001,1,Huskies,Huskies_D3,Huskies_D4,1H,2646.727592,Pass,Simple pass,40.0,13.0,58.0,4.0
-702.689482,1,Opponent1,Opponent1_M2,Opponent1_F2,1H,2652.505927,Pass,Simple pass,53.0,65.0,61.0,50.0
-705.264634,1,Opponent1,Opponent1_F2,,1H,2661.949012,Pass,Simple pass,77.0,80.0,88.0,84.0
-705.603112,1,Opponent1,Opponent1_F2,,1H,2661.949012,Pass,Simple pass,77.0,80.0,88.0,84.0
-708.315804,1,Huskies,Huskies_M2,,1H,2669.265161,Others on the ball,Touch,16.0,12.0,21.0,0.0
-741.583229,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-744.610369,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-746.822807,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-747.034801,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-747.9403269999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-747.9777690000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-748.527255,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-750.443434,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-751.6436150000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-752.278365,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-752.924663,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-754.959661,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-755.258509,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-755.351597,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-756.3093980000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-756.778223,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-758.692407,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-758.748781,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-759.6437540000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-760.111151,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-760.78484,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-761.934834,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-763.195655,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-764.476102,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-782.7307900000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-785.606718,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-788.003819,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-790.912689,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-793.783733,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-796.019692,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-797.534308,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-798.028364,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-800.631255,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-800.917731,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-803.993605,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-806.663013,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-809.83796,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-812.419531,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-813.800522,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-814.0504599999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-818.744171,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-820.556751,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-822.808909,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-824.621822,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-825.766463,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-837.879573,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-840.321763,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-843.635775,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-845.371981,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-845.5299570000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-847.901958,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-850.5682939999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-852.5817890000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-852.642343,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-913.6416630000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-914.180474,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-915.375191,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-918.5150480000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-922.742494,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-925.538962,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-927.388314,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-930.724138,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-930.993169,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-931.76811,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-932.3674609999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-932.725476,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-934.164116,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-936.9771699999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-937.7692900000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-943.136117,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-947.1090839999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-947.1372230000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-949.520325,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-951.2920960000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-953.1073029999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-953.781885,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-955.2172220000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-957.7188570000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-960.3816820000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-962.9236980000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-967.0827939999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-968.5080109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-970.758315,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-971.510516,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-971.764718,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-973.9968660000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1003.2815699999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1007.0223900000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1007.2007480000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1009.2768169999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1010.356484,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1012.909898,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1012.909898,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1014.9733449999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1014.9733449999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1017.76759,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1019.029441,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1020.3647699999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1021.41301,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1031.261362,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1032.421008,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1035.104654,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1037.66873,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1040.818067,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1042.8504189999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1046.449144,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1050.0061269999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1050.314988,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1053.532809,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1053.532809,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1055.571282,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1057.982562,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1060.046212,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1062.227838,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1065.895743,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1068.5096039999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1071.229253,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1073.260675,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1074.615463,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1076.887466,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1079.487261,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1082.434383,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1085.072635,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1087.2893119999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1089.568527,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1091.1168710000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1092.5072189999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1094.821466,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1098.2221240000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1098.2221240000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1102.4477689999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1105.442145,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1107.8433109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1107.8433109999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1131.045379,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1132.118934,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1133.778485,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1133.778485,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1135.40819,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1161.645021,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1166.569318,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1167.340594,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1168.519178,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1171.145917,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1174.713649,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1176.546885,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1178.758366,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1178.758366,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1182.011049,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1233.741094,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1236.88781,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1245.5710470000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1247.350973,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1251.928415,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1252.958884,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1254.663161,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1256.0575,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1258.3854609999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1261.759886,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1263.7667470000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1266.3037669999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1273.230802,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1274.411169,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1275.472068,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1277.057146,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1291.419016,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1294.518584,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1294.518584,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1298.694168,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1300.091314,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1307.197232,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1310.454189,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1316.573184,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1318.89876,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1322.173798,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1323.747389,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1323.747389,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1326.668976,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1327.147553,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1329.621772,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1334.304405,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1334.617123,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1336.9785279999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1338.723962,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1342.496119,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1343.918952,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1344.93907,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1348.859946,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1350.211079,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1352.846679,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1353.219742,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1356.266718,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1357.648369,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1359.699345,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1361.609558,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1364.821532,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1367.286777,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1367.870373,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1368.394055,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1371.048362,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1373.3016400000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1377.1956619999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1379.858899,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1382.934121,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1384.880132,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1390.3748859999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1395.900694,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1395.900694,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1397.024733,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1401.088454,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1403.223032,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1451.4695390000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1453.291117,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1454.1593710000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1454.95586,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1454.95586,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1457.3474609999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1461.348584,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1463.631181,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1464.4493320000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1465.585923,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1467.3147529999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1467.3147529999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1468.772366,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1604.614224,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1605.238108,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1606.262365,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1615.661331,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1617.90579,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1617.90579,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1621.179891,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1622.241554,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1626.708755,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1628.1743310000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1629.552963,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1631.804489,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1635.034997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1636.956035,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1640.312668,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1642.7454779999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1646.833241,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1648.590784,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1648.590784,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1658.780588,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1661.762199,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1662.821081,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1663.871298,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1665.18851,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1666.1109,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1666.580187,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1669.731652,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1671.4347480000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1671.4347480000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1672.840747,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1675.06092,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1676.822128,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1682.838515,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1683.7196620000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1684.029269,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1685.252638,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1687.105361,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1688.2459809999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1689.809021,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1691.341766,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1693.546302,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1694.6500829999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1698.5197210000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1701.4139480000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1705.07884,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1707.8596469999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1710.235266,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1713.7690760000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1716.099468,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1716.099468,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1720.2288030000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1720.2288030000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1721.2560059999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1723.86753,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1728.132121,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1728.132121,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1729.548699,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1734.2061879999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1734.603015,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1736.610003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1736.610003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1740.2946510000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1743.636046,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1749.216461,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1752.089132,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1757.845487,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1759.8688280000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1762.190655,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1762.190655,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1763.9839100000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1763.9839100000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1765.445088,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1768.919395,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1804.7985239999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1808.533596,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1809.876091,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1812.9117,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1817.690243,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1817.690243,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1819.020805,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1819.020805,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1848.2551260000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1850.237075,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1901.4376300000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1905.653553,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1905.653553,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1906.8094850000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1907.7998739999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1908.453725,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1908.818191,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1911.431853,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1911.431853,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1922.5222649999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1924.300068,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1926.115473,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1928.351918,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1929.809374,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1930.9455870000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1930.9455870000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1933.29313,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1935.3728059999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1937.421521,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1937.962855,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1938.962855,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1939.9184710000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1941.74158,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1946.517076,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1951.031806,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1953.630255,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1958.776591,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1962.991516,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1995.150097,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1999.192777,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1999.192777,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1999.7235260000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-1999.7235260000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2001.998899,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2001.998899,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2006.9635449999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2009.1409079999999,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2010.5721670000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2010.5721670000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2012.621889,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2014.378497,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2016.703387,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2018.21225,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2018.21225,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2019.294202,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2021.4753600000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2021.4753600000001,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2022.8294850000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2024.283555,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2024.283555,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2025.652997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2026.030989,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2026.030989,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2028.613623,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2030.434536,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2030.434536,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2032.816304,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2064.923025,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2069.322348,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2071.628352,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2075.233558,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2102.152859,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2104.377402,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2104.377402,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2107.0815789999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2110.7708829999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2112.019796,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2115.609607,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2117.801423,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2121.851909,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2124.0003739999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2132.119925,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2134.977775,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2141.280256,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2143.3835010000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2143.3835010000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2146.055651,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2146.899461,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2146.899461,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2148.420067,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2151.271824,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2153.5668379999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2153.5668379999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2173.689052,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2175.04497,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2175.04497,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2176.6665120000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2178.788128,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2181.954054,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2185.3449960000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2190.33895,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2224.882186,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2229.4531850000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2229.4531850000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2230.9935609999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2231.51089,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2231.51089,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2233.278526,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2235.214672,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2237.8025989999996,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2240.900804,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2243.564286,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2247.778172,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2249.209318,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2253.440379,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2256.7523149999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2260.051279,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2295.331201,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2295.331201,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2296.771142,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2296.771142,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2311.246713,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2313.681136,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2313.681136,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2315.1591780000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2317.525278,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2321.246521,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2322.963184,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2322.963184,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2325.720879,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2328.012463,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2329.967929,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2330.6928390000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2332.05328,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2353.015355,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2353.015355,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2354.645132,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2354.645132,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2356.8224219999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2356.8224219999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2358.690794,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2363.090611,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2365.801505,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2367.022684,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2367.022684,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2370.468696,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2370.468696,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2373.492847,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2399.250431,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2400.15592,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2402.3284559999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2403.763544,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2405.3070989999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2430.506157,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2432.650242,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2432.650242,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2434.2678809999998,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2435.886787,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2439.1612649999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2441.7956879999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2443.3846949999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2443.3846949999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2444.7220399999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2446.631273,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2447.345218,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2448.687308,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2469.32509,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2476.280656,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2477.899924,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2479.525137,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2480.267144,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2481.651804,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2483.5839140000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2486.438981,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2511.5317170000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2515.216385,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2515.216385,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2516.704833,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2516.721312,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2517.6967879999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2517.6967879999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2520.4418170000004,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2520.4564170000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2522.950407,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2522.950407,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2525.69832,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2559.5630920000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2566.170988,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2566.170988,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2568.518518,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2569.3986670000004,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2570.997314,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2573.251927,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2573.251927,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2587.493669,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2603.485628,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2607.4798370000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2607.4798370000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2609.070358,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2610.97893,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2610.97893,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2613.056054,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2636.873597,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2638.245223,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2639.450946,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2639.450946,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2641.048137,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2641.450287,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2644.3683960000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2674.698962,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2676.136595,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2677.025196,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2679.015265,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2679.015265,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2680.410672,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2680.410672,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2680.86842,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2682.6692829999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2699.6455739999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2701.227105,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2702.645309,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2708.91259,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2708.91259,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2712.3265850000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2712.3265850000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2715.076237,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2717.826354,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2719.345096,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2734.032125,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2736.478767,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2737.0099210000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2744.94024,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2748.306893,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2748.306893,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2762.8962260000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2764.056502,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2766.024018,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2768.018455,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2770.159385,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2773.091306,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2773.091306,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2774.8645460000002,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2776.6984260000004,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2776.6984260000004,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2779.1513379999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2782.117478,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2785.0469550000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2790.688955,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2790.688955,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2793.213559,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2795.516264,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2798.008146,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2799.752861,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2799.752861,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2803.4981780000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2803.4981780000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2805.610116,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2823.952259,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2825.7802269999997,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2828.747282,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2830.614301,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2836.145109,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2841.121956,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2842.836213,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2844.285112,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2846.119948,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2846.119948,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2849.080244,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2853.861735,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2854.923401,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2857.883487,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2860.152182,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2882.97762,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2884.930884,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2886.147897,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2886.147897,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2887.380078,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2887.380078,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2887.534336,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2887.534336,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2891.023764,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2891.023764,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2894.7027190000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2934.9447370000003,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
-2946.886247,1,Opponent1,Opponent1_D1,,1H,2810.221212,Offside,,89.0,17.0,100.0,100.0
+EventTime,MatchID,TeamID,OriginPlayerID,DestinationPlayerID,MatchPeriod,EventType,EventSubType,EventOrigin_x,EventOrigin_y,EventDestination_x,EventDestination_y
+31.17,1,Huskies,Huskies_G1,,1H,Free Kick,Goal kick,0.0,0.0,66.0,89.0
+33.73,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,34.0,11.0,22.0,0.0
+33.81,1,Huskies,Huskies_F1,,1H,Duel,Air duel,66.0,89.0,78.0,100.0
+42.61,1,Opponent1,Opponent1_D2,,1H,Free Kick,Throw in,22.0,0.0,66.0,3.0
+46.32,1,Huskies,Huskies_D1,Huskies_F1,1H,Pass,Head pass,34.0,97.0,59.0,95.0
+47.0,1,Huskies,Huskies_F1,,1H,Duel,Ground loose ball duel,59.0,95.0,64.0,94.0
+47.21,1,Opponent1,Opponent1_D1,,1H,Duel,Ground loose ball duel,41.0,5.0,36.0,6.0
+48.49,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,36.0,6.0,45.0,5.0
+49.88,1,Huskies,Huskies_F1,,1H,Pass,Head pass,55.0,95.0,57.0,93.0
+50.11,1,Opponent1,Opponent1_D1,,1H,Duel,Ground loose ball duel,43.0,7.0,47.0,11.0
+51.02,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,53.0,89.0,69.0,91.0
+51.62,1,Huskies,Huskies_F2,,1H,Pass,Simple pass,69.0,91.0,75.0,100.0
+62.22,1,Opponent1,Opponent1_D2,,1H,Free Kick,Throw in,30.0,0.0,40.0,0.0
+85.96,1,Huskies,Huskies_F1,,1H,Free Kick,Throw in,65.0,100.0,81.0,84.0
+89.01,1,Opponent1,Opponent1_D2,Opponent1_G1,1H,Pass,Simple pass,19.0,16.0,5.0,50.0
+92.22,1,Opponent1,Opponent1_G1,Opponent1_F1,1H,Pass,Launch,5.0,50.0,67.0,44.0
+95.98,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,67.0,44.0,58.0,45.0
+96.95,1,Huskies,Huskies_D2,,1H,Duel,Air duel,33.0,56.0,42.0,55.0
+98.27,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,42.0,55.0,36.0,54.0
+99.4,1,Huskies,Huskies_M3,,1H,Pass,Simple pass,36.0,54.0,36.0,63.0
+99.76,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,64.0,37.0,70.0,5.0
+103.36,1,Huskies,Huskies_D1,,1H,Pass,High pass,30.0,95.0,72.0,97.0
+105.0,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,28.0,3.0,39.0,7.0
+106.14,1,Huskies,Huskies_F1,,1H,Duel,Air duel,72.0,97.0,61.0,93.0
+107.85,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,39.0,7.0,27.0,2.0
+108.29,1,Huskies,Huskies_F1,,1H,Others on the ball,Touch,73.0,98.0,70.0,89.0
+109.03,1,Opponent1,Opponent1_D1,Opponent1_F2,1H,Pass,Simple pass,30.0,11.0,31.0,22.0
+111.03,1,Opponent1,Opponent1_F2,Opponent1_D2,1H,Pass,Simple pass,31.0,22.0,27.0,23.0
+112.86,1,Opponent1,Opponent1_D2,Opponent1_M1,1H,Pass,High pass,27.0,23.0,36.0,6.0
+115.29,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,36.0,6.0,35.0,2.0
+116.88,1,Huskies,Huskies_F1,,1H,Others on the ball,Touch,65.0,98.0,66.0,100.0
+127.73,1,Opponent1,Opponent1_D2,,1H,Free Kick,Throw in,34.0,0.0,66.0,9.0
+130.66,1,Huskies,Huskies_D1,Huskies_F1,1H,Pass,Head pass,34.0,91.0,52.0,97.0
+134.6,1,Huskies,Huskies_F1,,1H,Duel,Ground defending duel,52.0,97.0,47.0,100.0
+148.69,1,Opponent1,Opponent1_D1,,1H,Free Kick,Throw in,53.0,0.0,48.0,12.0
+151.85,1,Opponent1,Opponent1_F2,Opponent1_D3,1H,Pass,Simple pass,48.0,12.0,46.0,56.0
+154.64,1,Opponent1,Opponent1_D3,Opponent1_M2,1H,Pass,Simple pass,46.0,56.0,56.0,68.0
+158.52,1,Opponent1,Opponent1_M2,,1H,Pass,High pass,56.0,68.0,86.0,35.0
+161.22,1,Huskies,Huskies_D1,Huskies_G1,1H,Pass,Simple pass,14.0,65.0,11.0,50.0
+164.63,1,Huskies,Huskies_G1,Huskies_G1,1H,Pass,Hand pass,11.0,50.0,5.0,45.0
+169.31,1,Huskies,Huskies_G1,,1H,Pass,Launch,5.0,45.0,47.0,89.0
+171.94,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,53.0,11.0,91.0,18.0
+176.84,1,Huskies,Huskies_G1,,1H,Pass,Launch,9.0,82.0,62.0,91.0
+180.25,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,38.0,9.0,59.0,14.0
+180.83,1,Huskies,Huskies_F1,,1H,Duel,Air duel,62.0,91.0,41.0,86.0
+183.46,1,Huskies,Huskies_M3,,1H,Others on the ball,Touch,41.0,86.0,35.0,90.0
+183.99,1,Huskies,Huskies_D1,,1H,Duel,Ground loose ball duel,35.0,90.0,28.0,94.0
+184.28,1,Opponent1,Opponent1_M1,,1H,Duel,Ground loose ball duel,65.0,10.0,72.0,6.0
+188.33,1,Huskies,Huskies_D1,,1H,Others on the ball,Touch,28.0,94.0,32.0,90.0
+188.66,1,Opponent1,Opponent1_M1,,1H,Duel,Ground attacking duel,68.0,10.0,75.0,0.0
+190.33,1,Huskies,Huskies_D1,,1H,Duel,Ground defending duel,32.0,90.0,25.0,100.0
+201.19,1,Huskies,Huskies_D1,,1H,Free Kick,Throw in,25.0,100.0,39.0,95.0
+203.18,1,Huskies,Huskies_F2,,1H,Duel,Ground attacking duel,39.0,95.0,44.0,95.0
+203.34,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,61.0,5.0,56.0,5.0
+206.6,1,Huskies,Huskies_F2,,1H,Duel,Ground defending duel,44.0,95.0,44.0,94.0
+206.87,1,Opponent1,Opponent1_M1,,1H,Duel,Ground attacking duel,56.0,5.0,56.0,6.0
+209.47,1,Huskies,Huskies_F2,,1H,Foul,Foul,44.0,94.0,44.0,95.0
+236.08,1,Opponent1,Opponent1_D1,,1H,Free Kick,Free kick cross,59.0,9.0,100.0,100.0
+238.03,1,Huskies,Huskies_G1,,1H,Goalkeeper leaving line,Goalkeeper leaving line,0.0,0.0,41.0,91.0
+239.48,1,Opponent1,Opponent1_F3,,1H,Duel,Air duel,89.0,59.0,74.0,67.0
+239.99,1,Huskies,Huskies_G1,,1H,Duel,Air duel,11.0,41.0,26.0,33.0
+240.31,1,Opponent1,Opponent1_M3,,1H,Duel,Air duel,74.0,67.0,83.0,8.0
+240.71,1,Huskies,Huskies_M2,,1H,Duel,Air duel,26.0,33.0,17.0,92.0
+247.47,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,17.0,92.0,22.0,62.0
+249.69,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,22.0,62.0,19.0,24.0
+251.51,1,Huskies,Huskies_D3,Huskies_G1,1H,Pass,Simple pass,19.0,24.0,8.0,45.0
+257.3,1,Huskies,Huskies_G1,Huskies_D3,1H,Pass,Simple pass,8.0,45.0,19.0,13.0
+259.61,1,Huskies,Huskies_D3,Huskies_G1,1H,Pass,Simple pass,19.0,13.0,12.0,38.0
+263.91,1,Huskies,Huskies_G1,,1H,Pass,Launch,12.0,38.0,68.0,93.0
+266.64,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,32.0,7.0,36.0,0.0
+267.58,1,Huskies,Huskies_F1,,1H,Duel,Air duel,68.0,93.0,64.0,100.0
+286.5,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,48.0,50.0,55.0,24.0
+288.28,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,55.0,24.0,60.0,5.0
+291.12,1,Huskies,Huskies_D4,Huskies_D3,1H,Pass,Simple pass,60.0,5.0,33.0,21.0
+294.67,1,Huskies,Huskies_D3,Huskies_G1,1H,Pass,Simple pass,33.0,21.0,15.0,70.0
+298.52,1,Huskies,Huskies_G1,Huskies_F1,1H,Pass,High pass,15.0,70.0,60.0,99.0
+301.88,1,Huskies,Huskies_F1,,1H,Duel,Air duel,60.0,99.0,59.0,100.0
+314.68,1,Opponent1,Opponent1_D2,,1H,Free Kick,Throw in,41.0,0.0,70.0,7.0
+317.0,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,70.0,7.0,55.0,12.0
+317.43,1,Huskies,Huskies_D1,,1H,Duel,Air duel,30.0,93.0,45.0,88.0
+318.88,1,Opponent1,Opponent1_M1,Opponent1_D1,1H,Pass,Simple pass,55.0,12.0,62.0,9.0
+320.77,1,Opponent1,Opponent1_D1,,1H,Pass,Simple pass,62.0,9.0,73.0,4.0
+321.89,1,Huskies,Huskies_D1,,1H,Others on the ball,Touch,27.0,96.0,30.0,95.0
+323.97,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,30.0,95.0,19.0,98.0
+324.3,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,70.0,5.0,81.0,2.0
+325.78,1,Huskies,Huskies_D1,Huskies_M3,1H,Pass,Simple pass,19.0,98.0,35.0,86.0
+329.57,1,Huskies,Huskies_M3,Huskies_M1,1H,Pass,Simple pass,35.0,86.0,30.0,97.0
+331.79,1,Huskies,Huskies_M1,,1H,Pass,Simple pass,30.0,97.0,48.0,87.0
+332.3,1,Opponent1,Opponent1_M1,,1H,Others on the ball,Touch,52.0,13.0,47.0,0.0
+342.43,1,Huskies,Huskies_M1,,1H,Free Kick,Throw in,61.0,100.0,66.0,93.0
+343.78,1,Huskies,Huskies_F3,,1H,Others on the ball,Touch,66.0,93.0,53.0,89.0
+344.97,1,Opponent1,Opponent1_F2,,1H,Duel,Ground loose ball duel,47.0,11.0,52.0,14.0
+345.48,1,Huskies,Huskies_F3,,1H,Duel,Ground loose ball duel,53.0,89.0,48.0,86.0
+346.1,1,Opponent1,Opponent1_F1,,1H,Pass,Simple pass,52.0,14.0,53.0,41.0
+349.65,1,Huskies,Huskies_M2,Huskies_D3,1H,Pass,Simple pass,47.0,59.0,47.0,27.0
+352.6,1,Huskies,Huskies_D3,Huskies_M3,1H,Pass,Simple pass,47.0,27.0,45.0,40.0
+354.42,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,45.0,40.0,47.0,12.0
+356.39,1,Huskies,Huskies_D3,,1H,Pass,High pass,47.0,12.0,99.0,9.0
+376.49,1,Opponent1,Opponent1_G1,,1H,Free Kick,Goal kick,100.0,100.0,19.0,68.0
+380.02,1,Opponent1,Opponent1_D4,Opponent1_M3,1H,Pass,Simple pass,19.0,68.0,27.0,65.0
+380.84,1,Opponent1,Opponent1_M3,Opponent1_D3,1H,Pass,Simple pass,27.0,65.0,27.0,90.0
+383.04,1,Opponent1,Opponent1_D3,,1H,Others on the ball,Touch,27.0,90.0,49.0,90.0
+386.39,1,Opponent1,Opponent1_D3,,1H,Pass,High pass,49.0,90.0,92.0,45.0
+390.71,1,Huskies,Huskies_G1,Huskies_D1,1H,Pass,Hand pass,8.0,55.0,25.0,94.0
+395.61,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,25.0,94.0,24.0,55.0
+398.39,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,24.0,55.0,24.0,20.0
+401.47,1,Huskies,Huskies_D3,Huskies_M2,1H,Pass,Simple pass,24.0,20.0,33.0,20.0
+402.51,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,33.0,20.0,33.0,35.0
+403.23,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,33.0,35.0,24.0,24.0
+405.51,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,24.0,24.0,29.0,68.0
+409.4,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,29.0,68.0,25.0,88.0
+411.01,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,25.0,88.0,31.0,99.0
+413.9,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,31.0,99.0,27.0,88.0
+415.52,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,27.0,88.0,29.0,53.0
+417.78,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,29.0,53.0,37.0,14.0
+421.15,1,Huskies,Huskies_D3,Huskies_M2,1H,Pass,Simple pass,37.0,14.0,42.0,16.0
+423.25,1,Huskies,Huskies_M2,Huskies_D2,1H,Pass,Simple pass,42.0,16.0,36.0,54.0
+426.78,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,36.0,54.0,32.0,85.0
+429.55,1,Huskies,Huskies_D1,Huskies_F2,1H,Pass,Simple pass,32.0,85.0,59.0,67.0
+430.17,1,Huskies,Huskies_F2,,1H,Duel,Ground loose ball duel,59.0,67.0,58.0,70.0
+430.18,1,Opponent1,Opponent1_M1,,1H,Duel,Ground loose ball duel,41.0,33.0,42.0,30.0
+432.04,1,Opponent1,Opponent1_M3,Opponent1_F2,1H,Pass,Simple pass,42.0,30.0,47.0,50.0
+435.13,1,Opponent1,Opponent1_F2,Opponent1_D3,1H,Pass,Simple pass,47.0,50.0,41.0,54.0
+437.28,1,Opponent1,Opponent1_D3,Opponent1_G1,1H,Pass,Simple pass,41.0,54.0,14.0,55.0
+440.93,1,Opponent1,Opponent1_G1,Opponent1_D3,1H,Pass,Simple pass,14.0,55.0,36.0,85.0
+446.43,1,Opponent1,Opponent1_D3,Opponent1_M3,1H,Pass,Simple pass,36.0,85.0,41.0,70.0
+448.82,1,Opponent1,Opponent1_M3,Opponent1_D2,1H,Pass,Simple pass,41.0,70.0,51.0,13.0
+452.25,1,Opponent1,Opponent1_D2,Opponent1_D1,1H,Pass,High pass,51.0,13.0,84.0,12.0
+457.04,1,Opponent1,Opponent1_D1,,1H,Offside,,84.0,12.0,100.0,100.0
+469.36,1,Huskies,Huskies_D1,,1H,Free Kick,Free Kick,23.0,92.0,38.0,74.0
+470.53,1,Huskies,Huskies_M3,Huskies_D1,1H,Pass,Simple pass,38.0,74.0,23.0,81.0
+472.35,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,23.0,81.0,33.0,56.0
+475.82,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,33.0,56.0,31.0,16.0
+478.06,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,31.0,16.0,35.0,59.0
+483.46,1,Huskies,Huskies_D2,Huskies_M3,1H,Pass,Simple pass,35.0,59.0,37.0,42.0
+486.9,1,Huskies,Huskies_M3,Huskies_D2,1H,Pass,Simple pass,37.0,42.0,41.0,84.0
+488.64,1,Huskies,Huskies_D2,Huskies_M1,1H,Pass,Simple pass,41.0,84.0,49.0,97.0
+492.91,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,49.0,97.0,40.0,86.0
+495.2,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,40.0,86.0,43.0,46.0
+499.18,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,43.0,46.0,44.0,13.0
+502.13,1,Huskies,Huskies_D3,,1H,Pass,Simple pass,44.0,13.0,46.0,16.0
+504.4,1,Opponent1,Opponent1_F3,Opponent1_F2,1H,Pass,Simple pass,54.0,84.0,55.0,48.0
+506.68,1,Opponent1,Opponent1_F2,Opponent1_M2,1H,Pass,Simple pass,55.0,48.0,55.0,32.0
+510.87,1,Opponent1,Opponent1_M2,Opponent1_D1,1H,Pass,Simple pass,55.0,32.0,43.0,28.0
+512.29,1,Opponent1,Opponent1_D1,Opponent1_D2,1H,Pass,Simple pass,43.0,28.0,41.0,38.0
+515.23,1,Opponent1,Opponent1_D2,,1H,Others on the ball,Touch,41.0,38.0,61.0,52.0
+516.92,1,Opponent1,Opponent1_D2,Opponent1_M3,1H,Pass,Simple pass,61.0,52.0,57.0,86.0
+520.31,1,Opponent1,Opponent1_M3,Opponent1_F3,1H,Pass,Smart pass,57.0,86.0,99.0,72.0
+521.96,1,Opponent1,Opponent1_F3,,1H,Pass,Cross,99.0,72.0,100.0,100.0
+525.39,1,Huskies,Huskies_G1,,1H,Save attempt,Save attempt,0.0,0.0,1.0,28.0
+560.07,1,Opponent1,Opponent1_M2,,1H,Free Kick,Corner,100.0,100.0,97.0,58.0
+564.35,1,Huskies,Huskies_F2,,1H,Others on the ball,Clearance,3.0,42.0,0.0,49.0
+601.19,1,Opponent1,Opponent1_M2,,1H,Free Kick,Corner,100.0,2.0,92.0,37.0
+603.68,1,Huskies,Huskies_F2,,1H,Others on the ball,Clearance,8.0,63.0,38.0,32.0
+605.78,1,Opponent1,Opponent1_M3,Opponent1_D1,1H,Pass,Simple pass,62.0,68.0,55.0,29.0
+607.67,1,Opponent1,Opponent1_D1,Opponent1_M1,1H,Pass,Simple pass,55.0,29.0,60.0,27.0
+609.74,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,Pass,Simple pass,60.0,27.0,71.0,8.0
+611.63,1,Opponent1,Opponent1_M2,Opponent1_F2,1H,Pass,Simple pass,71.0,8.0,67.0,14.0
+614.12,1,Opponent1,Opponent1_F2,Opponent1_M2,1H,Pass,Smart pass,67.0,14.0,90.0,7.0
+617.46,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,90.0,7.0,93.0,7.0
+619.15,1,Huskies,Huskies_F1,,1H,Duel,Ground defending duel,10.0,93.0,7.0,93.0
+621.48,1,Opponent1,Opponent1_M2,,1H,Duel,Ground defending duel,93.0,7.0,94.0,16.0
+626.52,1,Huskies,Huskies_M1,,1H,Pass,High pass,6.0,84.0,47.0,85.0
+628.55,1,Opponent1,Opponent1_D2,Opponent1_F2,1H,Pass,Head pass,53.0,15.0,75.0,10.0
+630.79,1,Opponent1,Opponent1_F2,,1H,Pass,Simple pass,75.0,10.0,69.0,32.0
+632.3,1,Huskies,Huskies_D2,,1H,Duel,Ground loose ball duel,31.0,68.0,35.0,61.0
+633.12,1,Opponent1,Opponent1_F1,,1H,Duel,Ground loose ball duel,69.0,32.0,65.0,39.0
+634.32,1,Huskies,Huskies_D2,Huskies_F2,1H,Pass,Simple pass,35.0,61.0,32.0,72.0
+634.79,1,Huskies,Huskies_F2,,1H,Duel,Ground loose ball duel,32.0,72.0,26.0,69.0
+634.8,1,Opponent1,Opponent1_M1,,1H,Duel,Ground loose ball duel,68.0,28.0,74.0,31.0
+635.81,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,74.0,31.0,71.0,32.0
+636.69,1,Huskies,Huskies_D2,,1H,Duel,Ground defending duel,29.0,68.0,20.0,67.0
+638.16,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,71.0,32.0,80.0,33.0
+638.72,1,Huskies,Huskies_D1,Huskies_D3,1H,Pass,Simple pass,20.0,67.0,22.0,37.0
+639.54,1,Huskies,Huskies_D3,,1H,Others on the ball,Touch,22.0,37.0,41.0,42.0
+644.85,1,Huskies,Huskies_D3,Huskies_M3,1H,Pass,Simple pass,41.0,42.0,44.0,35.0
+648.45,1,Huskies,Huskies_M3,Huskies_M2,1H,Pass,Simple pass,44.0,35.0,58.0,25.0
+648.79,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,58.0,25.0,44.0,45.0
+654.27,1,Huskies,Huskies_M3,Huskies_D1,1H,Pass,Simple pass,44.0,45.0,45.0,88.0
+656.79,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,45.0,88.0,46.0,66.0
+658.98,1,Huskies,Huskies_M1,Huskies_D2,1H,Pass,Simple pass,46.0,66.0,35.0,53.0
+660.93,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,35.0,53.0,36.0,26.0
+662.82,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,36.0,26.0,44.0,9.0
+664.19,1,Huskies,Huskies_D4,Huskies_D3,1H,Pass,Simple pass,44.0,9.0,29.0,28.0
+666.4,1,Huskies,Huskies_D3,Huskies_D1,1H,Pass,Simple pass,29.0,28.0,30.0,88.0
+670.79,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,30.0,88.0,54.0,98.0
+672.49,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,54.0,98.0,40.0,88.0
+677.03,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,40.0,88.0,39.0,58.0
+679.63,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,39.0,58.0,42.0,22.0
+681.35,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,42.0,22.0,45.0,7.0
+683.98,1,Huskies,Huskies_D4,,1H,Pass,High pass,45.0,7.0,86.0,29.0
+687.07,1,Opponent1,Opponent1_G1,,1H,Others on the ball,Touch,14.0,71.0,13.0,69.0
+694.41,1,Opponent1,Opponent1_G1,Opponent1_D3,1H,Pass,Hand pass,13.0,69.0,28.0,96.0
+698.0,1,Opponent1,Opponent1_D3,Opponent1_M2,1H,Pass,Simple pass,28.0,96.0,32.0,91.0
+699.27,1,Opponent1,Opponent1_M2,Opponent1_G1,1H,Pass,Simple pass,32.0,91.0,9.0,64.0
+701.25,1,Opponent1,Opponent1_G1,,1H,Others on the ball,Clearance,9.0,64.0,14.0,100.0
+716.08,1,Huskies,Huskies_D4,,1H,Free Kick,Throw in,88.0,0.0,88.0,10.0
+717.48,1,Huskies,Huskies_M2,Huskies_D4,1H,Pass,Simple pass,88.0,10.0,94.0,5.0
+719.44,1,Huskies,Huskies_D4,Huskies_M2,1H,Pass,Simple pass,94.0,5.0,82.0,5.0
+721.2,1,Huskies,Huskies_M2,,1H,Pass,Simple pass,82.0,5.0,88.0,27.0
+721.76,1,Opponent1,Opponent1_M1,,1H,Duel,Ground loose ball duel,12.0,73.0,16.0,70.0
+721.77,1,Huskies,Huskies_F2,,1H,Duel,Ground loose ball duel,88.0,27.0,84.0,30.0
+723.55,1,Huskies,Huskies_F3,,1H,Duel,Ground attacking duel,84.0,30.0,83.0,45.0
+724.44,1,Opponent1,Opponent1_D4,,1H,Duel,Ground defending duel,16.0,70.0,17.0,55.0
+725.76,1,Huskies,Huskies_F3,,1H,Shot,Shot,83.0,45.0,0.0,0.0
+755.18,1,Opponent1,Opponent1_G1,,1H,Free Kick,Goal kick,100.0,100.0,74.0,95.0
+761.45,1,Opponent1,Opponent1_M2,,1H,Pass,Simple pass,74.0,95.0,69.0,96.0
+763.94,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,31.0,4.0,26.0,15.0
+766.38,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,26.0,15.0,28.0,46.0
+768.96,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,28.0,46.0,27.0,75.0
+770.16,1,Huskies,Huskies_D1,,1H,Others on the ball,Touch,27.0,75.0,43.0,78.0
+773.4,1,Huskies,Huskies_D1,,1H,Pass,High pass,43.0,78.0,73.0,100.0
+788.51,1,Opponent1,Opponent1_D2,,1H,Free Kick,Throw in,26.0,0.0,44.0,13.0
+792.59,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,44.0,13.0,37.0,7.0
+793.18,1,Opponent1,Opponent1_D1,,1H,Pass,Head pass,37.0,7.0,56.0,12.0
+793.29,1,Huskies,Huskies_D1,,1H,Duel,Ground defending duel,56.0,87.0,44.0,88.0
+794.79,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,56.0,12.0,56.0,15.0
+795.15,1,Huskies,Huskies_D2,,1H,Duel,Air duel,44.0,88.0,44.0,85.0
+797.65,1,Huskies,Huskies_D2,,1H,Foul,Foul,44.0,85.0,44.0,88.0
+825.83,1,Opponent1,Opponent1_D1,,1H,Free Kick,Free Kick,55.0,9.0,89.0,47.0
+829.86,1,Huskies,Huskies_D2,,1H,Duel,Air duel,11.0,53.0,24.0,56.0
+829.87,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,89.0,47.0,76.0,44.0
+830.74,1,Opponent1,Opponent1_M3,,1H,Others on the ball,Touch,76.0,44.0,80.0,46.0
+831.33,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,20.0,54.0,23.0,63.0
+833.17,1,Huskies,Huskies_F2,Huskies_F1,1H,Pass,Head pass,23.0,63.0,31.0,97.0
+835.14,1,Huskies,Huskies_F1,,1H,Duel,Ground attacking duel,31.0,97.0,32.0,88.0
+836.82,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,68.0,12.0,67.0,5.0
+837.62,1,Huskies,Huskies_F1,,1H,Duel,Ground defending duel,32.0,88.0,33.0,95.0
+840.03,1,Huskies,Huskies_F1,,1H,Foul,Foul,33.0,95.0,32.0,88.0
+864.58,1,Opponent1,Opponent1_M2,,1H,Free Kick,Free kick cross,72.0,4.0,89.0,65.0
+868.74,1,Opponent1,Opponent1_D4,,1H,Duel,Air duel,89.0,65.0,87.0,65.0
+869.21,1,Opponent1,Opponent1_D4,,1H,Duel,Air duel,87.0,65.0,76.0,65.0
+871.51,1,Opponent1,Opponent1_M3,,1H,Shot,Shot,76.0,65.0,100.0,100.0
+872.88,1,Huskies,Huskies_D1,,1H,Pass,Simple pass,9.0,57.0,12.0,40.0
+873.33,1,Opponent1,Opponent1_D4,,1H,Others on the ball,Touch,88.0,60.0,83.0,67.0
+874.35,1,Opponent1,Opponent1_M3,,1H,Shot,Shot,83.0,67.0,100.0,100.0
+875.23,1,Huskies,Huskies_D2,,1H,Others on the ball,Touch,11.0,46.0,41.0,13.0
+876.59,1,Huskies,Huskies_F3,Huskies_M2,1H,Pass,Simple pass,41.0,13.0,37.0,25.0
+877.62,1,Huskies,Huskies_M2,Huskies_F3,1H,Pass,Simple pass,37.0,25.0,44.0,11.0
+879.95,1,Huskies,Huskies_F3,,1H,Pass,High pass,44.0,11.0,47.0,45.0
+880.62,1,Opponent1,Opponent1_M3,,1H,Pass,Head pass,53.0,55.0,67.0,46.0
+882.97,1,Huskies,Huskies_D2,,1H,Pass,Launch,33.0,54.0,61.0,21.0
+885.82,1,Opponent1,Opponent1_D3,,1H,Duel,Air duel,39.0,79.0,48.0,57.0
+885.86,1,Huskies,Huskies_M2,,1H,Duel,Air duel,61.0,21.0,52.0,43.0
+886.66,1,Opponent1,Opponent1_M3,,1H,Duel,Air duel,48.0,57.0,57.0,60.0
+887.05,1,Huskies,Huskies_M3,,1H,Duel,Air duel,52.0,43.0,43.0,40.0
+888.41,1,Huskies,Huskies_D3,Huskies_F3,1H,Pass,High pass,43.0,40.0,76.0,8.0
+892.35,1,Huskies,Huskies_F3,,1H,Offside,,76.0,8.0,0.0,0.0
+902.58,1,Opponent1,Opponent1_D3,,1H,Free Kick,Free Kick,28.0,88.0,19.0,61.0
+907.77,1,Opponent1,Opponent1_G1,Opponent1_D2,1H,Pass,Simple pass,19.0,61.0,42.0,16.0
+911.12,1,Opponent1,Opponent1_D2,Opponent1_F1,1H,Pass,High pass,42.0,16.0,85.0,48.0
+913.59,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,85.0,48.0,71.0,21.0
+914.3,1,Huskies,Huskies_D2,,1H,Duel,Air duel,15.0,52.0,29.0,79.0
+918.98,1,Huskies,Huskies_D1,Huskies_F3,1H,Pass,Simple pass,29.0,79.0,54.0,51.0
+921.82,1,Huskies,Huskies_F3,,1H,Pass,Simple pass,54.0,51.0,44.0,42.0
+922.55,1,Opponent1,Opponent1_M2,,1H,Others on the ball,Touch,56.0,58.0,67.0,66.0
+925.08,1,Opponent1,Opponent1_M2,,1H,Duel,Ground defending duel,67.0,66.0,66.0,77.0
+926.62,1,Huskies,Huskies_M3,,1H,Duel,Ground attacking duel,33.0,34.0,34.0,23.0
+928.05,1,Opponent1,Opponent1_M2,,1H,Foul,Foul,66.0,77.0,67.0,66.0
+937.66,1,Huskies,Huskies_D3,,1H,Free Kick,Free Kick,28.0,24.0,28.0,49.0
+940.15,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,28.0,49.0,27.0,80.0
+942.51,1,Huskies,Huskies_D1,,1H,Pass,Simple pass,27.0,80.0,67.0,95.0
+944.87,1,Opponent1,Opponent1_F2,,1H,Duel,Ground defending duel,33.0,5.0,30.0,7.0
+946.33,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,67.0,95.0,70.0,93.0
+947.23,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,30.0,7.0,30.0,16.0
+948.07,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,70.0,93.0,70.0,84.0
+948.63,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,Pass,Simple pass,30.0,16.0,37.0,33.0
+952.73,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,Pass,Simple pass,37.0,33.0,47.0,54.0
+955.05,1,Opponent1,Opponent1_M2,,1H,Pass,High pass,47.0,54.0,71.0,0.0
+972.75,1,Huskies,Huskies_D1,,1H,Free Kick,Throw in,18.0,100.0,42.0,90.0
+974.16,1,Opponent1,Opponent1_M1,Opponent1_F1,1H,Pass,Simple pass,58.0,10.0,73.0,15.0
+976.67,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,73.0,15.0,64.0,27.0
+977.64,1,Huskies,Huskies_M2,Huskies_D2,1H,Pass,Simple pass,36.0,73.0,27.0,85.0
+977.71,1,Huskies,Huskies_D2,,1H,Duel,Ground defending duel,27.0,85.0,29.0,80.0
+978.08,1,Opponent1,Opponent1_F1,Opponent1_M1,1H,Pass,Simple pass,71.0,20.0,56.0,26.0
+978.89,1,Opponent1,Opponent1_M1,Opponent1_D3,1H,Pass,Simple pass,56.0,26.0,63.0,60.0
+983.65,1,Opponent1,Opponent1_D3,Opponent1_M1,1H,Pass,Simple pass,63.0,60.0,60.0,36.0
+987.19,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,Pass,Simple pass,60.0,36.0,71.0,67.0
+989.24,1,Opponent1,Opponent1_M2,Opponent1_D3,1H,Pass,Simple pass,71.0,67.0,57.0,71.0
+991.23,1,Opponent1,Opponent1_D3,Opponent1_M1,1H,Pass,Simple pass,57.0,71.0,55.0,52.0
+995.01,1,Opponent1,Opponent1_M1,Opponent1_D2,1H,Pass,Simple pass,55.0,52.0,58.0,32.0
+997.71,1,Opponent1,Opponent1_D2,Opponent1_M3,1H,Pass,Simple pass,58.0,32.0,65.0,40.0
+999.24,1,Opponent1,Opponent1_M3,Opponent1_M1,1H,Pass,Simple pass,65.0,40.0,64.0,56.0
+1002.01,1,Opponent1,Opponent1_M1,Opponent1_D2,1H,Pass,Simple pass,64.0,56.0,75.0,30.0
+1003.71,1,Opponent1,Opponent1_D2,Opponent1_F2,1H,Pass,Simple pass,75.0,30.0,72.0,59.0
+1007.93,1,Opponent1,Opponent1_F2,,1H,Pass,Simple pass,72.0,59.0,77.0,71.0
+1010.18,1,Huskies,Huskies_M2,,1H,Duel,Ground defending duel,23.0,29.0,16.0,32.0
+1010.4,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,77.0,71.0,84.0,68.0
+1011.18,1,Huskies,Huskies_D3,,1H,Duel,Ground defending duel,16.0,32.0,23.0,67.0
+1013.02,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,77.0,33.0,78.0,18.0
+1014.31,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,23.0,67.0,22.0,82.0
+1017.85,1,Opponent1,Opponent1_M2,Opponent1_M2,1H,Pass,Simple pass,78.0,18.0,74.0,8.0
+1018.98,1,Opponent1,Opponent1_M2,Opponent1_M1,1H,Pass,Simple pass,74.0,8.0,64.0,40.0
+1024.13,1,Opponent1,Opponent1_M1,Opponent1_F2,1H,Pass,Simple pass,64.0,40.0,69.0,58.0
+1025.49,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,Pass,Simple pass,69.0,58.0,64.0,53.0
+1026.6,1,Opponent1,Opponent1_M1,Opponent1_D3,1H,Pass,Simple pass,64.0,53.0,74.0,83.0
+1032.13,1,Opponent1,Opponent1_D3,Opponent1_F2,1H,Pass,Simple pass,74.0,83.0,66.0,67.0
+1034.9,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,66.0,67.0,63.0,69.0
+1035.55,1,Huskies,Huskies_F2,,1H,Duel,Ground defending duel,34.0,33.0,37.0,31.0
+1037.89,1,Huskies,Huskies_F2,,1H,Foul,Foul,37.0,31.0,34.0,33.0
+1048.46,1,Opponent1,Opponent1_M3,Opponent1_D3,1H,Pass,Simple pass,80.0,79.0,80.0,84.0
+1053.57,1,Opponent1,Opponent1_D3,,1H,Duel,Ground attacking duel,80.0,84.0,80.0,84.0
+1055.34,1,Opponent1,Opponent1_D3,,1H,Pass,Cross,80.0,84.0,100.0,32.0
+1077.94,1,Huskies,Huskies_G1,,1H,Free Kick,Goal kick,0.0,0.0,15.0,18.0
+1080.53,1,Huskies,Huskies_D3,Huskies_G1,1H,Pass,Simple pass,15.0,18.0,13.0,45.0
+1083.67,1,Huskies,Huskies_G1,Huskies_M1,1H,Pass,High pass,13.0,45.0,39.0,97.0
+1086.55,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Head pass,39.0,97.0,31.0,77.0
+1088.35,1,Huskies,Huskies_D1,Huskies_M3,1H,Pass,Simple pass,31.0,77.0,33.0,47.0
+1092.13,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,33.0,47.0,29.0,12.0
+1093.8,1,Huskies,Huskies_D3,,1H,Others on the ball,Acceleration,29.0,12.0,71.0,8.0
+1098.11,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,71.0,8.0,72.0,7.0
+1098.9,1,Huskies,Huskies_D4,,1H,Duel,Ground attacking duel,72.0,7.0,72.0,0.0
+1099.28,1,Opponent1,Opponent1_M2,,1H,Duel,Ground defending duel,28.0,93.0,28.0,100.0
+1111.8,1,Huskies,Huskies_D4,,1H,Free Kick,Throw in,72.0,0.0,58.0,8.0
+1114.35,1,Huskies,Huskies_D3,Huskies_D1,1H,Pass,Simple pass,58.0,8.0,41.0,73.0
+1116.54,1,Huskies,Huskies_D1,,1H,Others on the ball,Touch,41.0,73.0,66.0,92.0
+1121.54,1,Huskies,Huskies_D1,,1H,Pass,High pass,66.0,92.0,76.0,67.0
+1122.78,1,Opponent1,Opponent1_D4,,1H,Pass,Head pass,24.0,33.0,38.0,38.0
+1124.06,1,Huskies,Huskies_M3,Huskies_M1,1H,Pass,Simple pass,62.0,62.0,62.0,72.0
+1128.9,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,62.0,72.0,70.0,78.0
+1129.81,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,70.0,78.0,74.0,60.0
+1130.6,1,Huskies,Huskies_M1,,1H,Pass,Simple pass,74.0,60.0,75.0,28.0
+1132.28,1,Opponent1,Opponent1_F3,,1H,Others on the ball,Clearance,25.0,72.0,44.0,13.0
+1136.46,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,44.0,13.0,29.0,8.0
+1137.39,1,Huskies,Huskies_D1,,1H,Duel,Air duel,56.0,87.0,71.0,92.0
+1138.95,1,Opponent1,Opponent1_D1,,1H,Pass,Simple pass,29.0,8.0,21.0,0.0
+1144.2,1,Huskies,Huskies_F1,,1H,Free Kick,Throw in,68.0,100.0,65.0,96.0
+1145.63,1,Huskies,Huskies_M1,Huskies_F1,1H,Pass,Simple pass,65.0,96.0,70.0,98.0
+1148.5,1,Huskies,Huskies_F1,Huskies_F2,1H,Pass,Simple pass,70.0,98.0,68.0,83.0
+1150.56,1,Huskies,Huskies_F2,Huskies_D3,1H,Pass,Simple pass,68.0,83.0,66.0,38.0
+1154.05,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,66.0,38.0,79.0,4.0
+1156.67,1,Huskies,Huskies_D4,,1H,Pass,Simple pass,79.0,4.0,74.0,6.0
+1157.38,1,Opponent1,Opponent1_F3,,1H,Others on the ball,Touch,26.0,94.0,25.0,82.0
+1158.77,1,Opponent1,Opponent1_M2,,1H,Duel,Ground loose ball duel,25.0,82.0,21.0,83.0
+1159.52,1,Huskies,Huskies_M2,,1H,Others on the ball,Touch,79.0,17.0,77.0,0.0
+1176.09,1,Opponent1,Opponent1_D3,,1H,Free Kick,Throw in,26.0,100.0,61.0,94.0
+1178.77,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,61.0,94.0,60.0,96.0
+1179.74,1,Huskies,Huskies_D3,,1H,Duel,Ground defending duel,39.0,6.0,40.0,4.0
+1179.79,1,Opponent1,Opponent1_F1,,1H,Pass,Simple pass,60.0,96.0,43.0,93.0
+1181.01,1,Huskies,Huskies_M2,,1H,Duel,Ground defending duel,57.0,7.0,70.0,8.0
+1181.45,1,Opponent1,Opponent1_M3,,1H,Duel,Ground attacking duel,43.0,93.0,30.0,92.0
+1184.2,1,Huskies,Huskies_M2,Huskies_M1,1H,Pass,Simple pass,70.0,8.0,65.0,61.0
+1186.57,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,65.0,61.0,79.0,72.0
+1187.16,1,Opponent1,Opponent1_F2,,1H,Duel,Ground defending duel,35.0,39.0,21.0,28.0
+1190.19,1,Huskies,Huskies_M1,,1H,Shot,Shot,79.0,72.0,0.0,0.0
+1192.87,1,Opponent1,Opponent1_G1,,1H,Save attempt,Save attempt,100.0,100.0,21.0,28.0
+1212.75,1,Opponent1,Opponent1_D2,Opponent1_G1,1H,Pass,Simple pass,33.0,14.0,18.0,55.0
+1228.92,1,Opponent1,Opponent1_G1,Opponent1_F3,1H,Pass,Launch,18.0,55.0,76.0,88.0
+1231.44,1,Opponent1,Opponent1_F3,,1H,Duel,Air duel,76.0,88.0,77.0,76.0
+1231.62,1,Huskies,Huskies_D3,,1H,Duel,Air duel,24.0,12.0,23.0,24.0
+1232.81,1,Opponent1,Opponent1_F1,,1H,Pass,Head pass,77.0,76.0,72.0,81.0
+1234.89,1,Huskies,Huskies_M3,Huskies_D4,1H,Pass,Simple pass,28.0,19.0,19.0,5.0
+1237.06,1,Huskies,Huskies_D4,Huskies_D2,1H,Pass,Simple pass,19.0,5.0,21.0,39.0
+1240.2,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,21.0,39.0,27.0,76.0
+1243.28,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,27.0,76.0,40.0,96.0
+1246.98,1,Huskies,Huskies_M1,Huskies_F1,1H,Pass,High pass,40.0,96.0,74.0,98.0
+1250.07,1,Huskies,Huskies_F1,,1H,Offside,,74.0,98.0,0.0,0.0
+1281.58,1,Opponent1,Opponent1_G1,,1H,Free Kick,Free Kick,27.0,13.0,78.0,47.0
+1283.91,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,78.0,47.0,71.0,48.0
+1284.8,1,Huskies,Huskies_D2,,1H,Duel,Air duel,22.0,53.0,29.0,52.0
+1285.76,1,Huskies,Huskies_M2,Huskies_G1,1H,Pass,Head pass,29.0,52.0,12.0,43.0
+1299.23,1,Huskies,Huskies_G1,Huskies_M1,1H,Pass,High pass,12.0,43.0,44.0,81.0
+1304.93,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,44.0,81.0,49.0,75.0
+1306.59,1,Huskies,Huskies_F2,Huskies_D1,1H,Pass,Simple pass,49.0,75.0,34.0,80.0
+1308.75,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,34.0,80.0,28.0,51.0
+1311.03,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,28.0,51.0,38.0,24.0
+1314.93,1,Huskies,Huskies_D3,Huskies_M1,1H,Pass,Simple pass,38.0,24.0,42.0,67.0
+1317.25,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,42.0,67.0,54.0,92.0
+1318.78,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,54.0,92.0,61.0,79.0
+1319.69,1,Huskies,Huskies_M1,,1H,Pass,Simple pass,61.0,79.0,69.0,94.0
+1321.84,1,Opponent1,Opponent1_D1,,1H,Duel,Ground defending duel,31.0,6.0,27.0,8.0
+1322.26,1,Huskies,Huskies_F1,,1H,Duel,Ground attacking duel,69.0,94.0,73.0,92.0
+1323.49,1,Opponent1,Opponent1_D1,,1H,Others on the ball,Touch,27.0,8.0,30.0,2.0
+1323.78,1,Huskies,Huskies_F1,Huskies_F2,1H,Pass,Simple pass,70.0,98.0,72.0,100.0
+1333.81,1,Huskies,Huskies_F2,,1H,Free Kick,Throw in,71.0,100.0,60.0,92.0
+1336.83,1,Huskies,Huskies_F3,Huskies_D2,1H,Pass,Simple pass,60.0,92.0,53.0,78.0
+1338.62,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,53.0,78.0,61.0,18.0
+1342.79,1,Huskies,Huskies_D3,Huskies_M3,1H,Pass,Simple pass,61.0,18.0,55.0,51.0
+1347.36,1,Huskies,Huskies_M3,Huskies_M1,1H,Pass,Simple pass,55.0,51.0,51.0,68.0
+1351.19,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,51.0,68.0,62.0,99.0
+1355.64,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,62.0,99.0,58.0,93.0
+1357.8,1,Huskies,Huskies_M1,Huskies_D2,1H,Pass,Simple pass,58.0,93.0,45.0,60.0
+1360.51,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,45.0,60.0,53.0,29.0
+1364.55,1,Huskies,Huskies_D3,Huskies_M2,1H,Pass,Simple pass,53.0,29.0,65.0,22.0
+1365.51,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,65.0,22.0,59.0,37.0
+1366.28,1,Huskies,Huskies_M3,,1H,Duel,Ground attacking duel,59.0,37.0,60.0,33.0
+1367.82,1,Huskies,Huskies_M3,Huskies_M2,1H,Pass,Simple pass,60.0,33.0,57.0,23.0
+1368.15,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,57.0,23.0,68.0,7.0
+1371.36,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,68.0,7.0,51.0,20.0
+1373.94,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,51.0,20.0,47.0,56.0
+1377.04,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,47.0,56.0,60.0,87.0
+1380.19,1,Huskies,Huskies_D1,Huskies_F1,1H,Pass,Simple pass,60.0,87.0,68.0,97.0
+1382.38,1,Huskies,Huskies_F1,Huskies_D1,1H,Pass,Simple pass,68.0,97.0,89.0,96.0
+1384.76,1,Huskies,Huskies_D1,Huskies_D4,1H,Pass,Cross,89.0,96.0,98.0,3.0
+1389.65,1,Huskies,Huskies_D4,,1H,Pass,Simple pass,98.0,3.0,95.0,7.0
+1390.2,1,Opponent1,Opponent1_F3,,1H,Others on the ball,Touch,5.0,93.0,6.0,100.0
+1394.91,1,Huskies,Huskies_D4,,1H,Free Kick,Throw in,96.0,0.0,94.0,24.0
+1397.87,1,Opponent1,Opponent1_D4,,1H,Duel,Ground defending duel,6.0,76.0,3.0,78.0
+1398.22,1,Huskies,Huskies_F3,,1H,Duel,Ground attacking duel,94.0,24.0,97.0,22.0
+1399.36,1,Huskies,Huskies_F3,,1H,Pass,Cross,97.0,22.0,0.0,0.0
+1401.32,1,Opponent1,Opponent1_D3,,1H,Others on the ball,Touch,4.0,75.0,0.0,76.0
+1427.44,1,Huskies,Huskies_F2,,1H,Free Kick,Corner,100.0,0.0,83.0,59.0
+1430.88,1,Huskies,Huskies_M1,,1H,Shot,Shot,83.0,59.0,0.0,0.0
+1467.21,1,Opponent1,Opponent1_G1,,1H,Free Kick,Goal kick,100.0,100.0,53.0,96.0
+1472.29,1,Opponent1,Opponent1_F3,,1H,Pass,Head pass,53.0,96.0,56.0,73.0
+1474.61,1,Huskies,Huskies_M3,,1H,Pass,Head pass,44.0,27.0,57.0,20.0
+1475.01,1,Opponent1,Opponent1_D3,,1H,Duel,Air duel,43.0,80.0,53.0,71.0
+1475.27,1,Huskies,Huskies_F3,,1H,Duel,Air duel,57.0,20.0,47.0,29.0
+1476.61,1,Huskies,Huskies_M3,,1H,Pass,Head pass,47.0,29.0,65.0,52.0
+1477.68,1,Opponent1,Opponent1_D2,,1H,Pass,Launch,35.0,48.0,50.0,87.0
+1480.76,1,Huskies,Huskies_M2,Huskies_D4,1H,Pass,Simple pass,50.0,13.0,50.0,7.0
+1482.47,1,Huskies,Huskies_D4,Huskies_D3,1H,Pass,Simple pass,50.0,7.0,39.0,15.0
+1483.23,1,Huskies,Huskies_D3,,1H,Pass,High pass,39.0,15.0,71.0,8.0
+1485.47,1,Opponent1,Opponent1_D3,,1H,Others on the ball,Clearance,29.0,92.0,43.0,100.0
+1495.31,1,Huskies,Huskies_D3,,1H,Free Kick,Throw in,42.0,0.0,57.0,10.0
+1497.02,1,Huskies,Huskies_F3,Huskies_D3,1H,Pass,Simple pass,57.0,10.0,53.0,5.0
+1497.83,1,Huskies,Huskies_D3,,1H,Pass,High pass,53.0,5.0,77.0,0.0
+1511.15,1,Opponent1,Opponent1_D3,,1H,Free Kick,Throw in,30.0,100.0,57.0,90.0
+1513.32,1,Huskies,Huskies_D4,,1H,Duel,Ground loose ball duel,43.0,10.0,36.0,8.0
+1513.54,1,Opponent1,Opponent1_F3,,1H,Duel,Ground loose ball duel,57.0,90.0,64.0,92.0
+1514.34,1,Opponent1,Opponent1_F3,,1H,Pass,Head pass,64.0,92.0,73.0,91.0
+1516.22,1,Huskies,Huskies_D2,,1H,Duel,Ground defending duel,27.0,9.0,24.0,0.0
+1516.36,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,73.0,91.0,76.0,100.0
+1534.65,1,Huskies,Huskies_D4,,1H,Free Kick,Throw in,24.0,0.0,11.0,18.0
+1539.32,1,Huskies,Huskies_D3,Huskies_G1,1H,Pass,Simple pass,11.0,18.0,3.0,33.0
+1542.46,1,Huskies,Huskies_G1,Huskies_F1,1H,Pass,High pass,3.0,33.0,39.0,98.0
+1546.45,1,Huskies,Huskies_F1,,1H,Pass,Simple pass,39.0,98.0,44.0,64.0
+1548.21,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,56.0,36.0,54.0,15.0
+1548.61,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,46.0,85.0,44.0,64.0
+1549.97,1,Opponent1,Opponent1_M1,,1H,Foul,Foul,56.0,36.0,54.0,15.0
+1563.57,1,Huskies,Huskies_F2,Huskies_M3,1H,Pass,Simple pass,53.0,75.0,41.0,75.0
+1565.58,1,Huskies,Huskies_M3,Huskies_D1,1H,Pass,Simple pass,41.0,75.0,35.0,79.0
+1566.8,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,35.0,79.0,31.0,47.0
+1569.29,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,31.0,47.0,43.0,12.0
+1573.21,1,Huskies,Huskies_D3,Huskies_M2,1H,Pass,Simple pass,43.0,12.0,61.0,17.0
+1574.78,1,Huskies,Huskies_M2,Huskies_D3,1H,Pass,Simple pass,61.0,17.0,58.0,39.0
+1577.21,1,Huskies,Huskies_D3,Huskies_M1,1H,Pass,Simple pass,58.0,39.0,47.0,71.0
+1587.21,1,Huskies,Huskies_M1,Huskies_M3,1H,Pass,Simple pass,47.0,71.0,40.0,81.0
+1589.2,1,Huskies,Huskies_M3,Huskies_D2,1H,Pass,Simple pass,40.0,81.0,48.0,31.0
+1591.55,1,Huskies,Huskies_D2,Huskies_F2,1H,Pass,Simple pass,48.0,31.0,48.0,26.0
+1598.03,1,Huskies,Huskies_F2,Huskies_D3,1H,Pass,Simple pass,48.0,26.0,66.0,7.0
+1600.52,1,Huskies,Huskies_D3,,1H,Pass,Simple pass,66.0,7.0,75.0,0.0
+1623.78,1,Opponent1,Opponent1_D3,,1H,Free Kick,Throw in,30.0,100.0,44.0,63.0
+1627.83,1,Opponent1,Opponent1_D2,,1H,Pass,High pass,44.0,63.0,66.0,53.0
+1629.67,1,Huskies,Huskies_D1,,1H,Pass,Head pass,34.0,47.0,47.0,45.0
+1631.22,1,Opponent1,Opponent1_D2,,1H,Duel,Ground defending duel,53.0,55.0,53.0,58.0
+1631.65,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,47.0,45.0,47.0,42.0
+1633.13,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,47.0,42.0,56.0,34.0
+1633.76,1,Huskies,Huskies_F2,,1H,Others on the ball,Touch,56.0,34.0,71.0,25.0
+1637.29,1,Huskies,Huskies_F2,Huskies_D4,1H,Pass,Simple pass,71.0,25.0,80.0,5.0
+1640.15,1,Huskies,Huskies_D4,Huskies_F2,1H,Pass,Simple pass,80.0,5.0,74.0,25.0
+1641.94,1,Huskies,Huskies_F2,,1H,Duel,Ground attacking duel,74.0,25.0,71.0,26.0
+1642.56,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,26.0,75.0,29.0,74.0
+1642.99,1,Opponent1,Opponent1_M2,,1H,Duel,Ground loose ball duel,29.0,74.0,30.0,70.0
+1643.37,1,Huskies,Huskies_F2,,1H,Duel,Ground loose ball duel,71.0,26.0,70.0,30.0
+1644.49,1,Huskies,Huskies_F2,,1H,Duel,Ground loose ball duel,70.0,30.0,62.0,25.0
+1644.82,1,Opponent1,Opponent1_M3,,1H,Duel,Ground loose ball duel,30.0,70.0,38.0,75.0
+1645.88,1,Huskies,Huskies_M3,,1H,Duel,Ground loose ball duel,62.0,25.0,67.0,24.0
+1646.6,1,Opponent1,Opponent1_M2,,1H,Duel,Ground loose ball duel,38.0,75.0,33.0,76.0
+1647.25,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,67.0,24.0,68.0,22.0
+1648.12,1,Opponent1,Opponent1_M3,,1H,Duel,Ground defending duel,33.0,76.0,32.0,78.0
+1648.67,1,Opponent1,Opponent1_M1,,1H,Duel,Ground attacking duel,32.0,78.0,40.0,90.0
+1649.71,1,Huskies,Huskies_M3,,1H,Duel,Ground defending duel,68.0,22.0,60.0,10.0
+1650.41,1,Opponent1,Opponent1_M1,,1H,Pass,Simple pass,40.0,90.0,91.0,73.0
+1657.17,1,Huskies,Huskies_G1,Huskies_D1,1H,Pass,Hand pass,9.0,27.0,38.0,81.0
+1665.27,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,38.0,81.0,33.0,54.0
+1669.64,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,33.0,54.0,39.0,80.0
+1671.45,1,Huskies,Huskies_D1,Huskies_F2,1H,Pass,Simple pass,39.0,80.0,51.0,93.0
+1673.21,1,Huskies,Huskies_F2,Huskies_D1,1H,Pass,Simple pass,51.0,93.0,42.0,85.0
+1677.42,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,42.0,85.0,35.0,57.0
+1679.75,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,35.0,57.0,46.0,19.0
+1683.93,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,46.0,19.0,49.0,5.0
+1685.59,1,Huskies,Huskies_D4,Huskies_M3,1H,Pass,Simple pass,49.0,5.0,55.0,18.0
+1687.03,1,Huskies,Huskies_M3,Huskies_M2,1H,Pass,Simple pass,55.0,18.0,57.0,13.0
+1688.52,1,Huskies,Huskies_M2,Huskies_D4,1H,Pass,Simple pass,57.0,13.0,50.0,6.0
+1691.41,1,Huskies,Huskies_D4,,1H,Pass,Simple pass,50.0,6.0,62.0,28.0
+1693.23,1,Opponent1,Opponent1_M1,Opponent1_M2,1H,Pass,Simple pass,38.0,72.0,62.0,67.0
+1694.38,1,Opponent1,Opponent1_M2,,1H,Others on the ball,Acceleration,62.0,67.0,75.0,31.0
+1698.91,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,75.0,31.0,77.0,24.0
+1700.42,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,25.0,69.0,23.0,76.0
+1704.04,1,Huskies,Huskies_M2,Huskies_F1,1H,Pass,Simple pass,23.0,76.0,47.0,96.0
+1710.06,1,Huskies,Huskies_F1,,1H,Pass,Simple pass,47.0,96.0,55.0,86.0
+1711.03,1,Opponent1,Opponent1_M3,,1H,Duel,Ground defending duel,45.0,14.0,44.0,16.0
+1711.54,1,Huskies,Huskies_F2,,1H,Duel,Ground attacking duel,55.0,86.0,56.0,84.0
+1713.28,1,Opponent1,Opponent1_M3,,1H,Foul,Foul,44.0,16.0,45.0,14.0
+1746.9,1,Huskies,Huskies_M1,Huskies_M3,1H,Pass,Simple pass,56.0,75.0,54.0,40.0
+1750.19,1,Huskies,Huskies_M3,Huskies_D3,1H,Pass,Simple pass,54.0,40.0,59.0,13.0
+1754.9,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,59.0,13.0,59.0,52.0
+1757.48,1,Huskies,Huskies_D2,Huskies_F2,1H,Pass,Simple pass,59.0,52.0,63.0,87.0
+1759.91,1,Huskies,Huskies_F2,,1H,Pass,Smart pass,63.0,87.0,99.0,74.0
+1781.34,1,Opponent1,Opponent1_G1,,1H,Free Kick,Goal kick,100.0,100.0,79.0,14.0
+1791.1,1,Opponent1,Opponent1_F1,Opponent1_F2,1H,Pass,Simple pass,79.0,14.0,68.0,18.0
+1794.18,1,Opponent1,Opponent1_F2,Opponent1_D4,1H,Pass,Simple pass,68.0,18.0,51.0,49.0
+1797.15,1,Opponent1,Opponent1_D4,Opponent1_M1,1H,Pass,Simple pass,51.0,49.0,54.0,57.0
+1799.1,1,Opponent1,Opponent1_M1,Opponent1_F1,1H,Pass,High pass,54.0,57.0,90.0,15.0
+1804.67,1,Opponent1,Opponent1_F1,Opponent1_D1,1H,Pass,Simple pass,90.0,15.0,73.0,8.0
+1808.43,1,Opponent1,Opponent1_D1,Opponent1_F2,1H,Pass,Simple pass,73.0,8.0,82.0,23.0
+1809.84,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,82.0,23.0,91.0,24.0
+1810.21,1,Huskies,Huskies_M3,,1H,Duel,Ground defending duel,18.0,77.0,9.0,76.0
+1812.95,1,Huskies,Huskies_D2,Huskies_G1,1H,Pass,Simple pass,9.0,76.0,8.0,51.0
+1822.71,1,Huskies,Huskies_G1,Huskies_M1,1H,Pass,High pass,8.0,51.0,37.0,97.0
+1826.66,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,37.0,97.0,23.0,88.0
+1829.7,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,23.0,88.0,30.0,56.0
+1832.54,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,30.0,56.0,32.0,15.0
+1836.67,1,Huskies,Huskies_D3,Huskies_M3,1H,Pass,Simple pass,32.0,15.0,31.0,30.0
+1838.56,1,Huskies,Huskies_M3,Huskies_D2,1H,Pass,Simple pass,31.0,30.0,24.0,66.0
+1841.35,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,24.0,66.0,29.0,87.0
+1842.51,1,Huskies,Huskies_D1,,1H,Others on the ball,Touch,29.0,87.0,49.0,89.0
+1846.85,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,49.0,89.0,60.0,96.0
+1848.0,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,60.0,96.0,59.0,88.0
+1851.74,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,59.0,88.0,59.0,96.0
+1855.77,1,Huskies,Huskies_M1,Huskies_F1,1H,Pass,Simple pass,59.0,96.0,65.0,97.0
+1857.83,1,Huskies,Huskies_F1,Huskies_M1,1H,Pass,Simple pass,65.0,97.0,35.0,98.0
+1860.4,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,35.0,98.0,42.0,75.0
+1863.16,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,42.0,75.0,36.0,49.0
+1867.03,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,36.0,49.0,43.0,7.0
+1871.08,1,Huskies,Huskies_D3,Huskies_F2,1H,Pass,Simple pass,43.0,7.0,62.0,15.0
+1877.42,1,Huskies,Huskies_F2,Huskies_D3,1H,Pass,Simple pass,62.0,15.0,46.0,15.0
+1880.03,1,Huskies,Huskies_D3,Huskies_M1,1H,Pass,Simple pass,46.0,15.0,52.0,50.0
+1882.43,1,Huskies,Huskies_M1,,1H,Pass,High pass,52.0,50.0,84.0,37.0
+1884.77,1,Opponent1,Opponent1_D4,,1H,Pass,Head pass,16.0,63.0,42.0,44.0
+1888.72,1,Huskies,Huskies_M3,Huskies_D1,1H,Pass,Simple pass,58.0,56.0,58.0,90.0
+1893.36,1,Huskies,Huskies_D1,Huskies_M3,1H,Pass,Simple pass,58.0,90.0,59.0,71.0
+1897.04,1,Huskies,Huskies_M3,Huskies_D1,1H,Pass,Simple pass,59.0,71.0,59.0,97.0
+1899.28,1,Huskies,Huskies_D1,,1H,Pass,Simple pass,59.0,97.0,61.0,83.0
+1899.71,1,Opponent1,Opponent1_F2,,1H,Others on the ball,Touch,39.0,17.0,36.0,17.0
+1900.77,1,Opponent1,Opponent1_F2,,1H,Duel,Ground loose ball duel,36.0,17.0,39.0,9.0
+1901.81,1,Huskies,Huskies_D1,,1H,Pass,Simple pass,61.0,91.0,61.0,72.0
+1904.28,1,Opponent1,Opponent1_M3,,1H,Duel,Ground defending duel,39.0,28.0,39.0,38.0
+1904.73,1,Huskies,Huskies_M1,,1H,Duel,Ground attacking duel,61.0,72.0,61.0,62.0
+1905.8,1,Opponent1,Opponent1_M3,,1H,Foul,Foul,39.0,38.0,39.0,28.0
+1950.13,1,Huskies,Huskies_F2,,1H,Free Kick,Free kick cross,64.0,79.0,99.0,44.0
+1985.54,1,Opponent1,Opponent1_G1,,1H,Free Kick,Goal kick,100.0,100.0,64.0,76.0
+1988.98,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,64.0,76.0,91.0,93.0
+1989.18,1,Huskies,Huskies_M3,,1H,Duel,Air duel,36.0,24.0,9.0,7.0
+1999.18,1,Opponent1,Opponent1_M2,Opponent1_M1,1H,Pass,Simple pass,91.0,93.0,84.0,92.0
+2001.42,1,Opponent1,Opponent1_M1,,1H,Pass,Cross,84.0,92.0,90.0,67.0
+2002.81,1,Huskies,Huskies_M3,,1H,Others on the ball,Clearance,10.0,33.0,0.0,31.0
+2025.48,1,Opponent1,Opponent1_M2,,1H,Free Kick,Corner,100.0,100.0,96.0,61.0
+2027.8,1,Opponent1,Opponent1_D2,,1H,Duel,Air duel,96.0,61.0,76.0,84.0
+2028.37,1,Huskies,Huskies_F2,,1H,Duel,Air duel,4.0,39.0,24.0,16.0
+2031.63,1,Huskies,Huskies_F3,,1H,Duel,Ground attacking duel,24.0,16.0,22.0,19.0
+2033.79,1,Opponent1,Opponent1_F2,Opponent1_D1,1H,Pass,Simple pass,78.0,81.0,53.0,54.0
+2037.29,1,Opponent1,Opponent1_D1,Opponent1_M3,1H,Pass,Simple pass,53.0,54.0,58.0,34.0
+2039.79,1,Opponent1,Opponent1_M3,,1H,Pass,High pass,58.0,34.0,83.0,70.0
+2043.51,1,Huskies,Huskies_D2,,1H,Others on the ball,Touch,17.0,30.0,20.0,31.0
+2045.3,1,Opponent1,Opponent1_F3,,1H,Duel,Ground attacking duel,80.0,69.0,83.0,73.0
+2045.72,1,Huskies,Huskies_D2,,1H,Duel,Ground defending duel,20.0,31.0,17.0,27.0
+2046.09,1,Opponent1,Opponent1_F3,,1H,Shot,Shot,83.0,73.0,100.0,100.0
+2072.2,1,Huskies,Huskies_G1,,1H,Free Kick,Goal kick,0.0,0.0,69.0,90.0
+2074.74,1,Opponent1,Opponent1_D1,,1H,Duel,Air duel,31.0,10.0,38.0,21.0
+2075.5,1,Huskies,Huskies_F1,,1H,Duel,Air duel,69.0,90.0,62.0,79.0
+2076.88,1,Huskies,Huskies_F2,,1H,Duel,Ground defending duel,62.0,79.0,70.0,84.0
+2076.98,1,Opponent1,Opponent1_M3,,1H,Duel,Ground attacking duel,38.0,21.0,30.0,16.0
+2078.86,1,Opponent1,Opponent1_M3,Opponent1_D2,1H,Pass,Simple pass,30.0,16.0,14.0,25.0
+2080.27,1,Opponent1,Opponent1_D2,Opponent1_F1,1H,Pass,High pass,14.0,25.0,54.0,28.0
+2083.26,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,54.0,28.0,62.0,29.0
+2084.21,1,Huskies,Huskies_D2,,1H,Duel,Ground defending duel,46.0,72.0,38.0,71.0
+2084.6,1,Opponent1,Opponent1_F1,,1H,Duel,Ground loose ball duel,62.0,29.0,62.0,12.0
+2086.79,1,Opponent1,Opponent1_F2,,1H,Others on the ball,Acceleration,62.0,12.0,81.0,22.0
+2089.64,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,81.0,22.0,88.0,24.0
+2090.38,1,Huskies,Huskies_D1,,1H,Duel,Ground defending duel,19.0,78.0,12.0,76.0
+2091.07,1,Opponent1,Opponent1_F2,,1H,Shot,Shot,88.0,24.0,100.0,100.0
+2114.87,1,Huskies,Huskies_G1,,1H,Free Kick,Goal kick,0.0,0.0,39.0,96.0
+2118.76,1,Huskies,Huskies_M1,Huskies_M3,1H,Pass,Simple pass,39.0,96.0,43.0,88.0
+2119.15,1,Huskies,Huskies_M3,Huskies_M1,1H,Pass,Simple pass,43.0,88.0,38.0,91.0
+2120.05,1,Huskies,Huskies_M1,Huskies_D2,1H,Pass,Simple pass,38.0,91.0,27.0,57.0
+2121.2,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,27.0,57.0,27.0,90.0
+2123.42,1,Huskies,Huskies_D1,Huskies_D3,1H,Pass,High pass,27.0,90.0,31.0,13.0
+2127.43,1,Huskies,Huskies_D3,,1H,Others on the ball,Clearance,31.0,13.0,74.0,0.0
+2146.37,1,Opponent1,Opponent1_D3,,1H,Free Kick,Throw in,29.0,100.0,61.0,95.0
+2150.35,1,Huskies,Huskies_M3,,1H,Pass,Head pass,39.0,5.0,40.0,20.0
+2152.26,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,60.0,80.0,58.0,82.0
+2152.43,1,Huskies,Huskies_M2,,1H,Duel,Ground defending duel,40.0,20.0,42.0,18.0
+2153.82,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,58.0,82.0,59.0,82.0
+2154.22,1,Huskies,Huskies_M3,,1H,Duel,Ground defending duel,42.0,18.0,41.0,18.0
+2154.57,1,Huskies,Huskies_M2,,1H,Duel,Ground defending duel,41.0,18.0,42.0,18.0
+2155.64,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,59.0,82.0,58.0,82.0
+2156.89,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,42.0,18.0,44.0,23.0
+2157.85,1,Huskies,Huskies_M3,,1H,Pass,High pass,44.0,23.0,70.0,22.0
+2160.65,1,Opponent1,Opponent1_D3,Opponent1_D2,1H,Pass,Simple pass,30.0,78.0,31.0,30.0
+2164.44,1,Opponent1,Opponent1_D2,Opponent1_D1,1H,Pass,Simple pass,31.0,30.0,34.0,14.0
+2169.75,1,Opponent1,Opponent1_D1,Opponent1_F2,1H,Pass,Simple pass,34.0,14.0,42.0,9.0
+2171.98,1,Opponent1,Opponent1_F2,Opponent1_D2,1H,Pass,Simple pass,42.0,9.0,43.0,6.0
+2176.52,1,Opponent1,Opponent1_D2,,1H,Pass,High pass,43.0,6.0,64.0,9.0
+2176.82,1,Huskies,Huskies_D2,,1H,Duel,Ground loose ball duel,36.0,91.0,34.0,95.0
+2179.71,1,Huskies,Huskies_D2,Huskies_F1,1H,Pass,Head pass,34.0,95.0,26.0,99.0
+2183.02,1,Huskies,Huskies_F1,Huskies_D1,1H,Pass,Simple pass,26.0,99.0,27.0,90.0
+2184.71,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,27.0,90.0,19.0,73.0
+2187.71,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,19.0,73.0,20.0,24.0
+2190.1,1,Huskies,Huskies_D3,Huskies_M3,1H,Pass,Simple pass,20.0,24.0,33.0,53.0
+2191.7,1,Huskies,Huskies_M3,,1H,Others on the ball,Touch,33.0,53.0,59.0,28.0
+2198.16,1,Huskies,Huskies_M3,Huskies_M2,1H,Pass,Simple pass,59.0,28.0,55.0,12.0
+2200.73,1,Huskies,Huskies_M2,,1H,Pass,Simple pass,55.0,12.0,66.0,37.0
+2203.71,1,Opponent1,Opponent1_M3,Opponent1_F2,1H,Pass,Simple pass,34.0,63.0,42.0,37.0
+2206.01,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,42.0,37.0,47.0,53.0
+2206.07,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,58.0,63.0,53.0,47.0
+2207.64,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,Pass,Simple pass,47.0,53.0,47.0,64.0
+2210.24,1,Opponent1,Opponent1_M1,Opponent1_D1,1H,Pass,High pass,47.0,64.0,99.0,16.0
+2215.15,1,Opponent1,Opponent1_D1,,1H,Pass,Cross,99.0,16.0,96.0,28.0
+2218.92,1,Huskies,Huskies_D1,Huskies_M2,1H,Pass,Simple pass,4.0,72.0,21.0,69.0
+2220.4,1,Huskies,Huskies_M2,,1H,Others on the ball,Touch,21.0,69.0,44.0,65.0
+2223.95,1,Huskies,Huskies_M2,Huskies_M3,1H,Pass,Simple pass,44.0,65.0,36.0,54.0
+2226.61,1,Huskies,Huskies_M3,Huskies_F2,1H,Pass,Simple pass,36.0,54.0,44.0,52.0
+2229.78,1,Huskies,Huskies_F2,,1H,Pass,High pass,44.0,52.0,80.0,85.0
+2232.64,1,Opponent1,Opponent1_D2,,1H,Others on the ball,Clearance,20.0,15.0,25.0,0.0
+2252.05,1,Huskies,Huskies_M1,,1H,Free Kick,Throw in,66.0,100.0,75.0,85.0
+2253.36,1,Huskies,Huskies_F3,,1H,Duel,Ground attacking duel,75.0,85.0,75.0,78.0
+2254.36,1,Opponent1,Opponent1_M1,,1H,Others on the ball,Touch,25.0,22.0,26.0,16.0
+2255.05,1,Huskies,Huskies_F3,,1H,Duel,Ground defending duel,74.0,84.0,80.0,71.0
+2255.39,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,25.0,15.0,20.0,29.0
+2255.86,1,Opponent1,Opponent1_D4,,1H,Pass,Launch,20.0,29.0,53.0,44.0
+2259.1,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,47.0,56.0,59.0,27.0
+2263.27,1,Huskies,Huskies_D3,Huskies_D2,1H,Pass,Simple pass,59.0,27.0,45.0,54.0
+2265.89,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,45.0,54.0,59.0,87.0
+2268.48,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,59.0,87.0,58.0,97.0
+2270.66,1,Huskies,Huskies_M1,Huskies_F1,1H,Pass,Simple pass,58.0,97.0,70.0,97.0
+2271.21,1,Huskies,Huskies_F1,Huskies_F2,1H,Pass,Simple pass,70.0,97.0,64.0,86.0
+2273.2,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,64.0,86.0,74.0,84.0
+2275.34,1,Huskies,Huskies_M1,Huskies_F3,1H,Pass,Simple pass,74.0,84.0,79.0,78.0
+2276.35,1,Huskies,Huskies_F3,Huskies_F2,1H,Pass,Simple pass,79.0,78.0,84.0,77.0
+2276.88,1,Huskies,Huskies_F2,,1H,Others on the ball,Touch,84.0,77.0,87.0,73.0
+2277.21,1,Opponent1,Opponent1_D2,,1H,Duel,Ground attacking duel,13.0,27.0,17.0,34.0
+2278.12,1,Huskies,Huskies_F2,,1H,Duel,Ground defending duel,87.0,73.0,83.0,66.0
+2278.25,1,Huskies,Huskies_F3,,1H,Duel,Ground defending duel,83.0,66.0,65.0,65.0
+2278.72,1,Opponent1,Opponent1_D2,,1H,Duel,Ground attacking duel,17.0,34.0,35.0,35.0
+2281.56,1,Opponent1,Opponent1_D2,Opponent1_M2,1H,Pass,Simple pass,35.0,35.0,48.0,56.0
+2285.97,1,Opponent1,Opponent1_M2,Opponent1_D3,1H,Pass,Simple pass,48.0,56.0,59.0,88.0
+2288.09,1,Opponent1,Opponent1_D3,Opponent1_F3,1H,Pass,Smart pass,59.0,88.0,80.0,82.0
+2288.99,1,Opponent1,Opponent1_F3,,1H,Others on the ball,Touch,80.0,82.0,73.0,63.0
+2292.22,1,Huskies,Huskies_D4,,1H,Others on the ball,Acceleration,27.0,37.0,54.0,48.0
+2297.07,1,Huskies,Huskies_D4,,1H,Duel,Ground attacking duel,54.0,48.0,57.0,56.0
+2298.94,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,46.0,52.0,43.0,44.0
+2299.75,1,Huskies,Huskies_D4,,1H,Duel,Ground attacking duel,57.0,56.0,58.0,50.0
+2300.89,1,Huskies,Huskies_D4,Huskies_M2,1H,Pass,Simple pass,58.0,50.0,69.0,42.0
+2301.74,1,Huskies,Huskies_M2,Huskies_F3,1H,Pass,Simple pass,69.0,42.0,75.0,19.0
+2306.86,1,Huskies,Huskies_F3,,1H,Pass,Simple pass,75.0,19.0,78.0,37.0
+2308.14,1,Opponent1,Opponent1_M1,Opponent1_M3,1H,Pass,Simple pass,22.0,63.0,25.0,70.0
+2309.19,1,Opponent1,Opponent1_M3,Opponent1_M2,1H,Pass,Simple pass,25.0,70.0,40.0,83.0
+2313.46,1,Opponent1,Opponent1_M2,Opponent1_F3,1H,Pass,Simple pass,40.0,83.0,76.0,85.0
+2321.86,1,Opponent1,Opponent1_F3,Opponent1_M3,1H,Pass,Simple pass,76.0,85.0,89.0,89.0
+2324.87,1,Opponent1,Opponent1_M3,,1H,Pass,Cross,89.0,89.0,88.0,59.0
+2326.33,1,Huskies,Huskies_D2,,1H,Others on the ball,Clearance,12.0,41.0,21.0,0.0
+2347.27,1,Opponent1,Opponent1_F3,,1H,Free Kick,Throw in,81.0,100.0,80.0,100.0
+2371.21,1,Huskies,Huskies_D3,,1H,Free Kick,Throw in,22.0,0.0,26.0,5.0
+2373.7,1,Huskies,Huskies_D4,Huskies_D3,1H,Pass,Simple pass,26.0,5.0,18.0,7.0
+2375.29,1,Huskies,Huskies_D3,Huskies_F2,1H,Pass,High pass,18.0,7.0,55.0,16.0
+2378.01,1,Huskies,Huskies_F2,,1H,Duel,Ground attacking duel,55.0,16.0,48.0,29.0
+2381.22,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,48.0,29.0,50.0,79.0
+2383.38,1,Huskies,Huskies_M1,,1H,Pass,High pass,50.0,79.0,97.0,86.0
+2386.77,1,Opponent1,Opponent1_D1,,1H,Duel,Ground defending duel,3.0,14.0,0.0,0.0
+2386.82,1,Huskies,Huskies_F1,,1H,Duel,Ground attacking duel,97.0,86.0,100.0,100.0
+2420.41,1,Huskies,Huskies_F3,,1H,Free Kick,Corner,100.0,100.0,94.0,99.0
+2422.33,1,Huskies,Huskies_F2,,1H,Pass,Cross,94.0,99.0,92.0,35.0
+2423.1,1,Opponent1,Opponent1_F3,,1H,Duel,Air duel,8.0,65.0,8.0,56.0
+2424.23,1,Huskies,Huskies_D3,,1H,Duel,Air duel,92.0,35.0,92.0,44.0
+2425.37,1,Opponent1,Opponent1_D4,,1H,Duel,Air duel,8.0,56.0,8.0,51.0
+2426.04,1,Huskies,Huskies_D2,,1H,Duel,Air duel,92.0,44.0,92.0,49.0
+2428.45,1,Huskies,Huskies_D2,,1H,Foul,Foul,92.0,49.0,92.0,44.0
+2441.11,1,Opponent1,Opponent1_G1,,1H,Free Kick,Free Kick,13.0,59.0,20.0,71.0
+2444.35,1,Opponent1,Opponent1_D3,Opponent1_F2,1H,Pass,Simple pass,20.0,71.0,40.0,7.0
+2457.13,1,Opponent1,Opponent1_F2,Opponent1_M1,1H,Pass,Simple pass,40.0,7.0,41.0,19.0
+2457.47,1,Opponent1,Opponent1_M1,,1H,Duel,Ground attacking duel,41.0,19.0,35.0,5.0
+2460.9,1,Opponent1,Opponent1_M1,,1H,Duel,Ground defending duel,35.0,5.0,36.0,4.0
+2460.94,1,Huskies,Huskies_M3,,1H,Duel,Ground attacking duel,65.0,95.0,64.0,96.0
+2462.86,1,Huskies,Huskies_M3,,1H,Pass,Simple pass,64.0,96.0,71.0,94.0
+2463.07,1,Opponent1,Opponent1_D1,,1H,Duel,Ground defending duel,29.0,6.0,30.0,28.0
+2463.42,1,Huskies,Huskies_F3,,1H,Duel,Ground attacking duel,71.0,94.0,70.0,72.0
+2465.16,1,Opponent1,Opponent1_D4,,1H,Pass,Simple pass,30.0,28.0,31.0,6.0
+2465.51,1,Huskies,Huskies_F3,,1H,Pass,Simple pass,69.0,94.0,52.0,83.0
+2468.32,1,Opponent1,Opponent1_F1,,1H,Pass,Simple pass,48.0,17.0,46.0,41.0
+2470.57,1,Huskies,Huskies_D3,,1H,Pass,Simple pass,54.0,59.0,87.0,57.0
+2477.7,1,Opponent1,Opponent1_G1,Opponent1_D2,1H,Pass,Simple pass,13.0,43.0,42.0,12.0
+2485.54,1,Opponent1,Opponent1_D2,Opponent1_F1,1H,Pass,High pass,42.0,12.0,64.0,17.0
+2488.16,1,Opponent1,Opponent1_F1,,1H,Duel,Ground attacking duel,64.0,17.0,66.0,15.0
+2488.21,1,Huskies,Huskies_D1,,1H,Duel,Ground defending duel,36.0,83.0,34.0,85.0
+2489.02,1,Opponent1,Opponent1_F1,,1H,Pass,Simple pass,66.0,15.0,57.0,20.0
+2489.93,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,43.0,80.0,43.0,77.0
+2490.93,1,Opponent1,Opponent1_F2,,1H,Duel,Ground attacking duel,57.0,20.0,57.0,23.0
+2492.38,1,Huskies,Huskies_M1,,1H,Foul,Foul,43.0,77.0,43.0,80.0
+2545.52,1,Opponent1,Opponent1_M2,,1H,Free Kick,Free kick cross,64.0,15.0,89.0,57.0
+2548.62,1,Huskies,Huskies_D2,,1H,Duel,Air duel,11.0,43.0,12.0,41.0
+2550.12,1,Huskies,Huskies_D3,,1H,Duel,Air duel,12.0,41.0,22.0,25.0
+2550.76,1,Opponent1,Opponent1_M3,,1H,Pass,High pass,78.0,75.0,91.0,34.0
+2552.31,1,Huskies,Huskies_F1,,1H,Others on the ball,Clearance,9.0,66.0,16.0,100.0
+2573.61,1,Opponent1,Opponent1_D1,,1H,Free Kick,Throw in,84.0,0.0,92.0,18.0
+2576.57,1,Opponent1,Opponent1_M3,,1H,Duel,Ground attacking duel,92.0,18.0,100.0,0.0
+2577.23,1,Huskies,Huskies_M1,,1H,Duel,Ground defending duel,8.0,82.0,0.0,100.0
+2604.3,1,Opponent1,Opponent1_M2,,1H,Free Kick,Corner,100.0,0.0,93.0,44.0
+2607.22,1,Huskies,Huskies_F1,,1H,Others on the ball,Clearance,7.0,56.0,22.0,60.0
+2608.51,1,Opponent1,Opponent1_M1,Opponent1_M3,1H,Pass,Head pass,78.0,40.0,77.0,66.0
+2610.75,1,Opponent1,Opponent1_M3,Opponent1_D4,1H,Pass,Cross,77.0,66.0,88.0,45.0
+2612.05,1,Opponent1,Opponent1_D4,,1H,Offside,,88.0,45.0,100.0,100.0
+2631.52,1,Huskies,Huskies_G1,,1H,Free Kick,Free Kick,12.0,51.0,31.0,53.0
+2636.52,1,Huskies,Huskies_D2,Huskies_D1,1H,Pass,Simple pass,31.0,53.0,28.0,78.0
+2642.0,1,Huskies,Huskies_D1,Huskies_D2,1H,Pass,Simple pass,28.0,78.0,30.0,50.0
+2644.94,1,Huskies,Huskies_D2,Huskies_D3,1H,Pass,Simple pass,30.0,50.0,40.0,13.0
+2646.73,1,Huskies,Huskies_D3,Huskies_D4,1H,Pass,Simple pass,40.0,13.0,58.0,4.0
+2647.75,1,Huskies,Huskies_D4,,1H,Pass,Simple pass,58.0,4.0,62.0,10.0
+2648.54,1,Opponent1,Opponent1_F3,,1H,Others on the ball,Touch,38.0,90.0,52.0,78.0
+2650.42,1,Opponent1,Opponent1_M2,,1H,Duel,Ground attacking duel,52.0,78.0,53.0,65.0
+2651.64,1,Huskies,Huskies_D4,,1H,Duel,Ground defending duel,48.0,22.0,47.0,35.0
+2652.51,1,Opponent1,Opponent1_M2,Opponent1_F2,1H,Pass,Simple pass,53.0,65.0,61.0,50.0
+2654.49,1,Opponent1,Opponent1_F2,Opponent1_M3,1H,Pass,Simple pass,61.0,50.0,70.0,53.0
+2658.93,1,Opponent1,Opponent1_M3,Opponent1_F2,1H,Pass,Simple pass,70.0,53.0,77.0,80.0
+2661.95,1,Opponent1,Opponent1_F2,,1H,Pass,Simple pass,77.0,80.0,88.0,84.0
+2663.78,1,Huskies,Huskies_D3,,1H,Others on the ball,Clearance,12.0,16.0,18.0,5.0
+2667.35,1,Opponent1,Opponent1_F2,,1H,Pass,Cross,82.0,95.0,100.0,100.0
+2669.27,1,Huskies,Huskies_M2,,1H,Others on the ball,Touch,16.0,12.0,21.0,0.0
+2686.92,1,Opponent1,Opponent1_F3,,1H,Free Kick,Throw in,84.0,100.0,86.0,89.0
+2688.68,1,Opponent1,Opponent1_F1,,1H,Duel,Air duel,86.0,89.0,74.0,87.0
+2688.71,1,Huskies,Huskies_D3,,1H,Duel,Air duel,14.0,11.0,26.0,13.0
+2692.11,1,Huskies,Huskies_F2,,1H,Duel,Ground defending duel,26.0,13.0,35.0,26.0
+2692.16,1,Opponent1,Opponent1_F3,,1H,Duel,Ground attacking duel,74.0,87.0,65.0,74.0
+2694.68,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,35.0,26.0,33.0,43.0
+2696.28,1,Huskies,Huskies_M1,Huskies_D1,1H,Pass,Simple pass,33.0,43.0,31.0,81.0
+2697.88,1,Huskies,Huskies_D1,,1H,Others on the ball,Acceleration,31.0,81.0,47.0,82.0
+2702.42,1,Huskies,Huskies_D1,Huskies_M1,1H,Pass,Simple pass,47.0,82.0,50.0,73.0
+2703.2,1,Huskies,Huskies_M1,,1H,Others on the ball,Touch,50.0,73.0,59.0,65.0
+2705.45,1,Huskies,Huskies_M1,Huskies_F2,1H,Pass,Simple pass,59.0,65.0,69.0,68.0
+2706.44,1,Huskies,Huskies_F2,Huskies_M1,1H,Pass,Simple pass,69.0,68.0,66.0,76.0
+2706.99,1,Huskies,Huskies_M1,,1H,Pass,Simple pass,66.0,76.0,81.0,76.0
+2708.97,1,Opponent1,Opponent1_D1,,1H,Duel,Ground defending duel,19.0,24.0,21.0,20.0
+2710.22,1,Huskies,Huskies_F3,Huskies_F1,1H,Pass,Simple pass,79.0,80.0,89.0,96.0
+2712.24,1,Huskies,Huskies_F1,Huskies_F2,1H,Pass,Cross,89.0,96.0,94.0,49.0
+2714.27,1,Huskies,Huskies_F2,,1H,Shot,Shot,94.0,49.0,0.0,0.0
+2716.21,1,Opponent1,Opponent1_G1,,1H,Save attempt,Reflexes,100.0,100.0,6.0,51.0
+2787.21,1,Huskies,Huskies_M3,,1H,Duel,Ground defending duel,56.0,37.0,57.0,38.0
+2789.19,1,Opponent1,Opponent1_M3,,1H,Duel,Ground attacking duel,44.0,63.0,43.0,62.0
+2790.0,1,Opponent1,Opponent1_M3,Opponent1_D2,1H,Pass,Simple pass,43.0,62.0,38.0,30.0
+2792.95,1,Opponent1,Opponent1_D2,Opponent1_M1,1H,Pass,Simple pass,38.0,30.0,43.0,36.0
+2794.58,1,Opponent1,Opponent1_M1,Opponent1_D3,1H,Pass,Simple pass,43.0,36.0,41.0,83.0
+2799.12,1,Opponent1,Opponent1_D3,Opponent1_D3,1H,Pass,Simple pass,41.0,83.0,43.0,76.0
+2805.26,1,Opponent1,Opponent1_D3,Opponent1_D1,1H,Pass,High pass,43.0,76.0,89.0,17.0
+2810.22,1,Opponent1,Opponent1_D1,,1H,Offside,,89.0,17.0,100.0,100.0

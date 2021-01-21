@@ -1,323 +1,323 @@
 MatchID,TeamID,OriginPlayerID,DestinationPlayerID,MatchPeriod,EventTime,EventSubType,EventOrigin_x,EventOrigin_y,EventDestination_x,EventDestination_y
-1,Huskies,Huskies_D1,Huskies_F1,1H,46.323501,Head pass,34,97,59,95
-1,Huskies,Huskies_M1,Huskies_F2,1H,51.022546,Simple pass,53,89,69,91
-1,Opponent1,Opponent1_D2,Opponent1_G1,1H,89.008721,Simple pass,19,16,5,50
-1,Opponent1,Opponent1_G1,Opponent1_F1,1H,92.21616,Launch,5,50,67,44
-1,Huskies,Huskies_M2,Huskies_M3,1H,98.265191,Simple pass,42,55,36,54
-1,Opponent1,Opponent1_D1,Opponent1_F2,1H,109.025545,Simple pass,30,11,31,22
-1,Opponent1,Opponent1_F2,Opponent1_D2,1H,111.025997,Simple pass,31,22,27,23
-1,Opponent1,Opponent1_D2,Opponent1_M1,1H,112.856148,High pass,27,23,36,6
-1,Huskies,Huskies_D1,Huskies_F1,1H,130.65653,Head pass,34,91,52,97
-1,Opponent1,Opponent1_F2,Opponent1_D3,1H,151.85275,Simple pass,48,12,46,56
-1,Opponent1,Opponent1_D3,Opponent1_M2,1H,154.636116,Simple pass,46,56,56,68
-1,Huskies,Huskies_D1,Huskies_G1,1H,161.22147,Simple pass,14,65,11,50
-1,Huskies,Huskies_G1,Huskies_G1,1H,164.626056,Hand pass,11,50,5,45
-1,Huskies,Huskies_D1,Huskies_D2,1H,247.469049,Simple pass,17,92,22,62
-1,Huskies,Huskies_D2,Huskies_D3,1H,249.694665,Simple pass,22,62,19,24
-1,Huskies,Huskies_D3,Huskies_G1,1H,251.513079,Simple pass,19,24,8,45
-1,Huskies,Huskies_G1,Huskies_D3,1H,257.295203,Simple pass,8,45,19,13
-1,Huskies,Huskies_D3,Huskies_G1,1H,259.614989,Simple pass,19,13,12,38
-1,Huskies,Huskies_D2,Huskies_D3,1H,286.49734,Simple pass,48,50,55,24
-1,Huskies,Huskies_D3,Huskies_D4,1H,288.281009,Simple pass,55,24,60,5
-1,Huskies,Huskies_D4,Huskies_D3,1H,291.122151,Simple pass,60,5,33,21
-1,Huskies,Huskies_D3,Huskies_G1,1H,294.666496,Simple pass,33,21,15,70
-1,Huskies,Huskies_G1,Huskies_F1,1H,298.519487,High pass,15,70,60,99
-1,Opponent1,Opponent1_M1,Opponent1_D1,1H,318.875721,Simple pass,55,12,62,9
-1,Huskies,Huskies_D1,Huskies_M3,1H,325.77883,Simple pass,19,98,35,86
-1,Huskies,Huskies_M3,Huskies_M1,1H,329.565823,Simple pass,35,86,30,97
-1,Huskies,Huskies_M2,Huskies_D3,1H,349.651805,Simple pass,47,59,47,27
-1,Huskies,Huskies_D3,Huskies_M3,1H,352.602839,Simple pass,47,27,45,40
-1,Huskies,Huskies_M3,Huskies_D3,1H,354.424746,Simple pass,45,40,47,12
-1,Opponent1,Opponent1_D4,Opponent1_M3,1H,380.02212,Simple pass,19,68,27,65
-1,Opponent1,Opponent1_M3,Opponent1_D3,1H,380.840808,Simple pass,27,65,27,90
-1,Huskies,Huskies_G1,Huskies_D1,1H,390.709116,Hand pass,8,55,25,94
-1,Huskies,Huskies_D1,Huskies_D2,1H,395.609802,Simple pass,25,94,24,55
-1,Huskies,Huskies_D2,Huskies_D3,1H,398.392099,Simple pass,24,55,24,20
-1,Huskies,Huskies_D3,Huskies_M2,1H,401.473688,Simple pass,24,20,33,20
-1,Huskies,Huskies_M2,Huskies_M3,1H,402.505899,Simple pass,33,20,33,35
-1,Huskies,Huskies_M3,Huskies_D3,1H,403.23103,Simple pass,33,35,24,24
-1,Huskies,Huskies_D3,Huskies_D2,1H,405.513278,Simple pass,24,24,29,68
-1,Huskies,Huskies_D2,Huskies_D1,1H,409.395151,Simple pass,29,68,25,88
-1,Huskies,Huskies_D1,Huskies_M1,1H,411.012684,Simple pass,25,88,31,99
-1,Huskies,Huskies_M1,Huskies_D1,1H,413.899208,Simple pass,31,99,27,88
-1,Huskies,Huskies_D1,Huskies_D2,1H,415.523873,Simple pass,27,88,29,53
-1,Huskies,Huskies_D2,Huskies_D3,1H,417.778381,Simple pass,29,53,37,14
-1,Huskies,Huskies_D3,Huskies_M2,1H,421.153644,Simple pass,37,14,42,16
-1,Huskies,Huskies_M2,Huskies_D2,1H,423.251583,Simple pass,42,16,36,54
-1,Huskies,Huskies_D2,Huskies_D1,1H,426.777238,Simple pass,36,54,32,85
-1,Huskies,Huskies_D1,Huskies_F2,1H,429.550573,Simple pass,32,85,59,67
-1,Opponent1,Opponent1_M3,Opponent1_F2,1H,432.039458,Simple pass,42,30,47,50
-1,Opponent1,Opponent1_F2,Opponent1_D3,1H,435.131832,Simple pass,47,50,41,54
-1,Opponent1,Opponent1_D3,Opponent1_G1,1H,437.284701,Simple pass,41,54,14,55
-1,Opponent1,Opponent1_G1,Opponent1_D3,1H,440.931405,Simple pass,14,55,36,85
-1,Opponent1,Opponent1_D3,Opponent1_M3,1H,446.42999,Simple pass,36,85,41,70
-1,Opponent1,Opponent1_M3,Opponent1_D2,1H,448.823337,Simple pass,41,70,51,13
-1,Opponent1,Opponent1_D2,Opponent1_D1,1H,452.249359,High pass,51,13,84,12
-1,Huskies,Huskies_M3,Huskies_D1,1H,470.526751,Simple pass,38,74,23,81
-1,Huskies,Huskies_D1,Huskies_D2,1H,472.345004,Simple pass,23,81,33,56
-1,Huskies,Huskies_D2,Huskies_D3,1H,475.81912,Simple pass,33,56,31,16
-1,Huskies,Huskies_D3,Huskies_D2,1H,478.063252,Simple pass,31,16,35,59
-1,Huskies,Huskies_D2,Huskies_M3,1H,483.459683,Simple pass,35,59,37,42
-1,Huskies,Huskies_M3,Huskies_D2,1H,486.904146,Simple pass,37,42,41,84
-1,Huskies,Huskies_D2,Huskies_M1,1H,488.642046,Simple pass,41,84,49,97
-1,Huskies,Huskies_M1,Huskies_D1,1H,492.913649,Simple pass,49,97,40,86
-1,Huskies,Huskies_D1,Huskies_D2,1H,495.203497,Simple pass,40,86,43,46
-1,Huskies,Huskies_D2,Huskies_D3,1H,499.177369,Simple pass,43,46,44,13
-1,Opponent1,Opponent1_F3,Opponent1_F2,1H,504.396917,Simple pass,54,84,55,48
-1,Opponent1,Opponent1_F2,Opponent1_M2,1H,506.680864,Simple pass,55,48,55,32
-1,Opponent1,Opponent1_M2,Opponent1_D1,1H,510.874655,Simple pass,55,32,43,28
-1,Opponent1,Opponent1_D1,Opponent1_D2,1H,512.290179,Simple pass,43,28,41,38
-1,Opponent1,Opponent1_D2,Opponent1_M3,1H,516.923641,Simple pass,61,52,57,86
-1,Opponent1,Opponent1_M3,Opponent1_F3,1H,520.306956,Smart pass,57,86,99,72
-1,Opponent1,Opponent1_M3,Opponent1_D1,1H,605.781783,Simple pass,62,68,55,29
-1,Opponent1,Opponent1_D1,Opponent1_M1,1H,607.665948,Simple pass,55,29,60,27
-1,Opponent1,Opponent1_M1,Opponent1_M2,1H,609.742066,Simple pass,60,27,71,8
-1,Opponent1,Opponent1_M2,Opponent1_F2,1H,611.626465,Simple pass,71,8,67,14
-1,Opponent1,Opponent1_F2,Opponent1_M2,1H,614.115182,Smart pass,67,14,90,7
-1,Opponent1,Opponent1_D2,Opponent1_F2,1H,628.545296,Head pass,53,15,75,10
-1,Huskies,Huskies_D2,Huskies_F2,1H,634.315811,Simple pass,35,61,32,72
-1,Huskies,Huskies_D1,Huskies_D3,1H,638.716336,Simple pass,20,67,22,37
-1,Huskies,Huskies_D3,Huskies_M3,1H,644.849345,Simple pass,41,42,44,35
-1,Huskies,Huskies_M3,Huskies_M2,1H,648.45343,Simple pass,44,35,58,25
-1,Huskies,Huskies_M2,Huskies_M3,1H,648.788178,Simple pass,58,25,44,45
-1,Huskies,Huskies_M3,Huskies_D1,1H,654.272547,Simple pass,44,45,45,88
-1,Huskies,Huskies_D1,Huskies_M1,1H,656.786591,Simple pass,45,88,46,66
-1,Huskies,Huskies_M1,Huskies_D2,1H,658.984182,Simple pass,46,66,35,53
-1,Huskies,Huskies_D2,Huskies_D3,1H,660.927154,Simple pass,35,53,36,26
-1,Huskies,Huskies_D3,Huskies_D4,1H,662.816659,Simple pass,36,26,44,9
-1,Huskies,Huskies_D4,Huskies_D3,1H,664.192536,Simple pass,44,9,29,28
-1,Huskies,Huskies_D3,Huskies_D1,1H,666.398299,Simple pass,29,28,30,88
-1,Huskies,Huskies_D1,Huskies_M1,1H,670.794207,Simple pass,30,88,54,98
-1,Huskies,Huskies_M1,Huskies_D1,1H,672.485389,Simple pass,54,98,40,88
-1,Huskies,Huskies_D1,Huskies_D2,1H,677.030895,Simple pass,40,88,39,58
-1,Huskies,Huskies_D2,Huskies_D3,1H,679.627443,Simple pass,39,58,42,22
-1,Huskies,Huskies_D3,Huskies_D4,1H,681.346038,Simple pass,42,22,45,7
-1,Opponent1,Opponent1_G1,Opponent1_D3,1H,694.414732,Hand pass,13,69,28,96
-1,Opponent1,Opponent1_D3,Opponent1_M2,1H,698.002619,Simple pass,28,96,32,91
-1,Opponent1,Opponent1_M2,Opponent1_G1,1H,699.267219,Simple pass,32,91,9,64
-1,Huskies,Huskies_M2,Huskies_D4,1H,717.476578,Simple pass,88,10,94,5
-1,Huskies,Huskies_D4,Huskies_M2,1H,719.441687,Simple pass,94,5,82,5
-1,Huskies,Huskies_M3,Huskies_D3,1H,763.935874,Simple pass,31,4,26,15
-1,Huskies,Huskies_D3,Huskies_D2,1H,766.375013,Simple pass,26,15,28,46
-1,Huskies,Huskies_D2,Huskies_D1,1H,768.959506,Simple pass,28,46,27,75
-1,Huskies,Huskies_M1,Huskies_F2,1H,831.334785,Simple pass,20,54,23,63
-1,Huskies,Huskies_F2,Huskies_F1,1H,833.172272,Head pass,23,63,31,97
-1,Huskies,Huskies_F3,Huskies_M2,1H,876.588559,Simple pass,41,13,37,25
-1,Huskies,Huskies_M2,Huskies_F3,1H,877.617215,Simple pass,37,25,44,11
-1,Huskies,Huskies_D3,Huskies_F3,1H,888.407529,High pass,43,40,76,8
-1,Opponent1,Opponent1_G1,Opponent1_D2,1H,907.768956,Simple pass,19,61,42,16
-1,Opponent1,Opponent1_D2,Opponent1_F1,1H,911.123578,High pass,42,16,85,48
-1,Huskies,Huskies_D1,Huskies_F3,1H,918.981968,Simple pass,29,79,54,51
-1,Huskies,Huskies_D2,Huskies_D1,1H,940.147302,Simple pass,28,49,27,80
-1,Opponent1,Opponent1_F2,Opponent1_M1,1H,948.626794,Simple pass,30,16,37,33
-1,Opponent1,Opponent1_M1,Opponent1_M2,1H,952.727927,Simple pass,37,33,47,54
-1,Opponent1,Opponent1_M1,Opponent1_F1,1H,974.161228,Simple pass,58,10,73,15
-1,Huskies,Huskies_M2,Huskies_D2,1H,977.642684,Simple pass,36,73,27,85
-1,Opponent1,Opponent1_F1,Opponent1_M1,1H,978.084482,Simple pass,71,20,56,26
-1,Opponent1,Opponent1_M1,Opponent1_D3,1H,978.887699,Simple pass,56,26,63,60
-1,Opponent1,Opponent1_D3,Opponent1_M1,1H,983.654621,Simple pass,63,60,60,36
-1,Opponent1,Opponent1_M1,Opponent1_M2,1H,987.186874,Simple pass,60,36,71,67
-1,Opponent1,Opponent1_M2,Opponent1_D3,1H,989.23669,Simple pass,71,67,57,71
-1,Opponent1,Opponent1_D3,Opponent1_M1,1H,991.232253,Simple pass,57,71,55,52
-1,Opponent1,Opponent1_M1,Opponent1_D2,1H,995.008376,Simple pass,55,52,58,32
-1,Opponent1,Opponent1_D2,Opponent1_M3,1H,997.713151,Simple pass,58,32,65,40
-1,Opponent1,Opponent1_M3,Opponent1_M1,1H,999.236592,Simple pass,65,40,64,56
-1,Opponent1,Opponent1_M1,Opponent1_D2,1H,1002.00926,Simple pass,64,56,75,30
-1,Opponent1,Opponent1_D2,Opponent1_F2,1H,1003.705746,Simple pass,75,30,72,59
-1,Opponent1,Opponent1_M2,Opponent1_M2,1H,1017.845967,Simple pass,78,18,74,8
-1,Opponent1,Opponent1_M2,Opponent1_M1,1H,1018.977244,Simple pass,74,8,64,40
-1,Opponent1,Opponent1_M1,Opponent1_F2,1H,1024.129555,Simple pass,64,40,69,58
-1,Opponent1,Opponent1_F2,Opponent1_M1,1H,1025.488721,Simple pass,69,58,64,53
-1,Opponent1,Opponent1_M1,Opponent1_D3,1H,1026.600096,Simple pass,64,53,74,83
-1,Opponent1,Opponent1_D3,Opponent1_F2,1H,1032.126828,Simple pass,74,83,66,67
-1,Opponent1,Opponent1_M3,Opponent1_D3,1H,1048.457823,Simple pass,80,79,80,84
-1,Huskies,Huskies_D3,Huskies_G1,1H,1080.525643,Simple pass,15,18,13,45
-1,Huskies,Huskies_G1,Huskies_M1,1H,1083.673768,High pass,13,45,39,97
-1,Huskies,Huskies_M1,Huskies_D1,1H,1086.548868,Head pass,39,97,31,77
-1,Huskies,Huskies_D1,Huskies_M3,1H,1088.3517,Simple pass,31,77,33,47
-1,Huskies,Huskies_M3,Huskies_D3,1H,1092.134846,Simple pass,33,47,29,12
-1,Huskies,Huskies_D3,Huskies_D4,1H,1098.1089,Simple pass,71,8,72,7
-1,Huskies,Huskies_D3,Huskies_D1,1H,1114.347374,Simple pass,58,8,41,73
-1,Huskies,Huskies_M3,Huskies_M1,1H,1124.056621,Simple pass,62,62,62,72
-1,Huskies,Huskies_M1,Huskies_F2,1H,1128.904817,Simple pass,62,72,70,78
-1,Huskies,Huskies_F2,Huskies_M1,1H,1129.81297,Simple pass,70,78,74,60
-1,Huskies,Huskies_M1,Huskies_F1,1H,1145.628269,Simple pass,65,96,70,98
-1,Huskies,Huskies_F1,Huskies_F2,1H,1148.496105,Simple pass,70,98,68,83
-1,Huskies,Huskies_F2,Huskies_D3,1H,1150.556157,Simple pass,68,83,66,38
-1,Huskies,Huskies_D3,Huskies_D4,1H,1154.053777,Simple pass,66,38,79,4
-1,Huskies,Huskies_M2,Huskies_M1,1H,1184.199743,Simple pass,70,8,65,61
-1,Opponent1,Opponent1_D2,Opponent1_G1,1H,1212.753315,Simple pass,33,14,18,55
-1,Opponent1,Opponent1_G1,Opponent1_F3,1H,1228.919596,Launch,18,55,76,88
-1,Huskies,Huskies_M3,Huskies_D4,1H,1234.888756,Simple pass,28,19,19,5
-1,Huskies,Huskies_D4,Huskies_D2,1H,1237.056443,Simple pass,19,5,21,39
-1,Huskies,Huskies_D2,Huskies_D1,1H,1240.195071,Simple pass,21,39,27,76
-1,Huskies,Huskies_D1,Huskies_M1,1H,1243.277878,Simple pass,27,76,40,96
-1,Huskies,Huskies_M1,Huskies_F1,1H,1246.983038,High pass,40,96,74,98
-1,Huskies,Huskies_M2,Huskies_G1,1H,1285.762328,Head pass,29,52,12,43
-1,Huskies,Huskies_G1,Huskies_M1,1H,1299.229819,High pass,12,43,44,81
-1,Huskies,Huskies_M1,Huskies_F2,1H,1304.927402,Simple pass,44,81,49,75
-1,Huskies,Huskies_F2,Huskies_D1,1H,1306.588143,Simple pass,49,75,34,80
-1,Huskies,Huskies_D1,Huskies_D2,1H,1308.752362,Simple pass,34,80,28,51
-1,Huskies,Huskies_D2,Huskies_D3,1H,1311.029947,Simple pass,28,51,38,24
-1,Huskies,Huskies_D3,Huskies_M1,1H,1314.932615,Simple pass,38,24,42,67
-1,Huskies,Huskies_M1,Huskies_F2,1H,1317.250553,Simple pass,42,67,54,92
-1,Huskies,Huskies_F2,Huskies_M1,1H,1318.781728,Simple pass,54,92,61,79
-1,Huskies,Huskies_F1,Huskies_F2,1H,1323.783423,Simple pass,70,98,72,100
-1,Huskies,Huskies_F3,Huskies_D2,1H,1336.828397,Simple pass,60,92,53,78
-1,Huskies,Huskies_D2,Huskies_D3,1H,1338.621719,Simple pass,53,78,61,18
-1,Huskies,Huskies_D3,Huskies_M3,1H,1342.78861,Simple pass,61,18,55,51
-1,Huskies,Huskies_M3,Huskies_M1,1H,1347.364783,Simple pass,55,51,51,68
-1,Huskies,Huskies_M1,Huskies_D1,1H,1351.186662,Simple pass,51,68,62,99
-1,Huskies,Huskies_D1,Huskies_M1,1H,1355.635433,Simple pass,62,99,58,93
-1,Huskies,Huskies_M1,Huskies_D2,1H,1357.802034,Simple pass,58,93,45,60
-1,Huskies,Huskies_D2,Huskies_D3,1H,1360.51092,Simple pass,45,60,53,29
-1,Huskies,Huskies_D3,Huskies_M2,1H,1364.552237,Simple pass,53,29,65,22
-1,Huskies,Huskies_M2,Huskies_M3,1H,1365.514369,Simple pass,65,22,59,37
-1,Huskies,Huskies_M3,Huskies_M2,1H,1367.816744,Simple pass,60,33,57,23
-1,Huskies,Huskies_M2,Huskies_M3,1H,1368.148627,Simple pass,57,23,68,7
-1,Huskies,Huskies_M3,Huskies_D3,1H,1371.360714,Simple pass,68,7,51,20
-1,Huskies,Huskies_D3,Huskies_D2,1H,1373.937659,Simple pass,51,20,47,56
-1,Huskies,Huskies_D2,Huskies_D1,1H,1377.038876,Simple pass,47,56,60,87
-1,Huskies,Huskies_D1,Huskies_F1,1H,1380.185092,Simple pass,60,87,68,97
-1,Huskies,Huskies_F1,Huskies_D1,1H,1382.378471,Simple pass,68,97,89,96
-1,Huskies,Huskies_D1,Huskies_D4,1H,1384.757142,Cross,89,96,98,3
-1,Huskies,Huskies_M2,Huskies_D4,1H,1480.756475,Simple pass,50,13,50,7
-1,Huskies,Huskies_D4,Huskies_D3,1H,1482.471513,Simple pass,50,7,39,15
-1,Huskies,Huskies_F3,Huskies_D3,1H,1497.018515,Simple pass,57,10,53,5
-1,Huskies,Huskies_D3,Huskies_G1,1H,1539.323848,Simple pass,11,18,3,33
-1,Huskies,Huskies_G1,Huskies_F1,1H,1542.460396,High pass,3,33,39,98
-1,Huskies,Huskies_F2,Huskies_M3,1H,1563.565089,Simple pass,53,75,41,75
-1,Huskies,Huskies_M3,Huskies_D1,1H,1565.577677,Simple pass,41,75,35,79
-1,Huskies,Huskies_D1,Huskies_D2,1H,1566.797006,Simple pass,35,79,31,47
-1,Huskies,Huskies_D2,Huskies_D3,1H,1569.287655,Simple pass,31,47,43,12
-1,Huskies,Huskies_D3,Huskies_M2,1H,1573.214242,Simple pass,43,12,61,17
-1,Huskies,Huskies_M2,Huskies_D3,1H,1574.779483,Simple pass,61,17,58,39
-1,Huskies,Huskies_D3,Huskies_M1,1H,1577.213654,Simple pass,58,39,47,71
-1,Huskies,Huskies_M1,Huskies_M3,1H,1587.209976,Simple pass,47,71,40,81
-1,Huskies,Huskies_M3,Huskies_D2,1H,1589.202639,Simple pass,40,81,48,31
-1,Huskies,Huskies_D2,Huskies_F2,1H,1591.554177,Simple pass,48,31,48,26
-1,Huskies,Huskies_F2,Huskies_D3,1H,1598.02757,Simple pass,48,26,66,7
-1,Huskies,Huskies_M1,Huskies_F2,1H,1633.128835,Simple pass,47,42,56,34
-1,Huskies,Huskies_F2,Huskies_D4,1H,1637.294235,Simple pass,71,25,80,5
-1,Huskies,Huskies_D4,Huskies_F2,1H,1640.147845,Simple pass,80,5,74,25
-1,Huskies,Huskies_G1,Huskies_D1,1H,1657.171668,Hand pass,9,27,38,81
-1,Huskies,Huskies_D1,Huskies_D2,1H,1665.270361,Simple pass,38,81,33,54
-1,Huskies,Huskies_D2,Huskies_D1,1H,1669.642262,Simple pass,33,54,39,80
-1,Huskies,Huskies_D1,Huskies_F2,1H,1671.45486,Simple pass,39,80,51,93
-1,Huskies,Huskies_F2,Huskies_D1,1H,1673.213406,Simple pass,51,93,42,85
-1,Huskies,Huskies_D1,Huskies_D2,1H,1677.421522,Simple pass,42,85,35,57
-1,Huskies,Huskies_D2,Huskies_D3,1H,1679.747834,Simple pass,35,57,46,19
-1,Huskies,Huskies_D3,Huskies_D4,1H,1683.925207,Simple pass,46,19,49,5
-1,Huskies,Huskies_D4,Huskies_M3,1H,1685.592344,Simple pass,49,5,55,18
-1,Huskies,Huskies_M3,Huskies_M2,1H,1687.033235,Simple pass,55,18,57,13
-1,Huskies,Huskies_M2,Huskies_D4,1H,1688.522032,Simple pass,57,13,50,6
-1,Opponent1,Opponent1_M1,Opponent1_M2,1H,1693.228444,Simple pass,38,72,62,67
-1,Huskies,Huskies_M2,Huskies_F1,1H,1704.03903,Simple pass,23,76,47,96
-1,Huskies,Huskies_M1,Huskies_M3,1H,1746.903336,Simple pass,56,75,54,40
-1,Huskies,Huskies_M3,Huskies_D3,1H,1750.189462,Simple pass,54,40,59,13
-1,Huskies,Huskies_D3,Huskies_D2,1H,1754.896087,Simple pass,59,13,59,52
-1,Huskies,Huskies_D2,Huskies_F2,1H,1757.479116,Simple pass,59,52,63,87
-1,Opponent1,Opponent1_F1,Opponent1_F2,1H,1791.104249,Simple pass,79,14,68,18
-1,Opponent1,Opponent1_F2,Opponent1_D4,1H,1794.176617,Simple pass,68,18,51,49
-1,Opponent1,Opponent1_D4,Opponent1_M1,1H,1797.149069,Simple pass,51,49,54,57
-1,Opponent1,Opponent1_M1,Opponent1_F1,1H,1799.09619,High pass,54,57,90,15
-1,Opponent1,Opponent1_F1,Opponent1_D1,1H,1804.670882,Simple pass,90,15,73,8
-1,Opponent1,Opponent1_D1,Opponent1_F2,1H,1808.428454,Simple pass,73,8,82,23
-1,Huskies,Huskies_D2,Huskies_G1,1H,1812.953534,Simple pass,9,76,8,51
-1,Huskies,Huskies_G1,Huskies_M1,1H,1822.710938,High pass,8,51,37,97
-1,Huskies,Huskies_M1,Huskies_D1,1H,1826.660725,Simple pass,37,97,23,88
-1,Huskies,Huskies_D1,Huskies_D2,1H,1829.697402,Simple pass,23,88,30,56
-1,Huskies,Huskies_D2,Huskies_D3,1H,1832.538832,Simple pass,30,56,32,15
-1,Huskies,Huskies_D3,Huskies_M3,1H,1836.667946,Simple pass,32,15,31,30
-1,Huskies,Huskies_M3,Huskies_D2,1H,1838.558993,Simple pass,31,30,24,66
-1,Huskies,Huskies_D2,Huskies_D1,1H,1841.354526,Simple pass,24,66,29,87
-1,Huskies,Huskies_D1,Huskies_M1,1H,1846.845569,Simple pass,49,89,60,96
-1,Huskies,Huskies_M1,Huskies_D1,1H,1848.000515,Simple pass,60,96,59,88
-1,Huskies,Huskies_D1,Huskies_M1,1H,1851.737334,Simple pass,59,88,59,96
-1,Huskies,Huskies_M1,Huskies_F1,1H,1855.768635,Simple pass,59,96,65,97
-1,Huskies,Huskies_F1,Huskies_M1,1H,1857.827687,Simple pass,65,97,35,98
-1,Huskies,Huskies_M1,Huskies_D1,1H,1860.404204,Simple pass,35,98,42,75
-1,Huskies,Huskies_D1,Huskies_D2,1H,1863.162182,Simple pass,42,75,36,49
-1,Huskies,Huskies_D2,Huskies_D3,1H,1867.026749,Simple pass,36,49,43,7
-1,Huskies,Huskies_D3,Huskies_F2,1H,1871.077439,Simple pass,43,7,62,15
-1,Huskies,Huskies_F2,Huskies_D3,1H,1877.423511,Simple pass,62,15,46,15
-1,Huskies,Huskies_D3,Huskies_M1,1H,1880.031284,Simple pass,46,15,52,50
-1,Huskies,Huskies_M3,Huskies_D1,1H,1888.719293,Simple pass,58,56,58,90
-1,Huskies,Huskies_D1,Huskies_M3,1H,1893.355778,Simple pass,58,90,59,71
-1,Huskies,Huskies_M3,Huskies_D1,1H,1897.04089,Simple pass,59,71,59,97
-1,Opponent1,Opponent1_M2,Opponent1_M1,1H,1999.175661,Simple pass,91,93,84,92
-1,Opponent1,Opponent1_F2,Opponent1_D1,1H,2033.788496,Simple pass,78,81,53,54
-1,Opponent1,Opponent1_D1,Opponent1_M3,1H,2037.291987,Simple pass,53,54,58,34
-1,Opponent1,Opponent1_M3,Opponent1_D2,1H,2078.86416,Simple pass,30,16,14,25
-1,Opponent1,Opponent1_D2,Opponent1_F1,1H,2080.274576,High pass,14,25,54,28
-1,Huskies,Huskies_M1,Huskies_M3,1H,2118.764274,Simple pass,39,96,43,88
-1,Huskies,Huskies_M3,Huskies_M1,1H,2119.149915,Simple pass,43,88,38,91
-1,Huskies,Huskies_M1,Huskies_D2,1H,2120.051016,Simple pass,38,91,27,57
-1,Huskies,Huskies_D2,Huskies_D1,1H,2121.197577,Simple pass,27,57,27,90
-1,Huskies,Huskies_D1,Huskies_D3,1H,2123.417423,High pass,27,90,31,13
-1,Huskies,Huskies_M2,Huskies_M3,1H,2156.892131,Simple pass,42,18,44,23
-1,Opponent1,Opponent1_D3,Opponent1_D2,1H,2160.647917,Simple pass,30,78,31,30
-1,Opponent1,Opponent1_D2,Opponent1_D1,1H,2164.441078,Simple pass,31,30,34,14
-1,Opponent1,Opponent1_D1,Opponent1_F2,1H,2169.746612,Simple pass,34,14,42,9
-1,Opponent1,Opponent1_F2,Opponent1_D2,1H,2171.979814,Simple pass,42,9,43,6
-1,Huskies,Huskies_D2,Huskies_F1,1H,2179.707154,Head pass,34,95,26,99
-1,Huskies,Huskies_F1,Huskies_D1,1H,2183.016682,Simple pass,26,99,27,90
-1,Huskies,Huskies_D1,Huskies_D2,1H,2184.710294,Simple pass,27,90,19,73
-1,Huskies,Huskies_D2,Huskies_D3,1H,2187.707719,Simple pass,19,73,20,24
-1,Huskies,Huskies_D3,Huskies_M3,1H,2190.098122,Simple pass,20,24,33,53
-1,Huskies,Huskies_M3,Huskies_M2,1H,2198.159963,Simple pass,59,28,55,12
-1,Opponent1,Opponent1_M3,Opponent1_F2,1H,2203.708633,Simple pass,34,63,42,37
-1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2207.635025,Simple pass,47,53,47,64
-1,Opponent1,Opponent1_M1,Opponent1_D1,1H,2210.236728,High pass,47,64,99,16
-1,Huskies,Huskies_D1,Huskies_M2,1H,2218.92057,Simple pass,4,72,21,69
-1,Huskies,Huskies_M2,Huskies_M3,1H,2223.951002,Simple pass,44,65,36,54
-1,Huskies,Huskies_M3,Huskies_F2,1H,2226.609406,Simple pass,36,54,44,52
-1,Huskies,Huskies_D2,Huskies_D3,1H,2259.099422,Simple pass,47,56,59,27
-1,Huskies,Huskies_D3,Huskies_D2,1H,2263.265102,Simple pass,59,27,45,54
-1,Huskies,Huskies_D2,Huskies_D1,1H,2265.891061,Simple pass,45,54,59,87
-1,Huskies,Huskies_D1,Huskies_M1,1H,2268.48019,Simple pass,59,87,58,97
-1,Huskies,Huskies_M1,Huskies_F1,1H,2270.659114,Simple pass,58,97,70,97
-1,Huskies,Huskies_F1,Huskies_F2,1H,2271.209893,Simple pass,70,97,64,86
-1,Huskies,Huskies_F2,Huskies_M1,1H,2273.203025,Simple pass,64,86,74,84
-1,Huskies,Huskies_M1,Huskies_F3,1H,2275.340976,Simple pass,74,84,79,78
-1,Huskies,Huskies_F3,Huskies_F2,1H,2276.34669,Simple pass,79,78,84,77
-1,Opponent1,Opponent1_D2,Opponent1_M2,1H,2281.555748,Simple pass,35,35,48,56
-1,Opponent1,Opponent1_M2,Opponent1_D3,1H,2285.971589,Simple pass,48,56,59,88
-1,Opponent1,Opponent1_D3,Opponent1_F3,1H,2288.089607,Smart pass,59,88,80,82
-1,Huskies,Huskies_D4,Huskies_M2,1H,2300.892312,Simple pass,58,50,69,42
-1,Huskies,Huskies_M2,Huskies_F3,1H,2301.739324,Simple pass,69,42,75,19
-1,Opponent1,Opponent1_M1,Opponent1_M3,1H,2308.140323,Simple pass,22,63,25,70
-1,Opponent1,Opponent1_M3,Opponent1_M2,1H,2309.186807,Simple pass,25,70,40,83
-1,Opponent1,Opponent1_M2,Opponent1_F3,1H,2313.458965,Simple pass,40,83,76,85
-1,Opponent1,Opponent1_F3,Opponent1_M3,1H,2321.862986,Simple pass,76,85,89,89
-1,Huskies,Huskies_D4,Huskies_D3,1H,2373.696063,Simple pass,26,5,18,7
-1,Huskies,Huskies_D3,Huskies_F2,1H,2375.289301,High pass,18,7,55,16
-1,Huskies,Huskies_F2,Huskies_M1,1H,2381.21504,Simple pass,48,29,50,79
-1,Opponent1,Opponent1_D3,Opponent1_F2,1H,2444.350446,Simple pass,20,71,40,7
-1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2457.132799,Simple pass,40,7,41,19
-1,Opponent1,Opponent1_G1,Opponent1_D2,1H,2477.697656,Simple pass,13,43,42,12
-1,Opponent1,Opponent1_D2,Opponent1_F1,1H,2485.539002,High pass,42,12,64,17
-1,Opponent1,Opponent1_M1,Opponent1_M3,1H,2608.514427,Head pass,78,40,77,66
-1,Opponent1,Opponent1_M3,Opponent1_D4,1H,2610.753257,Cross,77,66,88,45
-1,Huskies,Huskies_D2,Huskies_D1,1H,2636.524196,Simple pass,31,53,28,78
-1,Huskies,Huskies_D1,Huskies_D2,1H,2642.004348,Simple pass,28,78,30,50
-1,Huskies,Huskies_D2,Huskies_D3,1H,2644.939386,Simple pass,30,50,40,13
-1,Huskies,Huskies_D3,Huskies_D4,1H,2646.727592,Simple pass,40,13,58,4
-1,Opponent1,Opponent1_M2,Opponent1_F2,1H,2652.505927,Simple pass,53,65,61,50
-1,Opponent1,Opponent1_F2,Opponent1_M3,1H,2654.492203,Simple pass,61,50,70,53
-1,Opponent1,Opponent1_M3,Opponent1_F2,1H,2658.929429,Simple pass,70,53,77,80
-1,Huskies,Huskies_F2,Huskies_M1,1H,2694.677345,Simple pass,35,26,33,43
-1,Huskies,Huskies_M1,Huskies_D1,1H,2696.280214,Simple pass,33,43,31,81
-1,Huskies,Huskies_D1,Huskies_M1,1H,2702.421652,Simple pass,47,82,50,73
-1,Huskies,Huskies_M1,Huskies_F2,1H,2705.450085,Simple pass,59,65,69,68
-1,Huskies,Huskies_F2,Huskies_M1,1H,2706.442088,Simple pass,69,68,66,76
-1,Huskies,Huskies_F3,Huskies_F1,1H,2710.221447,Simple pass,79,80,89,96
-1,Huskies,Huskies_F1,Huskies_F2,1H,2712.240837,Cross,89,96,94,49
-1,Opponent1,Opponent1_M3,Opponent1_D2,1H,2789.997921,Simple pass,43,62,38,30
-1,Opponent1,Opponent1_D2,Opponent1_M1,1H,2792.948355,Simple pass,38,30,43,36
-1,Opponent1,Opponent1_M1,Opponent1_D3,1H,2794.58112,Simple pass,43,36,41,83
-1,Opponent1,Opponent1_D3,Opponent1_D3,1H,2799.115514,Simple pass,41,83,43,76
-1,Opponent1,Opponent1_D3,Opponent1_D1,1H,2805.262144,High pass,43,76,89,17
+1,Huskies,Huskies_D1,Huskies_F1,1H,46.32 ,Head pass,34,97,59,95
+1,Huskies,Huskies_M1,Huskies_F2,1H,51.02 ,Simple pass,53,89,69,91
+1,Opponent1,Opponent1_D2,Opponent1_G1,1H,89.01 ,Simple pass,19,16,5,50
+1,Opponent1,Opponent1_G1,Opponent1_F1,1H,92.22 ,Launch,5,50,67,44
+1,Huskies,Huskies_M2,Huskies_M3,1H,98.27 ,Simple pass,42,55,36,54
+1,Opponent1,Opponent1_D1,Opponent1_F2,1H,109.03 ,Simple pass,30,11,31,22
+1,Opponent1,Opponent1_F2,Opponent1_D2,1H,111.03 ,Simple pass,31,22,27,23
+1,Opponent1,Opponent1_D2,Opponent1_M1,1H,112.86 ,High pass,27,23,36,6
+1,Huskies,Huskies_D1,Huskies_F1,1H,130.66 ,Head pass,34,91,52,97
+1,Opponent1,Opponent1_F2,Opponent1_D3,1H,151.85 ,Simple pass,48,12,46,56
+1,Opponent1,Opponent1_D3,Opponent1_M2,1H,154.64 ,Simple pass,46,56,56,68
+1,Huskies,Huskies_D1,Huskies_G1,1H,161.22 ,Simple pass,14,65,11,50
+1,Huskies,Huskies_G1,Huskies_G1,1H,164.63 ,Hand pass,11,50,5,45
+1,Huskies,Huskies_D1,Huskies_D2,1H,247.47 ,Simple pass,17,92,22,62
+1,Huskies,Huskies_D2,Huskies_D3,1H,249.69 ,Simple pass,22,62,19,24
+1,Huskies,Huskies_D3,Huskies_G1,1H,251.51 ,Simple pass,19,24,8,45
+1,Huskies,Huskies_G1,Huskies_D3,1H,257.30 ,Simple pass,8,45,19,13
+1,Huskies,Huskies_D3,Huskies_G1,1H,259.61 ,Simple pass,19,13,12,38
+1,Huskies,Huskies_D2,Huskies_D3,1H,286.50 ,Simple pass,48,50,55,24
+1,Huskies,Huskies_D3,Huskies_D4,1H,288.28 ,Simple pass,55,24,60,5
+1,Huskies,Huskies_D4,Huskies_D3,1H,291.12 ,Simple pass,60,5,33,21
+1,Huskies,Huskies_D3,Huskies_G1,1H,294.67 ,Simple pass,33,21,15,70
+1,Huskies,Huskies_G1,Huskies_F1,1H,298.52 ,High pass,15,70,60,99
+1,Opponent1,Opponent1_M1,Opponent1_D1,1H,318.88 ,Simple pass,55,12,62,9
+1,Huskies,Huskies_D1,Huskies_M3,1H,325.78 ,Simple pass,19,98,35,86
+1,Huskies,Huskies_M3,Huskies_M1,1H,329.57 ,Simple pass,35,86,30,97
+1,Huskies,Huskies_M2,Huskies_D3,1H,349.65 ,Simple pass,47,59,47,27
+1,Huskies,Huskies_D3,Huskies_M3,1H,352.60 ,Simple pass,47,27,45,40
+1,Huskies,Huskies_M3,Huskies_D3,1H,354.42 ,Simple pass,45,40,47,12
+1,Opponent1,Opponent1_D4,Opponent1_M3,1H,380.02 ,Simple pass,19,68,27,65
+1,Opponent1,Opponent1_M3,Opponent1_D3,1H,380.84 ,Simple pass,27,65,27,90
+1,Huskies,Huskies_G1,Huskies_D1,1H,390.71 ,Hand pass,8,55,25,94
+1,Huskies,Huskies_D1,Huskies_D2,1H,395.61 ,Simple pass,25,94,24,55
+1,Huskies,Huskies_D2,Huskies_D3,1H,398.39 ,Simple pass,24,55,24,20
+1,Huskies,Huskies_D3,Huskies_M2,1H,401.47 ,Simple pass,24,20,33,20
+1,Huskies,Huskies_M2,Huskies_M3,1H,402.51 ,Simple pass,33,20,33,35
+1,Huskies,Huskies_M3,Huskies_D3,1H,403.23 ,Simple pass,33,35,24,24
+1,Huskies,Huskies_D3,Huskies_D2,1H,405.51 ,Simple pass,24,24,29,68
+1,Huskies,Huskies_D2,Huskies_D1,1H,409.40 ,Simple pass,29,68,25,88
+1,Huskies,Huskies_D1,Huskies_M1,1H,411.01 ,Simple pass,25,88,31,99
+1,Huskies,Huskies_M1,Huskies_D1,1H,413.90 ,Simple pass,31,99,27,88
+1,Huskies,Huskies_D1,Huskies_D2,1H,415.52 ,Simple pass,27,88,29,53
+1,Huskies,Huskies_D2,Huskies_D3,1H,417.78 ,Simple pass,29,53,37,14
+1,Huskies,Huskies_D3,Huskies_M2,1H,421.15 ,Simple pass,37,14,42,16
+1,Huskies,Huskies_M2,Huskies_D2,1H,423.25 ,Simple pass,42,16,36,54
+1,Huskies,Huskies_D2,Huskies_D1,1H,426.78 ,Simple pass,36,54,32,85
+1,Huskies,Huskies_D1,Huskies_F2,1H,429.55 ,Simple pass,32,85,59,67
+1,Opponent1,Opponent1_M3,Opponent1_F2,1H,432.04 ,Simple pass,42,30,47,50
+1,Opponent1,Opponent1_F2,Opponent1_D3,1H,435.13 ,Simple pass,47,50,41,54
+1,Opponent1,Opponent1_D3,Opponent1_G1,1H,437.28 ,Simple pass,41,54,14,55
+1,Opponent1,Opponent1_G1,Opponent1_D3,1H,440.93 ,Simple pass,14,55,36,85
+1,Opponent1,Opponent1_D3,Opponent1_M3,1H,446.43 ,Simple pass,36,85,41,70
+1,Opponent1,Opponent1_M3,Opponent1_D2,1H,448.82 ,Simple pass,41,70,51,13
+1,Opponent1,Opponent1_D2,Opponent1_D1,1H,452.25 ,High pass,51,13,84,12
+1,Huskies,Huskies_M3,Huskies_D1,1H,470.53 ,Simple pass,38,74,23,81
+1,Huskies,Huskies_D1,Huskies_D2,1H,472.35 ,Simple pass,23,81,33,56
+1,Huskies,Huskies_D2,Huskies_D3,1H,475.82 ,Simple pass,33,56,31,16
+1,Huskies,Huskies_D3,Huskies_D2,1H,478.06 ,Simple pass,31,16,35,59
+1,Huskies,Huskies_D2,Huskies_M3,1H,483.46 ,Simple pass,35,59,37,42
+1,Huskies,Huskies_M3,Huskies_D2,1H,486.90 ,Simple pass,37,42,41,84
+1,Huskies,Huskies_D2,Huskies_M1,1H,488.64 ,Simple pass,41,84,49,97
+1,Huskies,Huskies_M1,Huskies_D1,1H,492.91 ,Simple pass,49,97,40,86
+1,Huskies,Huskies_D1,Huskies_D2,1H,495.20 ,Simple pass,40,86,43,46
+1,Huskies,Huskies_D2,Huskies_D3,1H,499.18 ,Simple pass,43,46,44,13
+1,Opponent1,Opponent1_F3,Opponent1_F2,1H,504.40 ,Simple pass,54,84,55,48
+1,Opponent1,Opponent1_F2,Opponent1_M2,1H,506.68 ,Simple pass,55,48,55,32
+1,Opponent1,Opponent1_M2,Opponent1_D1,1H,510.87 ,Simple pass,55,32,43,28
+1,Opponent1,Opponent1_D1,Opponent1_D2,1H,512.29 ,Simple pass,43,28,41,38
+1,Opponent1,Opponent1_D2,Opponent1_M3,1H,516.92 ,Simple pass,61,52,57,86
+1,Opponent1,Opponent1_M3,Opponent1_F3,1H,520.31 ,Smart pass,57,86,99,72
+1,Opponent1,Opponent1_M3,Opponent1_D1,1H,605.78 ,Simple pass,62,68,55,29
+1,Opponent1,Opponent1_D1,Opponent1_M1,1H,607.67 ,Simple pass,55,29,60,27
+1,Opponent1,Opponent1_M1,Opponent1_M2,1H,609.74 ,Simple pass,60,27,71,8
+1,Opponent1,Opponent1_M2,Opponent1_F2,1H,611.63 ,Simple pass,71,8,67,14
+1,Opponent1,Opponent1_F2,Opponent1_M2,1H,614.12 ,Smart pass,67,14,90,7
+1,Opponent1,Opponent1_D2,Opponent1_F2,1H,628.55 ,Head pass,53,15,75,10
+1,Huskies,Huskies_D2,Huskies_F2,1H,634.32 ,Simple pass,35,61,32,72
+1,Huskies,Huskies_D1,Huskies_D3,1H,638.72 ,Simple pass,20,67,22,37
+1,Huskies,Huskies_D3,Huskies_M3,1H,644.85 ,Simple pass,41,42,44,35
+1,Huskies,Huskies_M3,Huskies_M2,1H,648.45 ,Simple pass,44,35,58,25
+1,Huskies,Huskies_M2,Huskies_M3,1H,648.79 ,Simple pass,58,25,44,45
+1,Huskies,Huskies_M3,Huskies_D1,1H,654.27 ,Simple pass,44,45,45,88
+1,Huskies,Huskies_D1,Huskies_M1,1H,656.79 ,Simple pass,45,88,46,66
+1,Huskies,Huskies_M1,Huskies_D2,1H,658.98 ,Simple pass,46,66,35,53
+1,Huskies,Huskies_D2,Huskies_D3,1H,660.93 ,Simple pass,35,53,36,26
+1,Huskies,Huskies_D3,Huskies_D4,1H,662.82 ,Simple pass,36,26,44,9
+1,Huskies,Huskies_D4,Huskies_D3,1H,664.19 ,Simple pass,44,9,29,28
+1,Huskies,Huskies_D3,Huskies_D1,1H,666.40 ,Simple pass,29,28,30,88
+1,Huskies,Huskies_D1,Huskies_M1,1H,670.79 ,Simple pass,30,88,54,98
+1,Huskies,Huskies_M1,Huskies_D1,1H,672.49 ,Simple pass,54,98,40,88
+1,Huskies,Huskies_D1,Huskies_D2,1H,677.03 ,Simple pass,40,88,39,58
+1,Huskies,Huskies_D2,Huskies_D3,1H,679.63 ,Simple pass,39,58,42,22
+1,Huskies,Huskies_D3,Huskies_D4,1H,681.35 ,Simple pass,42,22,45,7
+1,Opponent1,Opponent1_G1,Opponent1_D3,1H,694.41 ,Hand pass,13,69,28,96
+1,Opponent1,Opponent1_D3,Opponent1_M2,1H,698.00 ,Simple pass,28,96,32,91
+1,Opponent1,Opponent1_M2,Opponent1_G1,1H,699.27 ,Simple pass,32,91,9,64
+1,Huskies,Huskies_M2,Huskies_D4,1H,717.48 ,Simple pass,88,10,94,5
+1,Huskies,Huskies_D4,Huskies_M2,1H,719.44 ,Simple pass,94,5,82,5
+1,Huskies,Huskies_M3,Huskies_D3,1H,763.94 ,Simple pass,31,4,26,15
+1,Huskies,Huskies_D3,Huskies_D2,1H,766.38 ,Simple pass,26,15,28,46
+1,Huskies,Huskies_D2,Huskies_D1,1H,768.96 ,Simple pass,28,46,27,75
+1,Huskies,Huskies_M1,Huskies_F2,1H,831.33 ,Simple pass,20,54,23,63
+1,Huskies,Huskies_F2,Huskies_F1,1H,833.17 ,Head pass,23,63,31,97
+1,Huskies,Huskies_F3,Huskies_M2,1H,876.59 ,Simple pass,41,13,37,25
+1,Huskies,Huskies_M2,Huskies_F3,1H,877.62 ,Simple pass,37,25,44,11
+1,Huskies,Huskies_D3,Huskies_F3,1H,888.41 ,High pass,43,40,76,8
+1,Opponent1,Opponent1_G1,Opponent1_D2,1H,907.77 ,Simple pass,19,61,42,16
+1,Opponent1,Opponent1_D2,Opponent1_F1,1H,911.12 ,High pass,42,16,85,48
+1,Huskies,Huskies_D1,Huskies_F3,1H,918.98 ,Simple pass,29,79,54,51
+1,Huskies,Huskies_D2,Huskies_D1,1H,940.15 ,Simple pass,28,49,27,80
+1,Opponent1,Opponent1_F2,Opponent1_M1,1H,948.63 ,Simple pass,30,16,37,33
+1,Opponent1,Opponent1_M1,Opponent1_M2,1H,952.73 ,Simple pass,37,33,47,54
+1,Opponent1,Opponent1_M1,Opponent1_F1,1H,974.16 ,Simple pass,58,10,73,15
+1,Huskies,Huskies_M2,Huskies_D2,1H,977.64 ,Simple pass,36,73,27,85
+1,Opponent1,Opponent1_F1,Opponent1_M1,1H,978.08 ,Simple pass,71,20,56,26
+1,Opponent1,Opponent1_M1,Opponent1_D3,1H,978.89 ,Simple pass,56,26,63,60
+1,Opponent1,Opponent1_D3,Opponent1_M1,1H,983.65 ,Simple pass,63,60,60,36
+1,Opponent1,Opponent1_M1,Opponent1_M2,1H,987.19 ,Simple pass,60,36,71,67
+1,Opponent1,Opponent1_M2,Opponent1_D3,1H,989.24 ,Simple pass,71,67,57,71
+1,Opponent1,Opponent1_D3,Opponent1_M1,1H,991.23 ,Simple pass,57,71,55,52
+1,Opponent1,Opponent1_M1,Opponent1_D2,1H,995.01 ,Simple pass,55,52,58,32
+1,Opponent1,Opponent1_D2,Opponent1_M3,1H,997.71 ,Simple pass,58,32,65,40
+1,Opponent1,Opponent1_M3,Opponent1_M1,1H,999.24 ,Simple pass,65,40,64,56
+1,Opponent1,Opponent1_M1,Opponent1_D2,1H,1002.01 ,Simple pass,64,56,75,30
+1,Opponent1,Opponent1_D2,Opponent1_F2,1H,1003.71 ,Simple pass,75,30,72,59
+1,Opponent1,Opponent1_M2,Opponent1_M2,1H,1017.85 ,Simple pass,78,18,74,8
+1,Opponent1,Opponent1_M2,Opponent1_M1,1H,1018.98 ,Simple pass,74,8,64,40
+1,Opponent1,Opponent1_M1,Opponent1_F2,1H,1024.13 ,Simple pass,64,40,69,58
+1,Opponent1,Opponent1_F2,Opponent1_M1,1H,1025.49 ,Simple pass,69,58,64,53
+1,Opponent1,Opponent1_M1,Opponent1_D3,1H,1026.60 ,Simple pass,64,53,74,83
+1,Opponent1,Opponent1_D3,Opponent1_F2,1H,1032.13 ,Simple pass,74,83,66,67
+1,Opponent1,Opponent1_M3,Opponent1_D3,1H,1048.46 ,Simple pass,80,79,80,84
+1,Huskies,Huskies_D3,Huskies_G1,1H,1080.53 ,Simple pass,15,18,13,45
+1,Huskies,Huskies_G1,Huskies_M1,1H,1083.67 ,High pass,13,45,39,97
+1,Huskies,Huskies_M1,Huskies_D1,1H,1086.55 ,Head pass,39,97,31,77
+1,Huskies,Huskies_D1,Huskies_M3,1H,1088.35 ,Simple pass,31,77,33,47
+1,Huskies,Huskies_M3,Huskies_D3,1H,1092.13 ,Simple pass,33,47,29,12
+1,Huskies,Huskies_D3,Huskies_D4,1H,1098.11 ,Simple pass,71,8,72,7
+1,Huskies,Huskies_D3,Huskies_D1,1H,1114.35 ,Simple pass,58,8,41,73
+1,Huskies,Huskies_M3,Huskies_M1,1H,1124.06 ,Simple pass,62,62,62,72
+1,Huskies,Huskies_M1,Huskies_F2,1H,1128.90 ,Simple pass,62,72,70,78
+1,Huskies,Huskies_F2,Huskies_M1,1H,1129.81 ,Simple pass,70,78,74,60
+1,Huskies,Huskies_M1,Huskies_F1,1H,1145.63 ,Simple pass,65,96,70,98
+1,Huskies,Huskies_F1,Huskies_F2,1H,1148.50 ,Simple pass,70,98,68,83
+1,Huskies,Huskies_F2,Huskies_D3,1H,1150.56 ,Simple pass,68,83,66,38
+1,Huskies,Huskies_D3,Huskies_D4,1H,1154.05 ,Simple pass,66,38,79,4
+1,Huskies,Huskies_M2,Huskies_M1,1H,1184.20 ,Simple pass,70,8,65,61
+1,Opponent1,Opponent1_D2,Opponent1_G1,1H,1212.75 ,Simple pass,33,14,18,55
+1,Opponent1,Opponent1_G1,Opponent1_F3,1H,1228.92 ,Launch,18,55,76,88
+1,Huskies,Huskies_M3,Huskies_D4,1H,1234.89 ,Simple pass,28,19,19,5
+1,Huskies,Huskies_D4,Huskies_D2,1H,1237.06 ,Simple pass,19,5,21,39
+1,Huskies,Huskies_D2,Huskies_D1,1H,1240.20 ,Simple pass,21,39,27,76
+1,Huskies,Huskies_D1,Huskies_M1,1H,1243.28 ,Simple pass,27,76,40,96
+1,Huskies,Huskies_M1,Huskies_F1,1H,1246.98 ,High pass,40,96,74,98
+1,Huskies,Huskies_M2,Huskies_G1,1H,1285.76 ,Head pass,29,52,12,43
+1,Huskies,Huskies_G1,Huskies_M1,1H,1299.23 ,High pass,12,43,44,81
+1,Huskies,Huskies_M1,Huskies_F2,1H,1304.93 ,Simple pass,44,81,49,75
+1,Huskies,Huskies_F2,Huskies_D1,1H,1306.59 ,Simple pass,49,75,34,80
+1,Huskies,Huskies_D1,Huskies_D2,1H,1308.75 ,Simple pass,34,80,28,51
+1,Huskies,Huskies_D2,Huskies_D3,1H,1311.03 ,Simple pass,28,51,38,24
+1,Huskies,Huskies_D3,Huskies_M1,1H,1314.93 ,Simple pass,38,24,42,67
+1,Huskies,Huskies_M1,Huskies_F2,1H,1317.25 ,Simple pass,42,67,54,92
+1,Huskies,Huskies_F2,Huskies_M1,1H,1318.78 ,Simple pass,54,92,61,79
+1,Huskies,Huskies_F1,Huskies_F2,1H,1323.78 ,Simple pass,70,98,72,100
+1,Huskies,Huskies_F3,Huskies_D2,1H,1336.83 ,Simple pass,60,92,53,78
+1,Huskies,Huskies_D2,Huskies_D3,1H,1338.62 ,Simple pass,53,78,61,18
+1,Huskies,Huskies_D3,Huskies_M3,1H,1342.79 ,Simple pass,61,18,55,51
+1,Huskies,Huskies_M3,Huskies_M1,1H,1347.36 ,Simple pass,55,51,51,68
+1,Huskies,Huskies_M1,Huskies_D1,1H,1351.19 ,Simple pass,51,68,62,99
+1,Huskies,Huskies_D1,Huskies_M1,1H,1355.64 ,Simple pass,62,99,58,93
+1,Huskies,Huskies_M1,Huskies_D2,1H,1357.80 ,Simple pass,58,93,45,60
+1,Huskies,Huskies_D2,Huskies_D3,1H,1360.51 ,Simple pass,45,60,53,29
+1,Huskies,Huskies_D3,Huskies_M2,1H,1364.55 ,Simple pass,53,29,65,22
+1,Huskies,Huskies_M2,Huskies_M3,1H,1365.51 ,Simple pass,65,22,59,37
+1,Huskies,Huskies_M3,Huskies_M2,1H,1367.82 ,Simple pass,60,33,57,23
+1,Huskies,Huskies_M2,Huskies_M3,1H,1368.15 ,Simple pass,57,23,68,7
+1,Huskies,Huskies_M3,Huskies_D3,1H,1371.36 ,Simple pass,68,7,51,20
+1,Huskies,Huskies_D3,Huskies_D2,1H,1373.94 ,Simple pass,51,20,47,56
+1,Huskies,Huskies_D2,Huskies_D1,1H,1377.04 ,Simple pass,47,56,60,87
+1,Huskies,Huskies_D1,Huskies_F1,1H,1380.19 ,Simple pass,60,87,68,97
+1,Huskies,Huskies_F1,Huskies_D1,1H,1382.38 ,Simple pass,68,97,89,96
+1,Huskies,Huskies_D1,Huskies_D4,1H,1384.76 ,Cross,89,96,98,3
+1,Huskies,Huskies_M2,Huskies_D4,1H,1480.76 ,Simple pass,50,13,50,7
+1,Huskies,Huskies_D4,Huskies_D3,1H,1482.47 ,Simple pass,50,7,39,15
+1,Huskies,Huskies_F3,Huskies_D3,1H,1497.02 ,Simple pass,57,10,53,5
+1,Huskies,Huskies_D3,Huskies_G1,1H,1539.32 ,Simple pass,11,18,3,33
+1,Huskies,Huskies_G1,Huskies_F1,1H,1542.46 ,High pass,3,33,39,98
+1,Huskies,Huskies_F2,Huskies_M3,1H,1563.57 ,Simple pass,53,75,41,75
+1,Huskies,Huskies_M3,Huskies_D1,1H,1565.58 ,Simple pass,41,75,35,79
+1,Huskies,Huskies_D1,Huskies_D2,1H,1566.80 ,Simple pass,35,79,31,47
+1,Huskies,Huskies_D2,Huskies_D3,1H,1569.29 ,Simple pass,31,47,43,12
+1,Huskies,Huskies_D3,Huskies_M2,1H,1573.21 ,Simple pass,43,12,61,17
+1,Huskies,Huskies_M2,Huskies_D3,1H,1574.78 ,Simple pass,61,17,58,39
+1,Huskies,Huskies_D3,Huskies_M1,1H,1577.21 ,Simple pass,58,39,47,71
+1,Huskies,Huskies_M1,Huskies_M3,1H,1587.21 ,Simple pass,47,71,40,81
+1,Huskies,Huskies_M3,Huskies_D2,1H,1589.20 ,Simple pass,40,81,48,31
+1,Huskies,Huskies_D2,Huskies_F2,1H,1591.55 ,Simple pass,48,31,48,26
+1,Huskies,Huskies_F2,Huskies_D3,1H,1598.03 ,Simple pass,48,26,66,7
+1,Huskies,Huskies_M1,Huskies_F2,1H,1633.13 ,Simple pass,47,42,56,34
+1,Huskies,Huskies_F2,Huskies_D4,1H,1637.29 ,Simple pass,71,25,80,5
+1,Huskies,Huskies_D4,Huskies_F2,1H,1640.15 ,Simple pass,80,5,74,25
+1,Huskies,Huskies_G1,Huskies_D1,1H,1657.17 ,Hand pass,9,27,38,81
+1,Huskies,Huskies_D1,Huskies_D2,1H,1665.27 ,Simple pass,38,81,33,54
+1,Huskies,Huskies_D2,Huskies_D1,1H,1669.64 ,Simple pass,33,54,39,80
+1,Huskies,Huskies_D1,Huskies_F2,1H,1671.45 ,Simple pass,39,80,51,93
+1,Huskies,Huskies_F2,Huskies_D1,1H,1673.21 ,Simple pass,51,93,42,85
+1,Huskies,Huskies_D1,Huskies_D2,1H,1677.42 ,Simple pass,42,85,35,57
+1,Huskies,Huskies_D2,Huskies_D3,1H,1679.75 ,Simple pass,35,57,46,19
+1,Huskies,Huskies_D3,Huskies_D4,1H,1683.93 ,Simple pass,46,19,49,5
+1,Huskies,Huskies_D4,Huskies_M3,1H,1685.59 ,Simple pass,49,5,55,18
+1,Huskies,Huskies_M3,Huskies_M2,1H,1687.03 ,Simple pass,55,18,57,13
+1,Huskies,Huskies_M2,Huskies_D4,1H,1688.52 ,Simple pass,57,13,50,6
+1,Opponent1,Opponent1_M1,Opponent1_M2,1H,1693.23 ,Simple pass,38,72,62,67
+1,Huskies,Huskies_M2,Huskies_F1,1H,1704.04 ,Simple pass,23,76,47,96
+1,Huskies,Huskies_M1,Huskies_M3,1H,1746.90 ,Simple pass,56,75,54,40
+1,Huskies,Huskies_M3,Huskies_D3,1H,1750.19 ,Simple pass,54,40,59,13
+1,Huskies,Huskies_D3,Huskies_D2,1H,1754.90 ,Simple pass,59,13,59,52
+1,Huskies,Huskies_D2,Huskies_F2,1H,1757.48 ,Simple pass,59,52,63,87
+1,Opponent1,Opponent1_F1,Opponent1_F2,1H,1791.10 ,Simple pass,79,14,68,18
+1,Opponent1,Opponent1_F2,Opponent1_D4,1H,1794.18 ,Simple pass,68,18,51,49
+1,Opponent1,Opponent1_D4,Opponent1_M1,1H,1797.15 ,Simple pass,51,49,54,57
+1,Opponent1,Opponent1_M1,Opponent1_F1,1H,1799.10 ,High pass,54,57,90,15
+1,Opponent1,Opponent1_F1,Opponent1_D1,1H,1804.67 ,Simple pass,90,15,73,8
+1,Opponent1,Opponent1_D1,Opponent1_F2,1H,1808.43 ,Simple pass,73,8,82,23
+1,Huskies,Huskies_D2,Huskies_G1,1H,1812.95 ,Simple pass,9,76,8,51
+1,Huskies,Huskies_G1,Huskies_M1,1H,1822.71 ,High pass,8,51,37,97
+1,Huskies,Huskies_M1,Huskies_D1,1H,1826.66 ,Simple pass,37,97,23,88
+1,Huskies,Huskies_D1,Huskies_D2,1H,1829.70 ,Simple pass,23,88,30,56
+1,Huskies,Huskies_D2,Huskies_D3,1H,1832.54 ,Simple pass,30,56,32,15
+1,Huskies,Huskies_D3,Huskies_M3,1H,1836.67 ,Simple pass,32,15,31,30
+1,Huskies,Huskies_M3,Huskies_D2,1H,1838.56 ,Simple pass,31,30,24,66
+1,Huskies,Huskies_D2,Huskies_D1,1H,1841.35 ,Simple pass,24,66,29,87
+1,Huskies,Huskies_D1,Huskies_M1,1H,1846.85 ,Simple pass,49,89,60,96
+1,Huskies,Huskies_M1,Huskies_D1,1H,1848.00 ,Simple pass,60,96,59,88
+1,Huskies,Huskies_D1,Huskies_M1,1H,1851.74 ,Simple pass,59,88,59,96
+1,Huskies,Huskies_M1,Huskies_F1,1H,1855.77 ,Simple pass,59,96,65,97
+1,Huskies,Huskies_F1,Huskies_M1,1H,1857.83 ,Simple pass,65,97,35,98
+1,Huskies,Huskies_M1,Huskies_D1,1H,1860.40 ,Simple pass,35,98,42,75
+1,Huskies,Huskies_D1,Huskies_D2,1H,1863.16 ,Simple pass,42,75,36,49
+1,Huskies,Huskies_D2,Huskies_D3,1H,1867.03 ,Simple pass,36,49,43,7
+1,Huskies,Huskies_D3,Huskies_F2,1H,1871.08 ,Simple pass,43,7,62,15
+1,Huskies,Huskies_F2,Huskies_D3,1H,1877.42 ,Simple pass,62,15,46,15
+1,Huskies,Huskies_D3,Huskies_M1,1H,1880.03 ,Simple pass,46,15,52,50
+1,Huskies,Huskies_M3,Huskies_D1,1H,1888.72 ,Simple pass,58,56,58,90
+1,Huskies,Huskies_D1,Huskies_M3,1H,1893.36 ,Simple pass,58,90,59,71
+1,Huskies,Huskies_M3,Huskies_D1,1H,1897.04 ,Simple pass,59,71,59,97
+1,Opponent1,Opponent1_M2,Opponent1_M1,1H,1999.18 ,Simple pass,91,93,84,92
+1,Opponent1,Opponent1_F2,Opponent1_D1,1H,2033.79 ,Simple pass,78,81,53,54
+1,Opponent1,Opponent1_D1,Opponent1_M3,1H,2037.29 ,Simple pass,53,54,58,34
+1,Opponent1,Opponent1_M3,Opponent1_D2,1H,2078.86 ,Simple pass,30,16,14,25
+1,Opponent1,Opponent1_D2,Opponent1_F1,1H,2080.27 ,High pass,14,25,54,28
+1,Huskies,Huskies_M1,Huskies_M3,1H,2118.76 ,Simple pass,39,96,43,88
+1,Huskies,Huskies_M3,Huskies_M1,1H,2119.15 ,Simple pass,43,88,38,91
+1,Huskies,Huskies_M1,Huskies_D2,1H,2120.05 ,Simple pass,38,91,27,57
+1,Huskies,Huskies_D2,Huskies_D1,1H,2121.20 ,Simple pass,27,57,27,90
+1,Huskies,Huskies_D1,Huskies_D3,1H,2123.42 ,High pass,27,90,31,13
+1,Huskies,Huskies_M2,Huskies_M3,1H,2156.89 ,Simple pass,42,18,44,23
+1,Opponent1,Opponent1_D3,Opponent1_D2,1H,2160.65 ,Simple pass,30,78,31,30
+1,Opponent1,Opponent1_D2,Opponent1_D1,1H,2164.44 ,Simple pass,31,30,34,14
+1,Opponent1,Opponent1_D1,Opponent1_F2,1H,2169.75 ,Simple pass,34,14,42,9
+1,Opponent1,Opponent1_F2,Opponent1_D2,1H,2171.98 ,Simple pass,42,9,43,6
+1,Huskies,Huskies_D2,Huskies_F1,1H,2179.71 ,Head pass,34,95,26,99
+1,Huskies,Huskies_F1,Huskies_D1,1H,2183.02 ,Simple pass,26,99,27,90
+1,Huskies,Huskies_D1,Huskies_D2,1H,2184.71 ,Simple pass,27,90,19,73
+1,Huskies,Huskies_D2,Huskies_D3,1H,2187.71 ,Simple pass,19,73,20,24
+1,Huskies,Huskies_D3,Huskies_M3,1H,2190.10 ,Simple pass,20,24,33,53
+1,Huskies,Huskies_M3,Huskies_M2,1H,2198.16 ,Simple pass,59,28,55,12
+1,Opponent1,Opponent1_M3,Opponent1_F2,1H,2203.71 ,Simple pass,34,63,42,37
+1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2207.64 ,Simple pass,47,53,47,64
+1,Opponent1,Opponent1_M1,Opponent1_D1,1H,2210.24 ,High pass,47,64,99,16
+1,Huskies,Huskies_D1,Huskies_M2,1H,2218.92 ,Simple pass,4,72,21,69
+1,Huskies,Huskies_M2,Huskies_M3,1H,2223.95 ,Simple pass,44,65,36,54
+1,Huskies,Huskies_M3,Huskies_F2,1H,2226.61 ,Simple pass,36,54,44,52
+1,Huskies,Huskies_D2,Huskies_D3,1H,2259.10 ,Simple pass,47,56,59,27
+1,Huskies,Huskies_D3,Huskies_D2,1H,2263.27 ,Simple pass,59,27,45,54
+1,Huskies,Huskies_D2,Huskies_D1,1H,2265.89 ,Simple pass,45,54,59,87
+1,Huskies,Huskies_D1,Huskies_M1,1H,2268.48 ,Simple pass,59,87,58,97
+1,Huskies,Huskies_M1,Huskies_F1,1H,2270.66 ,Simple pass,58,97,70,97
+1,Huskies,Huskies_F1,Huskies_F2,1H,2271.21 ,Simple pass,70,97,64,86
+1,Huskies,Huskies_F2,Huskies_M1,1H,2273.20 ,Simple pass,64,86,74,84
+1,Huskies,Huskies_M1,Huskies_F3,1H,2275.34 ,Simple pass,74,84,79,78
+1,Huskies,Huskies_F3,Huskies_F2,1H,2276.35 ,Simple pass,79,78,84,77
+1,Opponent1,Opponent1_D2,Opponent1_M2,1H,2281.56 ,Simple pass,35,35,48,56
+1,Opponent1,Opponent1_M2,Opponent1_D3,1H,2285.97 ,Simple pass,48,56,59,88
+1,Opponent1,Opponent1_D3,Opponent1_F3,1H,2288.09 ,Smart pass,59,88,80,82
+1,Huskies,Huskies_D4,Huskies_M2,1H,2300.89 ,Simple pass,58,50,69,42
+1,Huskies,Huskies_M2,Huskies_F3,1H,2301.74 ,Simple pass,69,42,75,19
+1,Opponent1,Opponent1_M1,Opponent1_M3,1H,2308.14 ,Simple pass,22,63,25,70
+1,Opponent1,Opponent1_M3,Opponent1_M2,1H,2309.19 ,Simple pass,25,70,40,83
+1,Opponent1,Opponent1_M2,Opponent1_F3,1H,2313.46 ,Simple pass,40,83,76,85
+1,Opponent1,Opponent1_F3,Opponent1_M3,1H,2321.86 ,Simple pass,76,85,89,89
+1,Huskies,Huskies_D4,Huskies_D3,1H,2373.70 ,Simple pass,26,5,18,7
+1,Huskies,Huskies_D3,Huskies_F2,1H,2375.29 ,High pass,18,7,55,16
+1,Huskies,Huskies_F2,Huskies_M1,1H,2381.22 ,Simple pass,48,29,50,79
+1,Opponent1,Opponent1_D3,Opponent1_F2,1H,2444.35 ,Simple pass,20,71,40,7
+1,Opponent1,Opponent1_F2,Opponent1_M1,1H,2457.13 ,Simple pass,40,7,41,19
+1,Opponent1,Opponent1_G1,Opponent1_D2,1H,2477.70 ,Simple pass,13,43,42,12
+1,Opponent1,Opponent1_D2,Opponent1_F1,1H,2485.54 ,High pass,42,12,64,17
+1,Opponent1,Opponent1_M1,Opponent1_M3,1H,2608.51 ,Head pass,78,40,77,66
+1,Opponent1,Opponent1_M3,Opponent1_D4,1H,2610.75 ,Cross,77,66,88,45
+1,Huskies,Huskies_D2,Huskies_D1,1H,2636.52 ,Simple pass,31,53,28,78
+1,Huskies,Huskies_D1,Huskies_D2,1H,2642.00 ,Simple pass,28,78,30,50
+1,Huskies,Huskies_D2,Huskies_D3,1H,2644.94 ,Simple pass,30,50,40,13
+1,Huskies,Huskies_D3,Huskies_D4,1H,2646.73 ,Simple pass,40,13,58,4
+1,Opponent1,Opponent1_M2,Opponent1_F2,1H,2652.51 ,Simple pass,53,65,61,50
+1,Opponent1,Opponent1_F2,Opponent1_M3,1H,2654.49 ,Simple pass,61,50,70,53
+1,Opponent1,Opponent1_M3,Opponent1_F2,1H,2658.93 ,Simple pass,70,53,77,80
+1,Huskies,Huskies_F2,Huskies_M1,1H,2694.68 ,Simple pass,35,26,33,43
+1,Huskies,Huskies_M1,Huskies_D1,1H,2696.28 ,Simple pass,33,43,31,81
+1,Huskies,Huskies_D1,Huskies_M1,1H,2702.42 ,Simple pass,47,82,50,73
+1,Huskies,Huskies_M1,Huskies_F2,1H,2705.45 ,Simple pass,59,65,69,68
+1,Huskies,Huskies_F2,Huskies_M1,1H,2706.44 ,Simple pass,69,68,66,76
+1,Huskies,Huskies_F3,Huskies_F1,1H,2710.22 ,Simple pass,79,80,89,96
+1,Huskies,Huskies_F1,Huskies_F2,1H,2712.24 ,Cross,89,96,94,49
+1,Opponent1,Opponent1_M3,Opponent1_D2,1H,2790.00 ,Simple pass,43,62,38,30
+1,Opponent1,Opponent1_D2,Opponent1_M1,1H,2792.95 ,Simple pass,38,30,43,36
+1,Opponent1,Opponent1_M1,Opponent1_D3,1H,2794.58 ,Simple pass,43,36,41,83
+1,Opponent1,Opponent1_D3,Opponent1_D3,1H,2799.12 ,Simple pass,41,83,43,76
+1,Opponent1,Opponent1_D3,Opponent1_D1,1H,2805.26 ,High pass,43,76,89,17
 1,Huskies,Huskies_F2,Huskies_D3,2H,1.615425,Simple pass,50,51,27,30
 1,Huskies,Huskies_D3,Huskies_D1,2H,4.001623,High pass,27,30,41,76
 1,Opponent1,Opponent1_F1,Opponent1_D1,2H,15.24109,Simple pass,89,14,89,7
